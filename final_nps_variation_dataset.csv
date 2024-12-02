@@ -1,0 +1,2443 @@
+Customer_ID,Region,Age,Average_Premium_Paid,NPS_Score,Years_as_Customer,Feedback
+CUST_0001,Rest of Switzerland,47,2063.74,7,14,"Customer service was okay, nothing exceptional."
+CUST_0002,Rest of Switzerland,37,2561.24,8,6,Claims process was average.
+CUST_0003,Ticino,48,3019.33,8,9,Service is fine but could improve in some areas.
+CUST_0004,Rest of Switzerland,35,2489.46,4,11,The policy is overpriced compared to competitors.
+CUST_0005,Rest of Switzerland,30,3576.11,7,8,Claims process was average.
+CUST_0006,Rest of Switzerland,41,2349.1,9,10,I am very satisfied with the claims process.
+CUST_0007,Ticino,59,1713.09,8,5,Service is fine but could improve in some areas.
+CUST_0008,Ticino,40,2098.12,7,12,"Customer service was okay, nothing exceptional."
+CUST_0009,Rest of Switzerland,48,3922.33,6,15,The premiums are too expensive for what is offered.
+CUST_0010,Rest of Switzerland,25,3437.11,4,7,Claims handling took too long.
+CUST_0011,Rest of Switzerland,42,2351.35,9,10,Customer service was very supportive.
+CUST_0012,Rest of Switzerland,32,1906.28,6,14,The premiums are too expensive for what is offered.
+CUST_0013,Rest of Switzerland,44,3946.25,8,8,The policy is decent but not outstanding.
+CUST_0014,Rest of Switzerland,40,2015.34,6,3,Claims handling took too long.
+CUST_0015,Rest of Switzerland,42,5694.04,6,10,The policy is overpriced compared to competitors.
+CUST_0016,Ticino,59,1890.29,8,7,Pricing is similar to other companies.
+CUST_0017,Rest of Switzerland,42,2016.77,4,11,The policy is overpriced compared to competitors.
+CUST_0018,Rest of Switzerland,43,3079.45,8,14,Pricing is similar to other companies.
+CUST_0019,Rest of Switzerland,40,3313.78,4,9,Unhappy with the claims resolution process.
+CUST_0020,Rest of Switzerland,46,2946.84,8,7,Pricing is similar to other companies.
+CUST_0021,Rest of Switzerland,40,1800.42,7,8,Claims process was average.
+CUST_0022,Rest of Switzerland,35,2925.11,4,16,Unhappy with the claims resolution process.
+CUST_0023,Rest of Switzerland,36,3771.28,4,11,Unhappy with the claims resolution process.
+CUST_0024,Ticino,58,1747.96,8,7,"Customer service was okay, nothing exceptional."
+CUST_0025,Ticino,51,1154.44,9,12,Competitive pricing for a comprehensive policy.
+CUST_0026,Ticino,47,3485.48,7,10,Claims process was average.
+CUST_0027,Rest of Switzerland,44,2165.81,8,10,Service is fine but could improve in some areas.
+CUST_0028,Rest of Switzerland,32,2274.67,9,3,Competitive pricing for a comprehensive policy.
+CUST_0029,Rest of Switzerland,39,4950.66,9,10,Great value for the premium paid!
+CUST_0030,Rest of Switzerland,48,5347.54,9,10,Customer service was very supportive.
+CUST_0031,Rest of Switzerland,46,1596.28,5,2,Customer service was unresponsive.
+CUST_0032,Rest of Switzerland,41,2043.54,4,15,Unhappy with the claims resolution process.
+CUST_0033,Rest of Switzerland,35,1998.58,8,3,Service is fine but could improve in some areas.
+CUST_0034,Rest of Switzerland,35,2497.87,6,4,Unhappy with the claims resolution process.
+CUST_0035,Rest of Switzerland,37,4421.47,4,10,Customer service was unresponsive.
+CUST_0036,Rest of Switzerland,30,3788.45,8,12,Service is fine but could improve in some areas.
+CUST_0037,Rest of Switzerland,40,2295.18,8,7,Claims process was average.
+CUST_0038,Ticino,50,3248.87,6,4,The premiums are too expensive for what is offered.
+CUST_0039,Rest of Switzerland,36,3826.48,9,11,Competitive pricing for a comprehensive policy.
+CUST_0040,Rest of Switzerland,51,2873.09,7,5,"Customer service was okay, nothing exceptional."
+CUST_0041,Ticino,45,2441.49,6,10,Customer service was unresponsive.
+CUST_0042,Rest of Switzerland,36,3343.09,6,15,Claims handling took too long.
+CUST_0043,Rest of Switzerland,41,1802.92,9,5,Competitive pricing for a comprehensive policy.
+CUST_0044,Rest of Switzerland,35,1486.31,6,3,Customer service was unresponsive.
+CUST_0045,Ticino,56,2544.04,9,11,Customer service was very supportive.
+CUST_0046,Rest of Switzerland,47,3327.31,5,5,The premiums are too expensive for what is offered.
+CUST_0047,Ticino,51,2255.02,10,10,Competitive pricing for a comprehensive policy.
+CUST_0048,Rest of Switzerland,30,2030.32,9,2,Competitive pricing for a comprehensive policy.
+CUST_0049,Rest of Switzerland,36,1883.21,5,9,The premiums are too expensive for what is offered.
+CUST_0050,Rest of Switzerland,42,3161.87,7,4,Service is fine but could improve in some areas.
+CUST_0051,Ticino,51,3092.2,10,13,Great value for the premium paid!
+CUST_0052,Rest of Switzerland,42,1219.33,6,6,The policy is overpriced compared to competitors.
+CUST_0053,Rest of Switzerland,35,3057.14,4,19,Unhappy with the claims resolution process.
+CUST_0054,Ticino,50,1691.15,7,14,Claims process was average.
+CUST_0055,Ticino,53,1081.45,10,14,Customer service was very supportive.
+CUST_0056,Rest of Switzerland,25,3722.16,3,14,Claims handling took too long.
+CUST_0057,Rest of Switzerland,35,3802.73,8,13,"Customer service was okay, nothing exceptional."
+CUST_0058,Rest of Switzerland,33,4245.3,9,3,Competitive pricing for a comprehensive policy.
+CUST_0059,Rest of Switzerland,41,3643.55,6,3,Claims handling took too long.
+CUST_0060,Ticino,54,3250.05,8,5,Claims process was average.
+CUST_0061,Rest of Switzerland,39,3023.76,5,12,Unhappy with the claims resolution process.
+CUST_0062,Rest of Switzerland,47,3215.34,7,4,The policy is decent but not outstanding.
+CUST_0063,Rest of Switzerland,34,2670.58,4,7,Customer service was unresponsive.
+CUST_0064,Ticino,53,2632.2,6,4,Customer service was unresponsive.
+CUST_0065,Ticino,50,2874.13,8,6,Claims process was average.
+CUST_0066,Rest of Switzerland,42,2061.18,9,4,Competitive pricing for a comprehensive policy.
+CUST_0067,Ticino,63,1319.88,7,2,Claims process was average.
+CUST_0068,Rest of Switzerland,40,4418.09,9,5,I am very satisfied with the claims process.
+CUST_0069,Ticino,54,2532.01,8,7,Claims process was average.
+CUST_0070,Rest of Switzerland,34,3148.26,8,4,"Customer service was okay, nothing exceptional."
+CUST_0071,Rest of Switzerland,50,4186.72,5,5,Customer service was unresponsive.
+CUST_0072,Rest of Switzerland,45,4754.21,4,11,The policy is overpriced compared to competitors.
+CUST_0073,Rest of Switzerland,40,3711.83,5,13,The premiums are too expensive for what is offered.
+CUST_0074,Ticino,50,2719.11,9,8,Claims were handled quickly and efficiently.
+CUST_0075,Rest of Switzerland,35,4382.81,8,16,Pricing is similar to other companies.
+CUST_0076,Rest of Switzerland,28,2536.14,3,10,Claims handling took too long.
+CUST_0077,Rest of Switzerland,37,2616.44,6,10,The policy is overpriced compared to competitors.
+CUST_0078,Rest of Switzerland,42,2815.97,7,4,Pricing is similar to other companies.
+CUST_0079,Rest of Switzerland,35,2277.96,7,10,Pricing is similar to other companies.
+CUST_0080,Rest of Switzerland,32,2260.84,7,5,Service is fine but could improve in some areas.
+CUST_0081,Rest of Switzerland,36,3243.72,5,9,The policy is overpriced compared to competitors.
+CUST_0082,Rest of Switzerland,47,2210.1,5,11,Claims handling took too long.
+CUST_0083,Rest of Switzerland,47,4115.44,4,15,Claims handling took too long.
+CUST_0084,Rest of Switzerland,41,2522.95,7,14,Pricing is similar to other companies.
+CUST_0085,Rest of Switzerland,37,3348.29,9,16,Claims were handled quickly and efficiently.
+CUST_0086,Rest of Switzerland,46,3610.58,9,17,Customer service was very supportive.
+CUST_0087,Rest of Switzerland,37,2893.73,4,14,Unhappy with the claims resolution process.
+CUST_0088,Ticino,63,2557.0,8,7,Pricing is similar to other companies.
+CUST_0089,Rest of Switzerland,35,1840.84,5,6,The premiums are too expensive for what is offered.
+CUST_0090,Rest of Switzerland,51,5399.28,6,13,Customer service was unresponsive.
+CUST_0091,Rest of Switzerland,39,3735.19,8,11,"Customer service was okay, nothing exceptional."
+CUST_0092,Ticino,50,2166.95,9,8,Claims were handled quickly and efficiently.
+CUST_0093,Ticino,60,3070.13,10,4,Great value for the premium paid!
+CUST_0094,Ticino,63,2307.5,10,3,I am very satisfied with the claims process.
+CUST_0095,Rest of Switzerland,44,5358.12,5,10,Unhappy with the claims resolution process.
+CUST_0096,Rest of Switzerland,30,5306.4,4,9,The policy is overpriced compared to competitors.
+CUST_0097,Rest of Switzerland,40,2896.86,4,4,The policy is overpriced compared to competitors.
+CUST_0098,Rest of Switzerland,39,5269.03,9,15,Great value for the premium paid!
+CUST_0099,Rest of Switzerland,50,2605.56,5,3,Claims handling took too long.
+CUST_0100,Ticino,64,2317.98,7,8,Service is fine but could improve in some areas.
+CUST_0101,Ticino,64,2580.19,10,11,Customer service was very supportive.
+CUST_0102,Rest of Switzerland,41,2476.88,4,9,Unhappy with the claims resolution process.
+CUST_0103,Rest of Switzerland,43,2980.78,6,15,Unhappy with the claims resolution process.
+CUST_0104,Rest of Switzerland,51,1245.62,7,12,Pricing is similar to other companies.
+CUST_0105,Rest of Switzerland,39,1902.78,4,12,The premiums are too expensive for what is offered.
+CUST_0106,Rest of Switzerland,33,2458.51,9,2,Customer service was very supportive.
+CUST_0107,Rest of Switzerland,28,3498.56,5,19,The premiums are too expensive for what is offered.
+CUST_0108,Rest of Switzerland,36,1006.8,7,7,Pricing is similar to other companies.
+CUST_0109,Rest of Switzerland,28,1717.34,7,10,"Customer service was okay, nothing exceptional."
+CUST_0110,Rest of Switzerland,44,1195.96,8,5,The policy is decent but not outstanding.
+CUST_0111,Rest of Switzerland,48,2997.7,4,4,Unhappy with the claims resolution process.
+CUST_0112,Rest of Switzerland,43,4143.22,9,10,Claims were handled quickly and efficiently.
+CUST_0113,Ticino,66,1758.08,9,7,Great value for the premium paid!
+CUST_0114,Rest of Switzerland,33,2862.74,4,18,The premiums are too expensive for what is offered.
+CUST_0115,Rest of Switzerland,36,2030.09,4,16,Customer service was unresponsive.
+CUST_0116,Rest of Switzerland,43,3412.42,4,1,The policy is overpriced compared to competitors.
+CUST_0117,Rest of Switzerland,34,3725.24,8,6,"Customer service was okay, nothing exceptional."
+CUST_0118,Ticino,48,1112.11,7,4,Service is fine but could improve in some areas.
+CUST_0119,Rest of Switzerland,44,2116.7,7,9,Claims process was average.
+CUST_0120,Rest of Switzerland,43,1956.97,7,18,Service is fine but could improve in some areas.
+CUST_0121,Rest of Switzerland,46,2808.7,6,15,Unhappy with the claims resolution process.
+CUST_0122,Rest of Switzerland,36,4487.03,7,8,Service is fine but could improve in some areas.
+CUST_0123,Rest of Switzerland,45,1714.63,9,12,Claims were handled quickly and efficiently.
+CUST_0124,Rest of Switzerland,46,4517.14,5,11,Unhappy with the claims resolution process.
+CUST_0125,Rest of Switzerland,31,2645.22,7,13,"Customer service was okay, nothing exceptional."
+CUST_0126,Rest of Switzerland,40,1293.07,7,16,Claims process was average.
+CUST_0127,Rest of Switzerland,35,2017.7,8,4,Claims process was average.
+CUST_0128,Rest of Switzerland,50,2501.77,7,6,Pricing is similar to other companies.
+CUST_0129,Rest of Switzerland,40,1556.45,7,1,Service is fine but could improve in some areas.
+CUST_0130,Rest of Switzerland,34,3879.73,8,11,"Customer service was okay, nothing exceptional."
+CUST_0131,Ticino,54,1373.89,7,7,The policy is decent but not outstanding.
+CUST_0132,Rest of Switzerland,25,4432.2,6,11,Unhappy with the claims resolution process.
+CUST_0133,Rest of Switzerland,34,4478.26,8,15,Pricing is similar to other companies.
+CUST_0134,Rest of Switzerland,42,2105.14,5,8,Unhappy with the claims resolution process.
+CUST_0135,Rest of Switzerland,32,3931.44,6,16,Claims handling took too long.
+CUST_0136,Rest of Switzerland,32,1644.53,4,11,The premiums are too expensive for what is offered.
+CUST_0137,Rest of Switzerland,45,1595.34,9,5,I am very satisfied with the claims process.
+CUST_0138,Rest of Switzerland,33,1859.75,6,10,Claims handling took too long.
+CUST_0139,Rest of Switzerland,40,4848.76,9,12,I am very satisfied with the claims process.
+CUST_0140,Rest of Switzerland,42,1429.74,6,7,Unhappy with the claims resolution process.
+CUST_0141,Rest of Switzerland,36,1647.53,6,12,The policy is overpriced compared to competitors.
+CUST_0142,Rest of Switzerland,32,1512.6,6,11,The policy is overpriced compared to competitors.
+CUST_0143,Rest of Switzerland,39,3693.8,5,7,Unhappy with the claims resolution process.
+CUST_0144,Rest of Switzerland,39,5330.23,9,9,Claims were handled quickly and efficiently.
+CUST_0145,Rest of Switzerland,54,4078.2,9,5,Competitive pricing for a comprehensive policy.
+CUST_0146,Rest of Switzerland,32,3259.75,9,17,Customer service was very supportive.
+CUST_0147,Rest of Switzerland,40,4103.23,8,14,The policy is decent but not outstanding.
+CUST_0148,Rest of Switzerland,33,3603.2,9,20,Claims were handled quickly and efficiently.
+CUST_0149,Rest of Switzerland,35,3879.71,5,11,The premiums are too expensive for what is offered.
+CUST_0150,Rest of Switzerland,46,2571.2,5,7,Customer service was unresponsive.
+CUST_0151,Rest of Switzerland,37,2840.41,6,14,Customer service was unresponsive.
+CUST_0152,Rest of Switzerland,38,2301.32,5,5,The premiums are too expensive for what is offered.
+CUST_0153,Rest of Switzerland,37,3563.4,8,1,The policy is decent but not outstanding.
+CUST_0154,Ticino,53,3276.94,6,12,The policy is overpriced compared to competitors.
+CUST_0155,Rest of Switzerland,49,5095.99,8,7,"Customer service was okay, nothing exceptional."
+CUST_0156,Ticino,63,2991.6,10,13,Competitive pricing for a comprehensive policy.
+CUST_0157,Ticino,50,2254.74,8,12,"Customer service was okay, nothing exceptional."
+CUST_0158,Rest of Switzerland,40,2848.33,8,14,The policy is decent but not outstanding.
+CUST_0159,Rest of Switzerland,41,2689.72,4,12,The policy is overpriced compared to competitors.
+CUST_0160,Rest of Switzerland,31,2527.09,5,11,Claims handling took too long.
+CUST_0161,Rest of Switzerland,34,4764.92,4,11,Claims handling took too long.
+CUST_0162,Rest of Switzerland,29,1992.98,4,3,Customer service was unresponsive.
+CUST_0163,Rest of Switzerland,42,5198.1,6,10,Customer service was unresponsive.
+CUST_0164,Ticino,53,1228.91,9,8,Customer service was very supportive.
+CUST_0165,Rest of Switzerland,45,1590.97,8,17,Service is fine but could improve in some areas.
+CUST_0166,Rest of Switzerland,39,5511.6,8,10,Service is fine but could improve in some areas.
+CUST_0167,Rest of Switzerland,37,3280.36,5,11,Claims handling took too long.
+CUST_0168,Ticino,48,3488.38,9,8,Claims were handled quickly and efficiently.
+CUST_0169,Rest of Switzerland,35,1087.06,9,6,I am very satisfied with the claims process.
+CUST_0170,Rest of Switzerland,39,4647.9,6,10,Customer service was unresponsive.
+CUST_0171,Ticino,66,1090.03,8,11,Pricing is similar to other companies.
+CUST_0172,Ticino,45,2091.1,7,4,Claims process was average.
+CUST_0173,Rest of Switzerland,42,1731.66,5,11,Customer service was unresponsive.
+CUST_0174,Rest of Switzerland,36,3204.43,6,16,The policy is overpriced compared to competitors.
+CUST_0175,Rest of Switzerland,33,2377.85,7,9,"Customer service was okay, nothing exceptional."
+CUST_0176,Rest of Switzerland,48,4379.57,4,4,The premiums are too expensive for what is offered.
+CUST_0177,Rest of Switzerland,37,3290.93,4,3,Claims handling took too long.
+CUST_0178,Rest of Switzerland,36,2148.18,6,10,The premiums are too expensive for what is offered.
+CUST_0179,Rest of Switzerland,43,2953.81,6,9,The premiums are too expensive for what is offered.
+CUST_0180,Ticino,50,2407.57,8,11,The policy is decent but not outstanding.
+CUST_0181,Rest of Switzerland,38,4853.74,5,19,The premiums are too expensive for what is offered.
+CUST_0182,Rest of Switzerland,48,3761.28,4,20,The premiums are too expensive for what is offered.
+CUST_0183,Ticino,55,2084.32,9,5,Great value for the premium paid!
+CUST_0184,Rest of Switzerland,54,5181.01,8,12,Service is fine but could improve in some areas.
+CUST_0185,Rest of Switzerland,43,2706.94,5,11,The premiums are too expensive for what is offered.
+CUST_0186,Rest of Switzerland,47,1848.89,8,6,The policy is decent but not outstanding.
+CUST_0187,Ticino,46,3281.68,6,11,Claims handling took too long.
+CUST_0188,Rest of Switzerland,42,1310.82,4,6,The policy is overpriced compared to competitors.
+CUST_0189,Rest of Switzerland,46,4155.24,6,19,Claims handling took too long.
+CUST_0190,Rest of Switzerland,39,4151.04,8,8,"Customer service was okay, nothing exceptional."
+CUST_0191,Rest of Switzerland,42,1813.73,6,9,Unhappy with the claims resolution process.
+CUST_0192,Rest of Switzerland,38,2615.78,6,3,The policy is overpriced compared to competitors.
+CUST_0193,Rest of Switzerland,41,5189.35,6,15,The premiums are too expensive for what is offered.
+CUST_0194,Rest of Switzerland,38,5287.81,7,5,Service is fine but could improve in some areas.
+CUST_0195,Rest of Switzerland,31,5362.9,5,3,Claims handling took too long.
+CUST_0196,Rest of Switzerland,36,4209.78,9,3,Claims were handled quickly and efficiently.
+CUST_0197,Ticino,53,1233.81,9,2,Customer service was very supportive.
+CUST_0198,Rest of Switzerland,40,3672.29,7,8,The policy is decent but not outstanding.
+CUST_0199,Rest of Switzerland,42,1974.7,7,4,Claims process was average.
+CUST_0200,Rest of Switzerland,31,2853.36,4,9,The policy is overpriced compared to competitors.
+CUST_0201,Rest of Switzerland,42,2534.88,4,14,The premiums are too expensive for what is offered.
+CUST_0202,Rest of Switzerland,35,3971.94,4,8,Unhappy with the claims resolution process.
+CUST_0203,Rest of Switzerland,33,2244.0,4,5,The policy is overpriced compared to competitors.
+CUST_0204,Rest of Switzerland,30,2385.14,8,14,Claims process was average.
+CUST_0205,Rest of Switzerland,42,4642.04,4,8,Customer service was unresponsive.
+CUST_0206,Rest of Switzerland,32,1511.78,5,7,The policy is overpriced compared to competitors.
+CUST_0207,Ticino,66,1947.02,10,12,Great value for the premium paid!
+CUST_0208,Ticino,64,2951.56,9,3,Customer service was very supportive.
+CUST_0209,Rest of Switzerland,36,2070.47,4,6,Unhappy with the claims resolution process.
+CUST_0210,Rest of Switzerland,40,4417.15,9,12,Customer service was very supportive.
+CUST_0211,Rest of Switzerland,53,2983.55,6,11,The policy is overpriced compared to competitors.
+CUST_0212,Rest of Switzerland,43,3819.59,5,3,Claims handling took too long.
+CUST_0213,Rest of Switzerland,45,3215.51,4,14,Claims handling took too long.
+CUST_0214,Rest of Switzerland,44,3047.7,4,14,The policy is overpriced compared to competitors.
+CUST_0215,Rest of Switzerland,35,1584.53,9,1,I am very satisfied with the claims process.
+CUST_0216,Ticino,63,2801.83,10,10,Customer service was very supportive.
+CUST_0217,Rest of Switzerland,39,3857.94,8,10,The policy is decent but not outstanding.
+CUST_0218,Rest of Switzerland,34,2055.74,8,6,Service is fine but could improve in some areas.
+CUST_0219,Rest of Switzerland,40,3573.91,4,10,Unhappy with the claims resolution process.
+CUST_0220,Rest of Switzerland,45,1914.5,6,6,Claims handling took too long.
+CUST_0221,Ticino,60,3031.94,9,13,Great value for the premium paid!
+CUST_0222,Ticino,50,1015.01,9,11,Great value for the premium paid!
+CUST_0223,Rest of Switzerland,49,1863.37,9,5,Customer service was very supportive.
+CUST_0224,Rest of Switzerland,44,4211.2,7,7,Claims process was average.
+CUST_0225,Ticino,56,1353.21,10,7,Claims were handled quickly and efficiently.
+CUST_0226,Rest of Switzerland,43,1950.1,8,17,Service is fine but could improve in some areas.
+CUST_0227,Rest of Switzerland,45,3649.09,7,8,Service is fine but could improve in some areas.
+CUST_0228,Ticino,41,3319.17,7,14,Service is fine but could improve in some areas.
+CUST_0229,Ticino,61,1677.18,10,8,Claims were handled quickly and efficiently.
+CUST_0230,Ticino,60,3255.99,9,6,I am very satisfied with the claims process.
+CUST_0231,Rest of Switzerland,45,2517.53,9,15,Competitive pricing for a comprehensive policy.
+CUST_0232,Rest of Switzerland,36,2637.47,7,11,The policy is decent but not outstanding.
+CUST_0233,Ticino,63,2124.76,10,10,Customer service was very supportive.
+CUST_0234,Rest of Switzerland,44,1730.65,6,3,The policy is overpriced compared to competitors.
+CUST_0235,Rest of Switzerland,36,1820.36,7,14,Claims process was average.
+CUST_0236,Rest of Switzerland,36,1574.1,6,8,Claims handling took too long.
+CUST_0237,Rest of Switzerland,42,1796.54,4,4,Customer service was unresponsive.
+CUST_0238,Rest of Switzerland,29,1114.86,7,18,The policy is decent but not outstanding.
+CUST_0239,Rest of Switzerland,41,4118.45,9,17,Claims were handled quickly and efficiently.
+CUST_0240,Ticino,63,2865.57,9,9,Claims were handled quickly and efficiently.
+CUST_0241,Rest of Switzerland,47,3149.16,5,5,Customer service was unresponsive.
+CUST_0242,Rest of Switzerland,46,3573.01,9,3,Customer service was very supportive.
+CUST_0243,Rest of Switzerland,50,1915.03,8,8,The policy is decent but not outstanding.
+CUST_0244,Rest of Switzerland,29,1661.09,7,5,Service is fine but could improve in some areas.
+CUST_0245,Rest of Switzerland,37,2027.74,8,7,"Customer service was okay, nothing exceptional."
+CUST_0246,Rest of Switzerland,42,1633.69,4,11,The premiums are too expensive for what is offered.
+CUST_0247,Rest of Switzerland,37,2722.73,5,14,Unhappy with the claims resolution process.
+CUST_0248,Rest of Switzerland,32,2754.61,9,6,Great value for the premium paid!
+CUST_0249,Ticino,49,1483.45,6,8,The premiums are too expensive for what is offered.
+CUST_0250,Rest of Switzerland,33,1875.56,6,12,Customer service was unresponsive.
+CUST_0251,Rest of Switzerland,46,2107.09,7,7,Pricing is similar to other companies.
+CUST_0252,Rest of Switzerland,31,1508.77,7,5,Pricing is similar to other companies.
+CUST_0253,Rest of Switzerland,41,3969.05,5,11,Claims handling took too long.
+CUST_0254,Rest of Switzerland,35,1277.68,8,4,Pricing is similar to other companies.
+CUST_0255,Ticino,42,3356.03,7,5,Claims process was average.
+CUST_0256,Rest of Switzerland,35,4665.98,9,3,Great value for the premium paid!
+CUST_0257,Rest of Switzerland,31,3328.44,6,15,The premiums are too expensive for what is offered.
+CUST_0258,Rest of Switzerland,29,2230.7,5,4,Claims handling took too long.
+CUST_0259,Rest of Switzerland,38,2350.72,7,7,"Customer service was okay, nothing exceptional."
+CUST_0260,Rest of Switzerland,30,3640.67,5,11,The policy is overpriced compared to competitors.
+CUST_0261,Rest of Switzerland,30,1085.44,5,17,Unhappy with the claims resolution process.
+CUST_0262,Rest of Switzerland,38,3030.34,4,3,Claims handling took too long.
+CUST_0263,Rest of Switzerland,33,2054.38,9,10,I am very satisfied with the claims process.
+CUST_0264,Rest of Switzerland,37,4113.9,4,4,The policy is overpriced compared to competitors.
+CUST_0265,Rest of Switzerland,38,3466.9,8,5,The policy is decent but not outstanding.
+CUST_0266,Rest of Switzerland,43,3802.52,5,14,The policy is overpriced compared to competitors.
+CUST_0267,Rest of Switzerland,53,3102.73,4,8,Claims handling took too long.
+CUST_0268,Rest of Switzerland,34,3835.4,6,15,Claims handling took too long.
+CUST_0269,Rest of Switzerland,35,3347.51,5,9,Customer service was unresponsive.
+CUST_0270,Rest of Switzerland,46,3555.29,5,7,Claims handling took too long.
+CUST_0271,Rest of Switzerland,36,4492.81,9,9,Great value for the premium paid!
+CUST_0272,Rest of Switzerland,47,3473.82,4,2,Customer service was unresponsive.
+CUST_0273,Ticino,54,1183.55,9,7,I am very satisfied with the claims process.
+CUST_0274,Rest of Switzerland,44,1788.94,4,10,Customer service was unresponsive.
+CUST_0275,Ticino,63,1718.73,10,10,I am very satisfied with the claims process.
+CUST_0276,Rest of Switzerland,28,2712.04,7,11,The policy is decent but not outstanding.
+CUST_0277,Rest of Switzerland,45,2936.9,5,9,Claims handling took too long.
+CUST_0278,Rest of Switzerland,47,1673.23,5,8,Claims handling took too long.
+CUST_0279,Rest of Switzerland,37,1027.34,9,10,Customer service was very supportive.
+CUST_0280,Rest of Switzerland,41,1910.9,9,10,Great value for the premium paid!
+CUST_0281,Rest of Switzerland,52,1311.68,4,13,The policy is overpriced compared to competitors.
+CUST_0282,Rest of Switzerland,37,2598.64,5,10,Claims handling took too long.
+CUST_0283,Rest of Switzerland,43,2137.84,4,4,The premiums are too expensive for what is offered.
+CUST_0284,Rest of Switzerland,36,2554.32,5,4,Customer service was unresponsive.
+CUST_0285,Rest of Switzerland,39,2144.05,4,1,Unhappy with the claims resolution process.
+CUST_0286,Rest of Switzerland,58,3639.14,5,3,Unhappy with the claims resolution process.
+CUST_0287,Ticino,39,3203.79,10,9,Claims were handled quickly and efficiently.
+CUST_0288,Rest of Switzerland,38,3406.84,7,8,Pricing is similar to other companies.
+CUST_0289,Rest of Switzerland,40,3383.96,7,9,Claims process was average.
+CUST_0290,Rest of Switzerland,42,1501.36,4,3,Unhappy with the claims resolution process.
+CUST_0291,Rest of Switzerland,37,1659.31,5,5,Customer service was unresponsive.
+CUST_0292,Ticino,57,3101.52,9,6,Customer service was very supportive.
+CUST_0293,Rest of Switzerland,42,3209.36,4,6,Customer service was unresponsive.
+CUST_0294,Rest of Switzerland,52,3047.58,10,8,Claims were handled quickly and efficiently.
+CUST_0295,Rest of Switzerland,43,3587.14,7,5,Claims process was average.
+CUST_0296,Rest of Switzerland,48,2350.56,9,8,Customer service was very supportive.
+CUST_0297,Rest of Switzerland,33,3833.89,9,13,Customer service was very supportive.
+CUST_0298,Rest of Switzerland,42,3055.12,5,10,Customer service was unresponsive.
+CUST_0299,Rest of Switzerland,47,2520.92,4,11,Customer service was unresponsive.
+CUST_0300,Rest of Switzerland,43,4767.38,5,5,The premiums are too expensive for what is offered.
+CUST_0301,Rest of Switzerland,38,5326.39,8,3,"Customer service was okay, nothing exceptional."
+CUST_0302,Rest of Switzerland,37,1291.26,6,14,The policy is overpriced compared to competitors.
+CUST_0303,Ticino,65,3362.08,9,4,Great value for the premium paid!
+CUST_0304,Rest of Switzerland,33,3553.39,5,5,The premiums are too expensive for what is offered.
+CUST_0305,Rest of Switzerland,26,3378.16,7,9,Service is fine but could improve in some areas.
+CUST_0306,Rest of Switzerland,54,3963.8,10,14,Competitive pricing for a comprehensive policy.
+CUST_0307,Rest of Switzerland,34,3723.82,7,16,Claims process was average.
+CUST_0308,Rest of Switzerland,45,2779.99,4,7,The premiums are too expensive for what is offered.
+CUST_0309,Rest of Switzerland,38,4372.72,6,9,Claims handling took too long.
+CUST_0310,Rest of Switzerland,48,2603.59,8,11,Service is fine but could improve in some areas.
+CUST_0311,Rest of Switzerland,38,1856.96,5,10,The premiums are too expensive for what is offered.
+CUST_0312,Rest of Switzerland,29,3077.7,8,15,"Customer service was okay, nothing exceptional."
+CUST_0313,Rest of Switzerland,37,1531.81,5,8,The policy is overpriced compared to competitors.
+CUST_0314,Ticino,39,2976.24,10,3,Customer service was very supportive.
+CUST_0315,Rest of Switzerland,33,5124.8,7,17,Service is fine but could improve in some areas.
+CUST_0316,Rest of Switzerland,39,2369.38,7,4,Claims process was average.
+CUST_0317,Rest of Switzerland,48,5610.86,4,12,Customer service was unresponsive.
+CUST_0318,Rest of Switzerland,37,2746.64,5,10,Customer service was unresponsive.
+CUST_0319,Rest of Switzerland,45,3378.58,7,4,"Customer service was okay, nothing exceptional."
+CUST_0320,Rest of Switzerland,45,1836.76,6,10,Customer service was unresponsive.
+CUST_0321,Ticino,52,1147.52,10,11,Customer service was very supportive.
+CUST_0322,Rest of Switzerland,40,3458.33,8,5,Claims process was average.
+CUST_0323,Rest of Switzerland,54,2398.7,8,15,Pricing is similar to other companies.
+CUST_0324,Ticino,49,1320.04,7,6,The policy is decent but not outstanding.
+CUST_0325,Rest of Switzerland,39,2327.11,6,4,Claims handling took too long.
+CUST_0326,Rest of Switzerland,44,2222.74,9,14,Great value for the premium paid!
+CUST_0327,Ticino,71,1454.66,7,10,Pricing is similar to other companies.
+CUST_0328,Rest of Switzerland,39,4062.04,5,14,Unhappy with the claims resolution process.
+CUST_0329,Rest of Switzerland,39,1798.75,4,10,Unhappy with the claims resolution process.
+CUST_0330,Rest of Switzerland,28,1936.1,6,3,The premiums are too expensive for what is offered.
+CUST_0331,Rest of Switzerland,46,1318.14,4,2,The policy is overpriced compared to competitors.
+CUST_0332,Rest of Switzerland,49,2913.3,8,4,Service is fine but could improve in some areas.
+CUST_0333,Rest of Switzerland,42,1994.92,4,6,Claims handling took too long.
+CUST_0334,Rest of Switzerland,35,1760.77,4,9,The policy is overpriced compared to competitors.
+CUST_0335,Rest of Switzerland,38,2244.24,6,6,The premiums are too expensive for what is offered.
+CUST_0336,Rest of Switzerland,52,4837.36,7,4,Service is fine but could improve in some areas.
+CUST_0337,Rest of Switzerland,40,1804.16,9,15,Claims were handled quickly and efficiently.
+CUST_0338,Rest of Switzerland,38,2946.71,8,10,"Customer service was okay, nothing exceptional."
+CUST_0339,Rest of Switzerland,35,3498.42,7,14,Claims process was average.
+CUST_0340,Rest of Switzerland,33,1009.87,7,11,"Customer service was okay, nothing exceptional."
+CUST_0341,Rest of Switzerland,29,1553.89,5,3,Unhappy with the claims resolution process.
+CUST_0342,Rest of Switzerland,42,4924.18,5,17,The premiums are too expensive for what is offered.
+CUST_0343,Rest of Switzerland,49,5270.36,7,16,The policy is decent but not outstanding.
+CUST_0344,Rest of Switzerland,40,1901.68,5,5,The premiums are too expensive for what is offered.
+CUST_0345,Ticino,41,3472.77,7,13,Pricing is similar to other companies.
+CUST_0346,Ticino,51,1615.39,8,5,Claims process was average.
+CUST_0347,Ticino,61,2988.36,6,5,Unhappy with the claims resolution process.
+CUST_0348,Rest of Switzerland,31,3476.64,4,3,Claims handling took too long.
+CUST_0349,Rest of Switzerland,39,1408.04,8,5,"Customer service was okay, nothing exceptional."
+CUST_0350,Rest of Switzerland,46,2676.04,7,11,Service is fine but could improve in some areas.
+CUST_0351,Rest of Switzerland,41,4186.09,8,11,Service is fine but could improve in some areas.
+CUST_0352,Rest of Switzerland,35,2971.49,7,5,Pricing is similar to other companies.
+CUST_0353,Rest of Switzerland,49,2418.79,7,6,Pricing is similar to other companies.
+CUST_0354,Rest of Switzerland,50,1099.73,9,9,Customer service was very supportive.
+CUST_0355,Rest of Switzerland,37,4660.55,6,12,Customer service was unresponsive.
+CUST_0356,Rest of Switzerland,40,4336.86,4,16,Claims handling took too long.
+CUST_0357,Rest of Switzerland,38,2125.09,7,1,The policy is decent but not outstanding.
+CUST_0358,Rest of Switzerland,45,1755.4,8,12,The policy is decent but not outstanding.
+CUST_0359,Rest of Switzerland,46,1930.72,7,9,Claims process was average.
+CUST_0360,Rest of Switzerland,40,3927.48,4,10,Customer service was unresponsive.
+CUST_0361,Rest of Switzerland,40,3690.97,5,11,The premiums are too expensive for what is offered.
+CUST_0362,Rest of Switzerland,39,1134.23,8,6,Claims process was average.
+CUST_0363,Rest of Switzerland,41,3601.84,6,3,Unhappy with the claims resolution process.
+CUST_0364,Rest of Switzerland,32,2806.36,7,4,The policy is decent but not outstanding.
+CUST_0365,Rest of Switzerland,38,4454.0,8,5,Pricing is similar to other companies.
+CUST_0366,Rest of Switzerland,41,2144.95,7,13,Pricing is similar to other companies.
+CUST_0367,Rest of Switzerland,40,3042.77,5,11,Customer service was unresponsive.
+CUST_0368,Rest of Switzerland,40,2760.97,8,7,Service is fine but could improve in some areas.
+CUST_0369,Ticino,64,3305.24,9,9,Claims were handled quickly and efficiently.
+CUST_0370,Ticino,55,2897.32,9,10,Claims were handled quickly and efficiently.
+CUST_0371,Rest of Switzerland,36,4091.33,9,5,Customer service was very supportive.
+CUST_0372,Ticino,62,2201.34,9,7,I am very satisfied with the claims process.
+CUST_0373,Rest of Switzerland,46,2356.79,5,5,The policy is overpriced compared to competitors.
+CUST_0374,Rest of Switzerland,33,5399.99,6,11,Unhappy with the claims resolution process.
+CUST_0375,Ticino,42,2363.88,8,5,Service is fine but could improve in some areas.
+CUST_0376,Ticino,66,2471.86,10,13,Great value for the premium paid!
+CUST_0377,Ticino,52,1205.89,9,2,I am very satisfied with the claims process.
+CUST_0378,Rest of Switzerland,37,5999.99,6,9,The premiums are too expensive for what is offered.
+CUST_0379,Rest of Switzerland,27,5482.92,7,12,Pricing is similar to other companies.
+CUST_0380,Rest of Switzerland,35,4977.78,6,15,The premiums are too expensive for what is offered.
+CUST_0381,Rest of Switzerland,48,3554.17,7,8,Pricing is similar to other companies.
+CUST_0382,Rest of Switzerland,45,3414.42,8,18,Pricing is similar to other companies.
+CUST_0383,Rest of Switzerland,40,3500.41,4,8,The premiums are too expensive for what is offered.
+CUST_0384,Rest of Switzerland,47,3939.25,7,20,Claims process was average.
+CUST_0385,Rest of Switzerland,40,4694.6,4,5,Customer service was unresponsive.
+CUST_0386,Rest of Switzerland,43,2343.13,5,8,Unhappy with the claims resolution process.
+CUST_0387,Ticino,60,2924.59,10,3,I am very satisfied with the claims process.
+CUST_0388,Rest of Switzerland,32,4785.56,6,3,Customer service was unresponsive.
+CUST_0389,Rest of Switzerland,37,1468.61,5,2,Unhappy with the claims resolution process.
+CUST_0390,Rest of Switzerland,37,3647.05,7,5,The policy is decent but not outstanding.
+CUST_0391,Rest of Switzerland,38,1379.59,7,18,The policy is decent but not outstanding.
+CUST_0392,Rest of Switzerland,45,5452.18,5,13,Customer service was unresponsive.
+CUST_0393,Rest of Switzerland,45,1413.42,9,13,Great value for the premium paid!
+CUST_0394,Rest of Switzerland,44,1530.76,5,10,Customer service was unresponsive.
+CUST_0395,Rest of Switzerland,47,1553.14,8,9,Pricing is similar to other companies.
+CUST_0396,Rest of Switzerland,38,3057.64,5,17,The policy is overpriced compared to competitors.
+CUST_0397,Rest of Switzerland,41,4485.41,7,15,The policy is decent but not outstanding.
+CUST_0398,Ticino,47,1061.19,7,6,The policy is decent but not outstanding.
+CUST_0399,Rest of Switzerland,37,4280.64,6,11,Claims handling took too long.
+CUST_0400,Rest of Switzerland,45,2638.33,5,3,Claims handling took too long.
+CUST_0401,Rest of Switzerland,41,4143.55,5,12,The policy is overpriced compared to competitors.
+CUST_0402,Rest of Switzerland,42,3254.28,5,17,Claims handling took too long.
+CUST_0403,Rest of Switzerland,38,3192.9,8,18,Service is fine but could improve in some areas.
+CUST_0404,Rest of Switzerland,42,2507.76,8,17,Service is fine but could improve in some areas.
+CUST_0405,Rest of Switzerland,35,1368.42,9,9,Customer service was very supportive.
+CUST_0406,Ticino,70,2945.21,10,3,Customer service was very supportive.
+CUST_0407,Rest of Switzerland,41,2331.17,4,3,The policy is overpriced compared to competitors.
+CUST_0408,Rest of Switzerland,37,2664.43,8,5,Pricing is similar to other companies.
+CUST_0409,Rest of Switzerland,36,4290.01,6,8,The premiums are too expensive for what is offered.
+CUST_0410,Ticino,51,1956.55,10,9,Claims were handled quickly and efficiently.
+CUST_0411,Rest of Switzerland,41,3259.34,6,13,The policy is overpriced compared to competitors.
+CUST_0412,Rest of Switzerland,29,1320.88,4,9,Claims handling took too long.
+CUST_0413,Rest of Switzerland,42,3159.13,6,8,Claims handling took too long.
+CUST_0414,Rest of Switzerland,42,1827.83,4,7,The premiums are too expensive for what is offered.
+CUST_0415,Rest of Switzerland,41,2198.59,4,14,The premiums are too expensive for what is offered.
+CUST_0416,Rest of Switzerland,42,4001.51,9,15,Customer service was very supportive.
+CUST_0417,Rest of Switzerland,30,2178.41,4,9,Claims handling took too long.
+CUST_0418,Rest of Switzerland,52,2295.91,10,8,Great value for the premium paid!
+CUST_0419,Rest of Switzerland,37,3688.69,7,8,Claims process was average.
+CUST_0420,Ticino,56,3008.62,10,8,Claims were handled quickly and efficiently.
+CUST_0421,Rest of Switzerland,35,2551.99,4,9,Claims handling took too long.
+CUST_0422,Rest of Switzerland,36,4382.68,8,14,Service is fine but could improve in some areas.
+CUST_0423,Rest of Switzerland,36,1208.88,6,11,Claims handling took too long.
+CUST_0424,Rest of Switzerland,44,3261.55,7,4,Pricing is similar to other companies.
+CUST_0425,Rest of Switzerland,44,1136.65,9,7,Customer service was very supportive.
+CUST_0426,Rest of Switzerland,35,4292.29,8,5,Claims process was average.
+CUST_0427,Rest of Switzerland,46,2210.76,5,16,Customer service was unresponsive.
+CUST_0428,Rest of Switzerland,46,3729.72,8,5,Service is fine but could improve in some areas.
+CUST_0429,Rest of Switzerland,42,3226.56,6,4,The policy is overpriced compared to competitors.
+CUST_0430,Ticino,50,2389.04,10,7,Customer service was very supportive.
+CUST_0431,Rest of Switzerland,35,1191.36,8,4,Claims process was average.
+CUST_0432,Rest of Switzerland,41,5640.4,4,19,The premiums are too expensive for what is offered.
+CUST_0433,Rest of Switzerland,42,2233.48,9,8,Claims were handled quickly and efficiently.
+CUST_0434,Rest of Switzerland,33,5126.18,8,15,The policy is decent but not outstanding.
+CUST_0435,Rest of Switzerland,43,2019.79,4,1,The policy is overpriced compared to competitors.
+CUST_0436,Rest of Switzerland,37,5880.25,7,15,Pricing is similar to other companies.
+CUST_0437,Rest of Switzerland,30,2760.22,5,17,Customer service was unresponsive.
+CUST_0438,Rest of Switzerland,34,2587.48,9,5,I am very satisfied with the claims process.
+CUST_0439,Rest of Switzerland,35,1457.68,8,8,"Customer service was okay, nothing exceptional."
+CUST_0440,Rest of Switzerland,36,1991.77,9,13,Competitive pricing for a comprehensive policy.
+CUST_0441,Rest of Switzerland,31,2472.1,7,9,Pricing is similar to other companies.
+CUST_0442,Rest of Switzerland,39,2852.28,7,18,The policy is decent but not outstanding.
+CUST_0443,Ticino,53,3221.23,8,7,Claims process was average.
+CUST_0444,Rest of Switzerland,38,4042.16,4,6,The policy is overpriced compared to competitors.
+CUST_0445,Rest of Switzerland,38,4591.26,4,12,Claims handling took too long.
+CUST_0446,Rest of Switzerland,37,2167.08,8,11,Service is fine but could improve in some areas.
+CUST_0447,Rest of Switzerland,41,3643.34,7,3,The policy is decent but not outstanding.
+CUST_0448,Rest of Switzerland,33,3678.06,5,16,The premiums are too expensive for what is offered.
+CUST_0449,Rest of Switzerland,37,4120.37,6,11,The policy is overpriced compared to competitors.
+CUST_0450,Rest of Switzerland,38,1876.85,8,2,"Customer service was okay, nothing exceptional."
+CUST_0451,Rest of Switzerland,41,2372.09,7,6,"Customer service was okay, nothing exceptional."
+CUST_0452,Rest of Switzerland,39,3748.26,6,8,The policy is overpriced compared to competitors.
+CUST_0453,Rest of Switzerland,34,3981.7,7,4,The policy is decent but not outstanding.
+CUST_0454,Ticino,49,1824.96,7,8,The policy is decent but not outstanding.
+CUST_0455,Rest of Switzerland,44,2477.0,9,6,Competitive pricing for a comprehensive policy.
+CUST_0456,Rest of Switzerland,48,2298.68,6,3,The premiums are too expensive for what is offered.
+CUST_0457,Rest of Switzerland,45,1915.36,5,3,The premiums are too expensive for what is offered.
+CUST_0458,Rest of Switzerland,34,4628.74,4,12,The premiums are too expensive for what is offered.
+CUST_0459,Rest of Switzerland,48,2293.55,7,3,The policy is decent but not outstanding.
+CUST_0460,Rest of Switzerland,40,4777.16,7,9,Service is fine but could improve in some areas.
+CUST_0461,Rest of Switzerland,48,2743.15,7,9,The policy is decent but not outstanding.
+CUST_0462,Ticino,49,2800.83,8,8,"Customer service was okay, nothing exceptional."
+CUST_0463,Rest of Switzerland,46,4444.56,6,17,The policy is overpriced compared to competitors.
+CUST_0464,Ticino,50,1998.24,10,8,Claims were handled quickly and efficiently.
+CUST_0465,Rest of Switzerland,39,5662.24,7,14,Claims process was average.
+CUST_0466,Rest of Switzerland,46,3270.95,9,17,Customer service was very supportive.
+CUST_0467,Rest of Switzerland,38,2832.5,8,14,Service is fine but could improve in some areas.
+CUST_0468,Ticino,51,1387.44,10,7,Competitive pricing for a comprehensive policy.
+CUST_0469,Rest of Switzerland,29,3593.46,2,4,The policy is overpriced compared to competitors.
+CUST_0470,Rest of Switzerland,32,1329.02,6,10,Unhappy with the claims resolution process.
+CUST_0471,Rest of Switzerland,25,3328.13,3,11,Customer service was unresponsive.
+CUST_0472,Rest of Switzerland,39,3390.42,7,12,Claims process was average.
+CUST_0473,Rest of Switzerland,43,1104.12,9,10,Customer service was very supportive.
+CUST_0474,Ticino,53,3067.77,10,4,Customer service was very supportive.
+CUST_0475,Rest of Switzerland,40,3563.11,8,3,The policy is decent but not outstanding.
+CUST_0476,Ticino,66,1500.08,9,4,Great value for the premium paid!
+CUST_0477,Rest of Switzerland,37,4591.22,9,4,Customer service was very supportive.
+CUST_0478,Rest of Switzerland,36,5055.49,9,7,Customer service was very supportive.
+CUST_0479,Ticino,50,1824.06,6,3,Customer service was unresponsive.
+CUST_0480,Rest of Switzerland,39,2701.08,9,13,Claims were handled quickly and efficiently.
+CUST_0481,Ticino,51,3284.0,10,9,Great value for the premium paid!
+CUST_0482,Ticino,50,3283.4,7,13,"Customer service was okay, nothing exceptional."
+CUST_0483,Rest of Switzerland,38,2203.8,4,1,Customer service was unresponsive.
+CUST_0484,Rest of Switzerland,46,3578.24,5,7,The premiums are too expensive for what is offered.
+CUST_0485,Rest of Switzerland,37,3938.18,7,13,Claims process was average.
+CUST_0486,Rest of Switzerland,44,3861.08,7,9,Pricing is similar to other companies.
+CUST_0487,Rest of Switzerland,40,1586.51,7,5,"Customer service was okay, nothing exceptional."
+CUST_0488,Rest of Switzerland,38,2453.23,5,6,Customer service was unresponsive.
+CUST_0489,Rest of Switzerland,30,5629.33,9,12,Claims were handled quickly and efficiently.
+CUST_0490,Rest of Switzerland,37,2938.55,6,4,Claims handling took too long.
+CUST_0491,Rest of Switzerland,40,2025.52,7,8,"Customer service was okay, nothing exceptional."
+CUST_0492,Rest of Switzerland,31,5349.13,4,15,Unhappy with the claims resolution process.
+CUST_0493,Ticino,54,2712.64,8,4,Pricing is similar to other companies.
+CUST_0494,Ticino,59,2023.56,7,11,"Customer service was okay, nothing exceptional."
+CUST_0495,Ticino,47,3404.09,9,10,Great value for the premium paid!
+CUST_0496,Rest of Switzerland,41,1496.34,8,7,Claims process was average.
+CUST_0497,Rest of Switzerland,42,3092.57,5,3,The policy is overpriced compared to competitors.
+CUST_0498,Rest of Switzerland,41,3506.89,7,12,The policy is decent but not outstanding.
+CUST_0499,Rest of Switzerland,38,3200.86,9,17,Claims were handled quickly and efficiently.
+CUST_0500,Rest of Switzerland,42,3394.7,8,8,"Customer service was okay, nothing exceptional."
+CUST_0501,Rest of Switzerland,50,1737.49,9,11,Customer service was very supportive.
+CUST_0502,Ticino,46,1849.76,7,6,The policy is decent but not outstanding.
+CUST_0503,Rest of Switzerland,40,1564.67,9,15,I am very satisfied with the claims process.
+CUST_0504,Rest of Switzerland,31,2126.48,7,14,The policy is decent but not outstanding.
+CUST_0505,Rest of Switzerland,26,3947.22,3,3,Customer service was unresponsive.
+CUST_0506,Ticino,62,2675.82,10,2,Customer service was very supportive.
+CUST_0507,Rest of Switzerland,48,3668.38,8,11,"Customer service was okay, nothing exceptional."
+CUST_0508,Rest of Switzerland,39,2792.03,8,13,The policy is decent but not outstanding.
+CUST_0509,Rest of Switzerland,32,4579.43,5,15,Customer service was unresponsive.
+CUST_0510,Rest of Switzerland,40,2236.88,8,11,Claims process was average.
+CUST_0511,Ticino,53,1248.83,10,10,Competitive pricing for a comprehensive policy.
+CUST_0512,Rest of Switzerland,31,1219.58,9,1,Claims were handled quickly and efficiently.
+CUST_0513,Rest of Switzerland,41,3554.22,9,2,Great value for the premium paid!
+CUST_0514,Rest of Switzerland,39,4897.86,4,12,The policy is overpriced compared to competitors.
+CUST_0515,Ticino,51,1991.57,9,12,Competitive pricing for a comprehensive policy.
+CUST_0516,Rest of Switzerland,43,3114.55,5,5,Unhappy with the claims resolution process.
+CUST_0517,Rest of Switzerland,36,1723.28,5,11,The premiums are too expensive for what is offered.
+CUST_0518,Rest of Switzerland,44,2591.7,5,15,Claims handling took too long.
+CUST_0519,Rest of Switzerland,36,1034.08,5,13,Customer service was unresponsive.
+CUST_0520,Rest of Switzerland,42,3065.75,8,7,Pricing is similar to other companies.
+CUST_0521,Rest of Switzerland,39,2801.92,8,7,Pricing is similar to other companies.
+CUST_0522,Rest of Switzerland,25,4167.04,4,9,Unhappy with the claims resolution process.
+CUST_0523,Rest of Switzerland,44,4981.18,5,11,Customer service was unresponsive.
+CUST_0524,Ticino,56,2875.94,9,2,Great value for the premium paid!
+CUST_0525,Ticino,51,3113.62,9,2,I am very satisfied with the claims process.
+CUST_0526,Rest of Switzerland,47,2097.1,4,17,The premiums are too expensive for what is offered.
+CUST_0527,Ticino,39,3479.09,10,3,I am very satisfied with the claims process.
+CUST_0528,Rest of Switzerland,40,4978.7,9,6,Claims were handled quickly and efficiently.
+CUST_0529,Rest of Switzerland,39,2689.88,8,4,The policy is decent but not outstanding.
+CUST_0530,Rest of Switzerland,38,1374.89,7,9,Claims process was average.
+CUST_0531,Rest of Switzerland,37,4322.06,5,8,The premiums are too expensive for what is offered.
+CUST_0532,Rest of Switzerland,40,2082.98,7,8,The policy is decent but not outstanding.
+CUST_0533,Rest of Switzerland,39,3386.11,9,6,I am very satisfied with the claims process.
+CUST_0534,Rest of Switzerland,45,2541.67,8,1,Claims process was average.
+CUST_0535,Rest of Switzerland,32,1924.94,7,12,Pricing is similar to other companies.
+CUST_0536,Rest of Switzerland,48,2434.62,6,7,Customer service was unresponsive.
+CUST_0537,Ticino,48,1834.33,7,9,Service is fine but could improve in some areas.
+CUST_0538,Rest of Switzerland,46,2880.3,5,13,Unhappy with the claims resolution process.
+CUST_0539,Rest of Switzerland,42,2164.74,7,9,The policy is decent but not outstanding.
+CUST_0540,Rest of Switzerland,41,999.44,5,12,Claims handling took too long.
+CUST_0541,Rest of Switzerland,39,4773.61,4,6,The premiums are too expensive for what is offered.
+CUST_0542,Rest of Switzerland,42,3391.03,7,7,The policy is decent but not outstanding.
+CUST_0543,Rest of Switzerland,37,1754.48,5,10,Claims handling took too long.
+CUST_0544,Rest of Switzerland,36,3195.53,7,3,Pricing is similar to other companies.
+CUST_0545,Ticino,59,1905.77,10,4,Customer service was very supportive.
+CUST_0546,Rest of Switzerland,42,4812.26,5,11,The premiums are too expensive for what is offered.
+CUST_0547,Rest of Switzerland,37,5611.9,8,20,Pricing is similar to other companies.
+CUST_0548,Rest of Switzerland,33,2783.83,5,3,The policy is overpriced compared to competitors.
+CUST_0549,Rest of Switzerland,44,5151.95,5,20,The policy is overpriced compared to competitors.
+CUST_0550,Rest of Switzerland,44,2508.0,6,20,Claims handling took too long.
+CUST_0551,Rest of Switzerland,37,2950.86,6,5,The premiums are too expensive for what is offered.
+CUST_0552,Rest of Switzerland,38,4826.71,9,4,Claims were handled quickly and efficiently.
+CUST_0553,Ticino,50,2235.55,7,6,"Customer service was okay, nothing exceptional."
+CUST_0554,Rest of Switzerland,45,5372.4,7,12,The policy is decent but not outstanding.
+CUST_0555,Rest of Switzerland,35,1264.91,8,13,Pricing is similar to other companies.
+CUST_0556,Rest of Switzerland,42,4228.26,7,14,Pricing is similar to other companies.
+CUST_0557,Rest of Switzerland,42,2342.66,6,3,Unhappy with the claims resolution process.
+CUST_0558,Rest of Switzerland,35,3002.46,6,8,The premiums are too expensive for what is offered.
+CUST_0559,Rest of Switzerland,41,1941.8,4,9,The premiums are too expensive for what is offered.
+CUST_0560,Rest of Switzerland,30,1942.21,9,15,Customer service was very supportive.
+CUST_0561,Ticino,50,1407.77,10,14,Great value for the premium paid!
+CUST_0562,Rest of Switzerland,33,5514.94,8,13,Claims process was average.
+CUST_0563,Rest of Switzerland,30,2730.83,9,15,Claims were handled quickly and efficiently.
+CUST_0564,Rest of Switzerland,38,1832.52,4,16,The premiums are too expensive for what is offered.
+CUST_0565,Rest of Switzerland,31,2702.17,7,6,Pricing is similar to other companies.
+CUST_0566,Ticino,54,1576.1,8,12,Claims process was average.
+CUST_0567,Ticino,55,2014.95,10,7,Competitive pricing for a comprehensive policy.
+CUST_0568,Ticino,56,2777.79,8,7,Claims process was average.
+CUST_0569,Rest of Switzerland,42,5407.02,5,9,Claims handling took too long.
+CUST_0570,Rest of Switzerland,40,1141.92,8,8,The policy is decent but not outstanding.
+CUST_0571,Rest of Switzerland,38,2154.3,7,10,Claims process was average.
+CUST_0572,Rest of Switzerland,46,1047.53,4,11,The policy is overpriced compared to competitors.
+CUST_0573,Ticino,62,3474.53,9,13,Great value for the premium paid!
+CUST_0574,Ticino,63,1208.95,8,14,Claims process was average.
+CUST_0575,Rest of Switzerland,40,1312.28,8,7,Pricing is similar to other companies.
+CUST_0576,Rest of Switzerland,49,2504.86,7,7,Service is fine but could improve in some areas.
+CUST_0577,Rest of Switzerland,36,2416.7,9,12,Claims were handled quickly and efficiently.
+CUST_0578,Rest of Switzerland,44,3057.73,7,14,Pricing is similar to other companies.
+CUST_0579,Rest of Switzerland,33,2701.15,6,11,Customer service was unresponsive.
+CUST_0580,Rest of Switzerland,41,4101.86,5,9,The policy is overpriced compared to competitors.
+CUST_0581,Rest of Switzerland,38,3199.99,9,10,Customer service was very supportive.
+CUST_0582,Rest of Switzerland,32,3391.96,6,18,The policy is overpriced compared to competitors.
+CUST_0583,Rest of Switzerland,35,3763.01,9,4,Competitive pricing for a comprehensive policy.
+CUST_0584,Rest of Switzerland,30,2250.41,9,12,Customer service was very supportive.
+CUST_0585,Rest of Switzerland,34,4985.4,8,4,Service is fine but could improve in some areas.
+CUST_0586,Rest of Switzerland,26,3877.09,6,7,Claims handling took too long.
+CUST_0587,Rest of Switzerland,36,2700.72,6,8,Claims handling took too long.
+CUST_0588,Rest of Switzerland,42,3311.23,5,7,Unhappy with the claims resolution process.
+CUST_0589,Ticino,56,2760.6,7,10,The policy is decent but not outstanding.
+CUST_0590,Rest of Switzerland,50,2147.16,4,13,The policy is overpriced compared to competitors.
+CUST_0591,Ticino,54,3447.4,10,9,Great value for the premium paid!
+CUST_0592,Ticino,51,2269.17,9,7,Great value for the premium paid!
+CUST_0593,Rest of Switzerland,42,3418.16,6,18,Claims handling took too long.
+CUST_0594,Rest of Switzerland,44,1579.74,9,10,Competitive pricing for a comprehensive policy.
+CUST_0595,Rest of Switzerland,34,1872.28,4,18,The policy is overpriced compared to competitors.
+CUST_0596,Rest of Switzerland,51,1972.79,9,11,Customer service was very supportive.
+CUST_0597,Rest of Switzerland,37,1734.52,4,10,Claims handling took too long.
+CUST_0598,Rest of Switzerland,33,2397.85,5,4,Unhappy with the claims resolution process.
+CUST_0599,Rest of Switzerland,42,2033.26,6,7,The premiums are too expensive for what is offered.
+CUST_0600,Rest of Switzerland,49,1820.83,4,8,The policy is overpriced compared to competitors.
+CUST_0601,Ticino,52,1371.59,10,10,Great value for the premium paid!
+CUST_0602,Rest of Switzerland,41,3123.85,6,11,The policy is overpriced compared to competitors.
+CUST_0603,Rest of Switzerland,42,3075.14,4,14,The premiums are too expensive for what is offered.
+CUST_0604,Rest of Switzerland,32,2861.94,8,4,Claims process was average.
+CUST_0605,Rest of Switzerland,41,4599.43,6,11,The premiums are too expensive for what is offered.
+CUST_0606,Rest of Switzerland,41,2574.79,7,5,The policy is decent but not outstanding.
+CUST_0607,Rest of Switzerland,35,4410.73,9,14,Great value for the premium paid!
+CUST_0608,Ticino,50,2002.03,7,11,Service is fine but could improve in some areas.
+CUST_0609,Rest of Switzerland,40,2256.31,5,12,The policy is overpriced compared to competitors.
+CUST_0610,Ticino,65,3463.56,6,5,Customer service was unresponsive.
+CUST_0611,Rest of Switzerland,31,3428.23,6,8,The policy is overpriced compared to competitors.
+CUST_0612,Rest of Switzerland,32,3025.6,6,17,Customer service was unresponsive.
+CUST_0613,Ticino,56,3054.46,10,14,Great value for the premium paid!
+CUST_0614,Rest of Switzerland,43,1197.8,8,5,Pricing is similar to other companies.
+CUST_0615,Rest of Switzerland,28,2998.5,6,2,Unhappy with the claims resolution process.
+CUST_0616,Ticino,63,3470.23,7,5,Service is fine but could improve in some areas.
+CUST_0617,Rest of Switzerland,44,2521.37,4,9,Claims handling took too long.
+CUST_0618,Rest of Switzerland,35,1815.8,9,3,Competitive pricing for a comprehensive policy.
+CUST_0619,Rest of Switzerland,50,1082.29,9,6,Great value for the premium paid!
+CUST_0620,Rest of Switzerland,37,2958.82,6,8,The policy is overpriced compared to competitors.
+CUST_0621,Rest of Switzerland,45,1868.47,9,5,Claims were handled quickly and efficiently.
+CUST_0622,Rest of Switzerland,51,2602.37,7,8,Service is fine but could improve in some areas.
+CUST_0623,Rest of Switzerland,40,2570.27,9,7,Claims were handled quickly and efficiently.
+CUST_0624,Rest of Switzerland,32,5291.76,8,2,Claims process was average.
+CUST_0625,Ticino,48,1598.87,9,7,I am very satisfied with the claims process.
+CUST_0626,Rest of Switzerland,44,5365.37,7,11,"Customer service was okay, nothing exceptional."
+CUST_0627,Rest of Switzerland,43,2269.8,6,10,The policy is overpriced compared to competitors.
+CUST_0628,Rest of Switzerland,37,2070.91,6,3,Customer service was unresponsive.
+CUST_0629,Rest of Switzerland,37,5072.56,9,10,Claims were handled quickly and efficiently.
+CUST_0630,Rest of Switzerland,38,4460.75,8,3,Service is fine but could improve in some areas.
+CUST_0631,Rest of Switzerland,37,3612.2,7,9,Claims process was average.
+CUST_0632,Rest of Switzerland,38,1959.38,8,9,The policy is decent but not outstanding.
+CUST_0633,Rest of Switzerland,52,2055.11,10,7,Great value for the premium paid!
+CUST_0634,Ticino,53,1078.54,8,7,Claims process was average.
+CUST_0635,Ticino,60,2662.41,10,11,Claims were handled quickly and efficiently.
+CUST_0636,Rest of Switzerland,37,2614.82,5,9,The premiums are too expensive for what is offered.
+CUST_0637,Ticino,66,3357.26,10,5,Claims were handled quickly and efficiently.
+CUST_0638,Rest of Switzerland,42,2552.44,4,6,The policy is overpriced compared to competitors.
+CUST_0639,Rest of Switzerland,39,3744.59,5,6,Claims handling took too long.
+CUST_0640,Rest of Switzerland,50,2223.66,9,6,Competitive pricing for a comprehensive policy.
+CUST_0641,Rest of Switzerland,41,3530.75,6,10,Customer service was unresponsive.
+CUST_0642,Rest of Switzerland,33,2885.05,5,4,The policy is overpriced compared to competitors.
+CUST_0643,Rest of Switzerland,34,1461.44,7,12,Service is fine but could improve in some areas.
+CUST_0644,Rest of Switzerland,48,2797.54,4,10,Claims handling took too long.
+CUST_0645,Rest of Switzerland,56,1568.28,6,8,Customer service was unresponsive.
+CUST_0646,Rest of Switzerland,45,4453.78,8,11,Claims process was average.
+CUST_0647,Rest of Switzerland,32,2784.95,6,3,Customer service was unresponsive.
+CUST_0648,Rest of Switzerland,48,2768.66,4,19,Unhappy with the claims resolution process.
+CUST_0649,Rest of Switzerland,34,2332.34,9,6,I am very satisfied with the claims process.
+CUST_0650,Rest of Switzerland,39,1873.87,9,10,Customer service was very supportive.
+CUST_0651,Rest of Switzerland,35,3177.54,4,11,The policy is overpriced compared to competitors.
+CUST_0652,Ticino,53,3211.93,10,14,Claims were handled quickly and efficiently.
+CUST_0653,Ticino,52,1377.3,6,2,The policy is overpriced compared to competitors.
+CUST_0654,Rest of Switzerland,32,3716.05,4,17,Customer service was unresponsive.
+CUST_0655,Rest of Switzerland,52,3068.76,9,6,Great value for the premium paid!
+CUST_0656,Rest of Switzerland,40,4371.2,7,19,Service is fine but could improve in some areas.
+CUST_0657,Rest of Switzerland,44,2240.26,6,7,The premiums are too expensive for what is offered.
+CUST_0658,Rest of Switzerland,37,1114.91,7,13,"Customer service was okay, nothing exceptional."
+CUST_0659,Rest of Switzerland,48,1916.56,8,11,Claims process was average.
+CUST_0660,Rest of Switzerland,35,2931.06,6,20,The policy is overpriced compared to competitors.
+CUST_0661,Rest of Switzerland,37,2743.2,7,9,Pricing is similar to other companies.
+CUST_0662,Rest of Switzerland,39,3870.38,4,14,Claims handling took too long.
+CUST_0663,Rest of Switzerland,43,1911.62,9,16,Customer service was very supportive.
+CUST_0664,Rest of Switzerland,37,5678.41,4,10,Customer service was unresponsive.
+CUST_0665,Ticino,42,1226.17,7,10,The policy is decent but not outstanding.
+CUST_0666,Rest of Switzerland,41,3856.02,7,10,Claims process was average.
+CUST_0667,Ticino,49,1175.84,7,6,Claims process was average.
+CUST_0668,Rest of Switzerland,37,1495.36,4,8,Unhappy with the claims resolution process.
+CUST_0669,Rest of Switzerland,33,3498.64,4,12,Unhappy with the claims resolution process.
+CUST_0670,Rest of Switzerland,42,3886.02,8,12,Claims process was average.
+CUST_0671,Rest of Switzerland,39,1921.68,7,7,Claims process was average.
+CUST_0672,Rest of Switzerland,49,1614.19,5,12,Unhappy with the claims resolution process.
+CUST_0673,Rest of Switzerland,50,3759.64,6,17,Customer service was unresponsive.
+CUST_0674,Rest of Switzerland,39,5147.36,9,9,Claims were handled quickly and efficiently.
+CUST_0675,Ticino,56,2004.69,9,9,Claims were handled quickly and efficiently.
+CUST_0676,Rest of Switzerland,34,3408.12,4,5,Customer service was unresponsive.
+CUST_0677,Rest of Switzerland,33,1762.1,5,3,Claims handling took too long.
+CUST_0678,Ticino,41,1840.62,7,14,Service is fine but could improve in some areas.
+CUST_0679,Rest of Switzerland,46,3126.98,9,2,I am very satisfied with the claims process.
+CUST_0680,Rest of Switzerland,31,4506.54,6,9,The premiums are too expensive for what is offered.
+CUST_0681,Rest of Switzerland,40,3295.45,7,4,Service is fine but could improve in some areas.
+CUST_0682,Rest of Switzerland,35,3972.9,7,10,"Customer service was okay, nothing exceptional."
+CUST_0683,Ticino,47,1176.69,10,9,Customer service was very supportive.
+CUST_0684,Rest of Switzerland,47,1450.78,5,5,The premiums are too expensive for what is offered.
+CUST_0685,Ticino,53,1246.16,7,11,"Customer service was okay, nothing exceptional."
+CUST_0686,Rest of Switzerland,40,4097.98,8,18,Service is fine but could improve in some areas.
+CUST_0687,Ticino,50,1867.42,9,9,Claims were handled quickly and efficiently.
+CUST_0688,Rest of Switzerland,33,4730.38,8,14,Service is fine but could improve in some areas.
+CUST_0689,Rest of Switzerland,40,1631.64,7,12,Claims process was average.
+CUST_0690,Rest of Switzerland,39,4179.66,4,16,The policy is overpriced compared to competitors.
+CUST_0691,Rest of Switzerland,43,2423.71,7,18,"Customer service was okay, nothing exceptional."
+CUST_0692,Rest of Switzerland,37,4566.01,7,3,"Customer service was okay, nothing exceptional."
+CUST_0693,Ticino,53,2960.2,10,8,Competitive pricing for a comprehensive policy.
+CUST_0694,Rest of Switzerland,41,2781.26,4,1,The policy is overpriced compared to competitors.
+CUST_0695,Rest of Switzerland,45,3507.56,8,19,The policy is decent but not outstanding.
+CUST_0696,Rest of Switzerland,37,2351.08,5,12,Customer service was unresponsive.
+CUST_0697,Rest of Switzerland,45,4656.65,6,5,The policy is overpriced compared to competitors.
+CUST_0698,Rest of Switzerland,42,3409.97,9,17,Customer service was very supportive.
+CUST_0699,Rest of Switzerland,39,2033.47,5,1,Claims handling took too long.
+CUST_0700,Rest of Switzerland,44,3686.9,8,8,"Customer service was okay, nothing exceptional."
+CUST_0701,Rest of Switzerland,53,5495.27,10,17,Claims were handled quickly and efficiently.
+CUST_0702,Rest of Switzerland,44,1824.28,7,9,Claims process was average.
+CUST_0703,Ticino,53,3195.95,10,2,Claims were handled quickly and efficiently.
+CUST_0704,Ticino,49,1544.08,6,9,The premiums are too expensive for what is offered.
+CUST_0705,Rest of Switzerland,46,1132.42,9,1,Competitive pricing for a comprehensive policy.
+CUST_0706,Rest of Switzerland,39,4345.55,5,10,The premiums are too expensive for what is offered.
+CUST_0707,Rest of Switzerland,39,1309.93,7,5,"Customer service was okay, nothing exceptional."
+CUST_0708,Rest of Switzerland,48,4373.93,9,8,I am very satisfied with the claims process.
+CUST_0709,Rest of Switzerland,35,4417.0,6,10,Customer service was unresponsive.
+CUST_0710,Rest of Switzerland,40,1558.21,7,9,Claims process was average.
+CUST_0711,Rest of Switzerland,35,1777.67,7,9,"Customer service was okay, nothing exceptional."
+CUST_0712,Ticino,61,2635.93,10,14,Competitive pricing for a comprehensive policy.
+CUST_0713,Rest of Switzerland,49,2215.04,7,11,Pricing is similar to other companies.
+CUST_0714,Rest of Switzerland,40,3795.54,9,10,I am very satisfied with the claims process.
+CUST_0715,Rest of Switzerland,37,1984.61,4,12,Unhappy with the claims resolution process.
+CUST_0716,Rest of Switzerland,43,3543.3,5,17,Customer service was unresponsive.
+CUST_0717,Rest of Switzerland,39,3038.27,7,9,The policy is decent but not outstanding.
+CUST_0718,Rest of Switzerland,32,2285.4,6,9,The policy is overpriced compared to competitors.
+CUST_0719,Rest of Switzerland,34,3062.94,5,9,Unhappy with the claims resolution process.
+CUST_0720,Ticino,64,1693.44,10,6,Great value for the premium paid!
+CUST_0721,Ticino,51,1008.31,10,11,Great value for the premium paid!
+CUST_0722,Rest of Switzerland,39,4815.95,4,7,The policy is overpriced compared to competitors.
+CUST_0723,Rest of Switzerland,46,2260.06,8,2,Service is fine but could improve in some areas.
+CUST_0724,Rest of Switzerland,36,1309.09,7,14,Pricing is similar to other companies.
+CUST_0725,Rest of Switzerland,37,2413.84,6,1,The premiums are too expensive for what is offered.
+CUST_0726,Rest of Switzerland,29,1889.53,3,13,Claims handling took too long.
+CUST_0727,Rest of Switzerland,35,2438.2,9,1,Customer service was very supportive.
+CUST_0728,Rest of Switzerland,38,1098.5,8,5,Pricing is similar to other companies.
+CUST_0729,Rest of Switzerland,41,1811.33,6,10,Customer service was unresponsive.
+CUST_0730,Rest of Switzerland,25,3589.64,6,17,The policy is overpriced compared to competitors.
+CUST_0731,Rest of Switzerland,32,1767.79,8,14,Service is fine but could improve in some areas.
+CUST_0732,Rest of Switzerland,35,2021.57,7,14,Claims process was average.
+CUST_0733,Ticino,58,2430.51,9,13,Competitive pricing for a comprehensive policy.
+CUST_0734,Rest of Switzerland,35,3526.87,4,10,Unhappy with the claims resolution process.
+CUST_0735,Rest of Switzerland,38,1752.32,6,7,Unhappy with the claims resolution process.
+CUST_0736,Rest of Switzerland,39,3258.71,8,4,"Customer service was okay, nothing exceptional."
+CUST_0737,Rest of Switzerland,33,3584.7,8,15,Pricing is similar to other companies.
+CUST_0738,Rest of Switzerland,38,3399.64,7,15,"Customer service was okay, nothing exceptional."
+CUST_0739,Ticino,62,3251.13,9,7,Customer service was very supportive.
+CUST_0740,Rest of Switzerland,38,4031.03,8,8,Service is fine but could improve in some areas.
+CUST_0741,Rest of Switzerland,37,2467.6,4,9,The policy is overpriced compared to competitors.
+CUST_0742,Rest of Switzerland,43,3231.01,6,6,The premiums are too expensive for what is offered.
+CUST_0743,Rest of Switzerland,44,1683.08,6,10,The policy is overpriced compared to competitors.
+CUST_0744,Rest of Switzerland,33,4748.84,5,9,Unhappy with the claims resolution process.
+CUST_0745,Rest of Switzerland,44,1659.06,7,17,"Customer service was okay, nothing exceptional."
+CUST_0746,Rest of Switzerland,40,4625.24,9,6,Claims were handled quickly and efficiently.
+CUST_0747,Rest of Switzerland,37,3593.89,6,17,Claims handling took too long.
+CUST_0748,Rest of Switzerland,43,3555.02,4,10,Customer service was unresponsive.
+CUST_0749,Ticino,52,1401.4,9,14,Claims were handled quickly and efficiently.
+CUST_0750,Rest of Switzerland,36,4486.37,7,14,Service is fine but could improve in some areas.
+CUST_0751,Rest of Switzerland,43,2395.51,8,9,Claims process was average.
+CUST_0752,Rest of Switzerland,32,2138.02,5,1,The policy is overpriced compared to competitors.
+CUST_0753,Rest of Switzerland,51,1222.64,10,6,Claims were handled quickly and efficiently.
+CUST_0754,Ticino,42,2526.27,10,10,I am very satisfied with the claims process.
+CUST_0755,Rest of Switzerland,33,2910.66,4,11,The premiums are too expensive for what is offered.
+CUST_0756,Rest of Switzerland,37,1187.3,4,13,The premiums are too expensive for what is offered.
+CUST_0757,Rest of Switzerland,40,2452.32,7,5,Service is fine but could improve in some areas.
+CUST_0758,Rest of Switzerland,45,2623.66,9,9,Customer service was very supportive.
+CUST_0759,Rest of Switzerland,42,4215.82,9,13,Competitive pricing for a comprehensive policy.
+CUST_0760,Rest of Switzerland,40,4619.53,7,2,Pricing is similar to other companies.
+CUST_0761,Rest of Switzerland,40,3218.66,7,14,The policy is decent but not outstanding.
+CUST_0762,Rest of Switzerland,39,5056.54,5,13,The policy is overpriced compared to competitors.
+CUST_0763,Rest of Switzerland,31,3341.94,8,8,Pricing is similar to other companies.
+CUST_0764,Ticino,53,1722.88,7,10,Claims process was average.
+CUST_0765,Rest of Switzerland,38,2351.87,5,5,Unhappy with the claims resolution process.
+CUST_0766,Ticino,55,2910.72,8,13,"Customer service was okay, nothing exceptional."
+CUST_0767,Rest of Switzerland,42,1507.58,7,16,Pricing is similar to other companies.
+CUST_0768,Ticino,54,2499.24,10,12,Competitive pricing for a comprehensive policy.
+CUST_0769,Rest of Switzerland,37,2629.55,7,14,"Customer service was okay, nothing exceptional."
+CUST_0770,Rest of Switzerland,52,1427.4,10,6,Competitive pricing for a comprehensive policy.
+CUST_0771,Rest of Switzerland,40,1735.55,7,14,Service is fine but could improve in some areas.
+CUST_0772,Ticino,54,1916.49,8,10,Pricing is similar to other companies.
+CUST_0773,Ticino,44,1716.82,10,9,I am very satisfied with the claims process.
+CUST_0774,Rest of Switzerland,32,3075.47,5,5,Claims handling took too long.
+CUST_0775,Rest of Switzerland,27,3955.93,9,11,I am very satisfied with the claims process.
+CUST_0776,Rest of Switzerland,39,3471.84,5,10,The premiums are too expensive for what is offered.
+CUST_0777,Rest of Switzerland,37,2417.5,5,5,The premiums are too expensive for what is offered.
+CUST_0778,Ticino,58,2361.55,10,9,I am very satisfied with the claims process.
+CUST_0779,Rest of Switzerland,31,3770.44,9,7,Claims were handled quickly and efficiently.
+CUST_0780,Rest of Switzerland,33,2558.48,5,7,Unhappy with the claims resolution process.
+CUST_0781,Rest of Switzerland,39,2760.12,5,10,Claims handling took too long.
+CUST_0782,Rest of Switzerland,51,3154.57,4,10,The policy is overpriced compared to competitors.
+CUST_0783,Rest of Switzerland,42,1798.78,8,17,"Customer service was okay, nothing exceptional."
+CUST_0784,Rest of Switzerland,38,5244.46,4,5,The policy is overpriced compared to competitors.
+CUST_0785,Rest of Switzerland,38,1238.95,4,5,Claims handling took too long.
+CUST_0786,Rest of Switzerland,45,1702.07,9,15,Customer service was very supportive.
+CUST_0787,Rest of Switzerland,50,2514.19,6,4,Claims handling took too long.
+CUST_0788,Ticino,44,1307.5,8,12,"Customer service was okay, nothing exceptional."
+CUST_0789,Rest of Switzerland,36,3536.75,6,12,Customer service was unresponsive.
+CUST_0790,Rest of Switzerland,45,1947.5,9,7,Claims were handled quickly and efficiently.
+CUST_0791,Rest of Switzerland,44,1946.54,8,13,"Customer service was okay, nothing exceptional."
+CUST_0792,Rest of Switzerland,29,3201.67,7,6,"Customer service was okay, nothing exceptional."
+CUST_0793,Ticino,65,2872.94,10,6,Great value for the premium paid!
+CUST_0794,Rest of Switzerland,51,2548.66,6,9,Claims handling took too long.
+CUST_0795,Rest of Switzerland,36,2170.46,5,8,Customer service was unresponsive.
+CUST_0796,Rest of Switzerland,42,3541.78,9,10,Competitive pricing for a comprehensive policy.
+CUST_0797,Rest of Switzerland,48,2870.06,9,10,Competitive pricing for a comprehensive policy.
+CUST_0798,Rest of Switzerland,36,4464.78,6,8,The premiums are too expensive for what is offered.
+CUST_0799,Rest of Switzerland,48,2125.93,7,4,Pricing is similar to other companies.
+CUST_0800,Rest of Switzerland,31,3522.74,6,13,The policy is overpriced compared to competitors.
+CUST_0801,Ticino,59,2079.98,10,13,I am very satisfied with the claims process.
+CUST_0802,Rest of Switzerland,44,1412.51,4,10,The premiums are too expensive for what is offered.
+CUST_0803,Rest of Switzerland,39,4550.09,8,3,Claims process was average.
+CUST_0804,Rest of Switzerland,39,1716.28,5,13,Customer service was unresponsive.
+CUST_0805,Rest of Switzerland,42,2065.02,9,5,Great value for the premium paid!
+CUST_0806,Rest of Switzerland,44,4352.64,4,7,Unhappy with the claims resolution process.
+CUST_0807,Rest of Switzerland,47,2057.15,7,2,The policy is decent but not outstanding.
+CUST_0808,Rest of Switzerland,47,2882.71,9,18,Claims were handled quickly and efficiently.
+CUST_0809,Rest of Switzerland,40,1521.83,8,9,Claims process was average.
+CUST_0810,Ticino,59,2529.52,10,6,Customer service was very supportive.
+CUST_0811,Rest of Switzerland,44,3177.65,7,10,Pricing is similar to other companies.
+CUST_0812,Ticino,55,3107.66,10,9,Competitive pricing for a comprehensive policy.
+CUST_0813,Rest of Switzerland,41,3849.56,4,17,The premiums are too expensive for what is offered.
+CUST_0814,Rest of Switzerland,31,4080.44,6,12,The premiums are too expensive for what is offered.
+CUST_0815,Ticino,49,3231.24,9,4,I am very satisfied with the claims process.
+CUST_0816,Rest of Switzerland,47,3620.26,8,18,Pricing is similar to other companies.
+CUST_0817,Ticino,50,1825.85,9,6,Competitive pricing for a comprehensive policy.
+CUST_0818,Rest of Switzerland,45,3679.44,9,12,Great value for the premium paid!
+CUST_0819,Rest of Switzerland,44,1687.97,8,17,Service is fine but could improve in some areas.
+CUST_0820,Rest of Switzerland,37,3457.01,9,9,Great value for the premium paid!
+CUST_0821,Rest of Switzerland,37,1470.11,6,6,Customer service was unresponsive.
+CUST_0822,Ticino,50,1146.19,9,6,Great value for the premium paid!
+CUST_0823,Rest of Switzerland,44,5089.82,5,16,Claims handling took too long.
+CUST_0824,Rest of Switzerland,44,2626.45,7,10,Service is fine but could improve in some areas.
+CUST_0825,Rest of Switzerland,34,3737.6,6,12,The policy is overpriced compared to competitors.
+CUST_0826,Ticino,47,1752.76,10,12,Claims were handled quickly and efficiently.
+CUST_0827,Ticino,53,3165.52,7,4,Service is fine but could improve in some areas.
+CUST_0828,Rest of Switzerland,42,3665.17,5,9,The policy is overpriced compared to competitors.
+CUST_0829,Rest of Switzerland,42,2107.2,9,7,Competitive pricing for a comprehensive policy.
+CUST_0830,Rest of Switzerland,41,2527.4,6,6,The policy is overpriced compared to competitors.
+CUST_0831,Rest of Switzerland,41,4527.58,6,12,The premiums are too expensive for what is offered.
+CUST_0832,Ticino,52,2274.66,7,5,Pricing is similar to other companies.
+CUST_0833,Rest of Switzerland,43,5351.32,6,15,Claims handling took too long.
+CUST_0834,Rest of Switzerland,30,1804.03,7,11,Pricing is similar to other companies.
+CUST_0835,Rest of Switzerland,37,1941.36,7,15,The policy is decent but not outstanding.
+CUST_0836,Rest of Switzerland,38,3475.58,4,6,The policy is overpriced compared to competitors.
+CUST_0837,Ticino,45,1036.52,8,8,Service is fine but could improve in some areas.
+CUST_0838,Rest of Switzerland,32,4367.27,9,9,Customer service was very supportive.
+CUST_0839,Rest of Switzerland,43,1532.6,6,9,The policy is overpriced compared to competitors.
+CUST_0840,Rest of Switzerland,35,3223.81,9,15,I am very satisfied with the claims process.
+CUST_0841,Rest of Switzerland,48,5611.33,7,14,Claims process was average.
+CUST_0842,Rest of Switzerland,37,1459.2,7,4,Pricing is similar to other companies.
+CUST_0843,Rest of Switzerland,46,2938.09,8,6,Claims process was average.
+CUST_0844,Rest of Switzerland,37,3844.58,8,5,The policy is decent but not outstanding.
+CUST_0845,Rest of Switzerland,49,2750.53,6,16,The policy is overpriced compared to competitors.
+CUST_0846,Rest of Switzerland,31,3129.58,7,5,"Customer service was okay, nothing exceptional."
+CUST_0847,Ticino,45,1962.52,10,6,Customer service was very supportive.
+CUST_0848,Rest of Switzerland,34,1986.91,8,15,The policy is decent but not outstanding.
+CUST_0849,Ticino,55,1583.39,10,8,Customer service was very supportive.
+CUST_0850,Rest of Switzerland,44,4399.09,4,4,The policy is overpriced compared to competitors.
+CUST_0851,Rest of Switzerland,37,4702.63,5,17,Claims handling took too long.
+CUST_0852,Rest of Switzerland,41,3420.68,5,11,Claims handling took too long.
+CUST_0853,Ticino,51,1981.69,10,14,Competitive pricing for a comprehensive policy.
+CUST_0854,Rest of Switzerland,35,4341.61,4,2,The policy is overpriced compared to competitors.
+CUST_0855,Rest of Switzerland,39,4599.37,4,12,Unhappy with the claims resolution process.
+CUST_0856,Rest of Switzerland,33,1717.3,5,12,Unhappy with the claims resolution process.
+CUST_0857,Ticino,77,1029.35,9,14,Claims were handled quickly and efficiently.
+CUST_0858,Rest of Switzerland,31,1448.12,9,16,Competitive pricing for a comprehensive policy.
+CUST_0859,Ticino,52,1353.45,7,14,Service is fine but could improve in some areas.
+CUST_0860,Ticino,53,1793.57,9,2,Customer service was very supportive.
+CUST_0861,Rest of Switzerland,35,1259.75,8,3,"Customer service was okay, nothing exceptional."
+CUST_0862,Rest of Switzerland,43,2004.86,4,18,Unhappy with the claims resolution process.
+CUST_0863,Rest of Switzerland,29,2230.52,7,5,Pricing is similar to other companies.
+CUST_0864,Rest of Switzerland,37,1717.85,9,14,Competitive pricing for a comprehensive policy.
+CUST_0865,Rest of Switzerland,33,5804.72,7,16,The policy is decent but not outstanding.
+CUST_0866,Ticino,49,2055.21,6,13,Claims handling took too long.
+CUST_0867,Ticino,53,3353.71,7,13,Claims process was average.
+CUST_0868,Rest of Switzerland,34,4590.65,5,9,Customer service was unresponsive.
+CUST_0869,Rest of Switzerland,40,3271.03,5,6,Claims handling took too long.
+CUST_0870,Rest of Switzerland,35,2869.4,9,16,Great value for the premium paid!
+CUST_0871,Ticino,44,1998.22,9,6,Competitive pricing for a comprehensive policy.
+CUST_0872,Rest of Switzerland,36,3321.72,8,2,The policy is decent but not outstanding.
+CUST_0873,Rest of Switzerland,37,4147.26,7,10,Pricing is similar to other companies.
+CUST_0874,Rest of Switzerland,48,4640.1,8,9,The policy is decent but not outstanding.
+CUST_0875,Rest of Switzerland,44,1141.85,8,8,The policy is decent but not outstanding.
+CUST_0876,Rest of Switzerland,35,3062.92,9,10,Customer service was very supportive.
+CUST_0877,Rest of Switzerland,30,3284.74,6,3,The policy is overpriced compared to competitors.
+CUST_0878,Rest of Switzerland,30,1654.72,6,16,The policy is overpriced compared to competitors.
+CUST_0879,Rest of Switzerland,41,2373.25,8,19,Pricing is similar to other companies.
+CUST_0880,Rest of Switzerland,46,3005.23,6,7,Customer service was unresponsive.
+CUST_0881,Rest of Switzerland,49,3299.64,5,5,Claims handling took too long.
+CUST_0882,Rest of Switzerland,38,5231.22,5,2,Claims handling took too long.
+CUST_0883,Rest of Switzerland,39,3759.85,8,14,Service is fine but could improve in some areas.
+CUST_0884,Rest of Switzerland,58,3725.05,7,4,"Customer service was okay, nothing exceptional."
+CUST_0885,Rest of Switzerland,30,1483.24,7,2,The policy is decent but not outstanding.
+CUST_0886,Rest of Switzerland,39,3180.17,5,5,Unhappy with the claims resolution process.
+CUST_0887,Rest of Switzerland,36,3330.2,6,7,Customer service was unresponsive.
+CUST_0888,Rest of Switzerland,38,2666.35,5,10,The premiums are too expensive for what is offered.
+CUST_0889,Rest of Switzerland,34,4001.12,9,20,I am very satisfied with the claims process.
+CUST_0890,Rest of Switzerland,50,2424.56,5,18,The policy is overpriced compared to competitors.
+CUST_0891,Rest of Switzerland,43,2362.32,7,9,Claims process was average.
+CUST_0892,Rest of Switzerland,42,2979.07,8,5,"Customer service was okay, nothing exceptional."
+CUST_0893,Rest of Switzerland,36,4010.14,9,3,I am very satisfied with the claims process.
+CUST_0894,Rest of Switzerland,39,2801.93,4,8,The policy is overpriced compared to competitors.
+CUST_0895,Ticino,42,2925.98,6,2,The policy is overpriced compared to competitors.
+CUST_0896,Rest of Switzerland,38,4903.03,7,3,Claims process was average.
+CUST_0897,Rest of Switzerland,37,1506.36,8,4,Pricing is similar to other companies.
+CUST_0898,Rest of Switzerland,54,1863.05,8,10,The policy is decent but not outstanding.
+CUST_0899,Ticino,54,1385.04,10,3,Customer service was very supportive.
+CUST_0900,Rest of Switzerland,43,3080.36,9,15,Great value for the premium paid!
+CUST_0901,Rest of Switzerland,28,3287.3,5,16,Unhappy with the claims resolution process.
+CUST_0902,Rest of Switzerland,30,1624.5,6,17,Claims handling took too long.
+CUST_0903,Rest of Switzerland,39,3254.29,5,10,Customer service was unresponsive.
+CUST_0904,Rest of Switzerland,38,2080.85,5,15,The policy is overpriced compared to competitors.
+CUST_0905,Rest of Switzerland,46,3479.12,8,13,Claims process was average.
+CUST_0906,Rest of Switzerland,45,2497.6,5,10,Unhappy with the claims resolution process.
+CUST_0907,Rest of Switzerland,33,2532.91,6,15,Customer service was unresponsive.
+CUST_0908,Rest of Switzerland,34,4949.72,8,16,Pricing is similar to other companies.
+CUST_0909,Rest of Switzerland,48,1087.18,6,3,Unhappy with the claims resolution process.
+CUST_0910,Rest of Switzerland,41,2348.84,9,10,Customer service was very supportive.
+CUST_0911,Rest of Switzerland,44,5860.0,4,11,Customer service was unresponsive.
+CUST_0912,Rest of Switzerland,45,1573.33,4,8,The policy is overpriced compared to competitors.
+CUST_0913,Rest of Switzerland,42,3859.0,6,15,Customer service was unresponsive.
+CUST_0914,Ticino,56,1438.6,10,6,Claims were handled quickly and efficiently.
+CUST_0915,Rest of Switzerland,40,1263.53,4,1,Unhappy with the claims resolution process.
+CUST_0916,Rest of Switzerland,31,2142.26,6,2,The premiums are too expensive for what is offered.
+CUST_0917,Rest of Switzerland,36,1657.97,5,18,The policy is overpriced compared to competitors.
+CUST_0918,Rest of Switzerland,46,1219.16,8,1,Claims process was average.
+CUST_0919,Rest of Switzerland,47,2899.39,6,9,Customer service was unresponsive.
+CUST_0920,Rest of Switzerland,39,3513.59,6,18,Customer service was unresponsive.
+CUST_0921,Ticino,51,1335.55,10,14,Customer service was very supportive.
+CUST_0922,Rest of Switzerland,36,3681.04,4,7,Customer service was unresponsive.
+CUST_0923,Ticino,47,2398.41,9,3,Customer service was very supportive.
+CUST_0924,Rest of Switzerland,26,2878.25,6,7,Customer service was unresponsive.
+CUST_0925,Ticino,54,1851.08,10,5,I am very satisfied with the claims process.
+CUST_0926,Rest of Switzerland,29,2258.24,7,10,Service is fine but could improve in some areas.
+CUST_0927,Rest of Switzerland,30,3450.31,6,12,The policy is overpriced compared to competitors.
+CUST_0928,Rest of Switzerland,57,3674.0,10,11,Claims were handled quickly and efficiently.
+CUST_0929,Ticino,53,2496.7,7,4,Service is fine but could improve in some areas.
+CUST_0930,Rest of Switzerland,42,2086.58,7,8,"Customer service was okay, nothing exceptional."
+CUST_0931,Rest of Switzerland,45,3748.15,9,15,Competitive pricing for a comprehensive policy.
+CUST_0932,Rest of Switzerland,41,2190.64,6,3,The policy is overpriced compared to competitors.
+CUST_0933,Ticino,60,2078.99,9,7,Claims were handled quickly and efficiently.
+CUST_0934,Rest of Switzerland,27,2354.64,4,17,The policy is overpriced compared to competitors.
+CUST_0935,Rest of Switzerland,45,5769.05,7,17,Pricing is similar to other companies.
+CUST_0936,Rest of Switzerland,30,2788.15,8,6,Service is fine but could improve in some areas.
+CUST_0937,Rest of Switzerland,42,4337.33,4,6,The premiums are too expensive for what is offered.
+CUST_0938,Rest of Switzerland,40,5509.97,7,18,The policy is decent but not outstanding.
+CUST_0939,Rest of Switzerland,40,2140.81,4,5,Claims handling took too long.
+CUST_0940,Rest of Switzerland,39,1625.3,8,7,Service is fine but could improve in some areas.
+CUST_0941,Rest of Switzerland,39,4043.7,6,11,Claims handling took too long.
+CUST_0942,Ticino,51,1033.57,8,9,Service is fine but could improve in some areas.
+CUST_0943,Rest of Switzerland,44,2990.03,5,16,Claims handling took too long.
+CUST_0944,Rest of Switzerland,34,3834.98,5,18,The policy is overpriced compared to competitors.
+CUST_0945,Rest of Switzerland,37,3361.14,9,13,Competitive pricing for a comprehensive policy.
+CUST_0946,Rest of Switzerland,40,3629.87,8,9,"Customer service was okay, nothing exceptional."
+CUST_0947,Rest of Switzerland,48,2673.34,5,6,Customer service was unresponsive.
+CUST_0948,Rest of Switzerland,36,2651.88,8,2,Service is fine but could improve in some areas.
+CUST_0949,Rest of Switzerland,42,1334.59,6,9,Unhappy with the claims resolution process.
+CUST_0950,Rest of Switzerland,46,3369.53,6,9,The policy is overpriced compared to competitors.
+CUST_0951,Ticino,54,3178.09,10,2,Customer service was very supportive.
+CUST_0952,Rest of Switzerland,34,1680.66,8,15,The policy is decent but not outstanding.
+CUST_0953,Rest of Switzerland,33,1108.61,8,3,Claims process was average.
+CUST_0954,Rest of Switzerland,51,2144.98,7,3,The policy is decent but not outstanding.
+CUST_0955,Rest of Switzerland,46,3633.34,4,9,Customer service was unresponsive.
+CUST_0956,Rest of Switzerland,32,4338.04,9,19,I am very satisfied with the claims process.
+CUST_0957,Rest of Switzerland,36,4229.17,8,10,"Customer service was okay, nothing exceptional."
+CUST_0958,Rest of Switzerland,41,3014.42,8,6,Service is fine but could improve in some areas.
+CUST_0959,Rest of Switzerland,48,4191.94,4,17,Unhappy with the claims resolution process.
+CUST_0960,Rest of Switzerland,29,4493.0,8,12,"Customer service was okay, nothing exceptional."
+CUST_0961,Rest of Switzerland,47,2634.36,9,6,Claims were handled quickly and efficiently.
+CUST_0962,Rest of Switzerland,43,4531.94,6,10,The premiums are too expensive for what is offered.
+CUST_0963,Ticino,48,1541.84,10,6,Customer service was very supportive.
+CUST_0964,Ticino,55,1757.16,10,3,Great value for the premium paid!
+CUST_0965,Ticino,49,2344.06,9,7,Claims were handled quickly and efficiently.
+CUST_0966,Rest of Switzerland,38,3625.24,5,20,The premiums are too expensive for what is offered.
+CUST_0967,Ticino,63,2824.03,6,13,The policy is overpriced compared to competitors.
+CUST_0968,Rest of Switzerland,37,3088.32,7,1,Pricing is similar to other companies.
+CUST_0969,Rest of Switzerland,44,1566.78,7,3,"Customer service was okay, nothing exceptional."
+CUST_0970,Rest of Switzerland,41,4099.76,6,15,The policy is overpriced compared to competitors.
+CUST_0971,Rest of Switzerland,43,5132.36,9,8,Competitive pricing for a comprehensive policy.
+CUST_0972,Rest of Switzerland,33,2555.22,8,7,Pricing is similar to other companies.
+CUST_0973,Rest of Switzerland,29,4320.37,5,13,The premiums are too expensive for what is offered.
+CUST_0974,Rest of Switzerland,43,3992.33,8,12,Service is fine but could improve in some areas.
+CUST_0975,Rest of Switzerland,39,2687.4,8,6,Claims process was average.
+CUST_0976,Ticino,70,1275.55,9,4,Customer service was very supportive.
+CUST_0977,Ticino,60,3476.0,9,10,I am very satisfied with the claims process.
+CUST_0978,Ticino,43,1125.96,8,11,Service is fine but could improve in some areas.
+CUST_0979,Rest of Switzerland,35,4620.88,7,18,Pricing is similar to other companies.
+CUST_0980,Rest of Switzerland,39,5752.01,8,16,"Customer service was okay, nothing exceptional."
+CUST_0981,Rest of Switzerland,32,1950.16,5,2,Unhappy with the claims resolution process.
+CUST_0982,Rest of Switzerland,37,1968.84,7,11,"Customer service was okay, nothing exceptional."
+CUST_0983,Rest of Switzerland,33,3930.84,7,12,Claims process was average.
+CUST_0984,Rest of Switzerland,44,3569.82,4,7,Claims handling took too long.
+CUST_0985,Rest of Switzerland,36,1214.4,5,11,Customer service was unresponsive.
+CUST_0986,Ticino,56,2302.81,8,10,"Customer service was okay, nothing exceptional."
+CUST_0987,Rest of Switzerland,35,3898.24,8,8,Service is fine but could improve in some areas.
+CUST_0988,Rest of Switzerland,46,3428.76,5,5,The policy is overpriced compared to competitors.
+CUST_0989,Rest of Switzerland,41,5539.3,9,18,Great value for the premium paid!
+CUST_0990,Ticino,49,2507.4,8,5,Service is fine but could improve in some areas.
+CUST_0991,Ticino,59,2122.04,10,13,Customer service was very supportive.
+CUST_0992,Rest of Switzerland,45,4360.88,4,10,Claims handling took too long.
+CUST_0993,Ticino,58,2480.86,10,13,Customer service was very supportive.
+CUST_0994,Rest of Switzerland,32,3205.73,6,4,Unhappy with the claims resolution process.
+CUST_0995,Rest of Switzerland,34,1601.04,5,2,Claims handling took too long.
+CUST_0996,Rest of Switzerland,48,1753.13,9,7,Claims were handled quickly and efficiently.
+CUST_0997,Rest of Switzerland,34,3653.35,4,17,Customer service was unresponsive.
+CUST_0998,Rest of Switzerland,30,4797.16,9,13,Competitive pricing for a comprehensive policy.
+CUST_0999,Rest of Switzerland,46,2954.24,7,20,The policy is decent but not outstanding.
+CUST_1000,Ticino,52,2892.71,8,6,Pricing is similar to other companies.
+CUST_1001,Romandie,31,1225.27,5,3,Customer service was unresponsive.
+CUST_1002,Romandie,32,1324.47,7,3,Pricing is similar to other companies.
+CUST_1003,Romandie,32,2719.8,2,10,The policy is overpriced compared to competitors.
+CUST_1004,Romandie,30,2118.2,7,6,Pricing is similar to other companies.
+CUST_1005,Romandie,38,2248.01,3,1,Customer service was unresponsive.
+CUST_1006,Romandie,38,2991.92,2,3,The premiums are too expensive for what is offered.
+CUST_1007,Romandie,41,1475.09,3,7,Customer service was unresponsive.
+CUST_1008,Romandie,42,1917.93,6,5,The premiums are too expensive for what is offered.
+CUST_1009,Romandie,36,2734.15,4,2,Unhappy with the claims resolution process.
+CUST_1010,Romandie,25,2898.44,7,4,The policy is decent but not outstanding.
+CUST_1011,Romandie,34,2364.27,5,8,Unhappy with the claims resolution process.
+CUST_1012,Romandie,35,1724.0,5,3,The premiums are too expensive for what is offered.
+CUST_1013,Romandie,25,3428.51,1,7,Unhappy with the claims resolution process.
+CUST_1014,Romandie,37,2501.96,5,6,Claims handling took too long.
+CUST_1015,Romandie,33,2304.63,6,8,Customer service was unresponsive.
+CUST_1016,Romandie,33,2963.67,7,4,The policy is decent but not outstanding.
+CUST_1017,Romandie,41,1719.41,3,6,Unhappy with the claims resolution process.
+CUST_1018,Romandie,42,2551.01,5,2,Claims handling took too long.
+CUST_1019,Romandie,41,3268.67,4,7,Claims handling took too long.
+CUST_1020,Romandie,33,2228.29,7,3,"Customer service was okay, nothing exceptional."
+CUST_1021,Romandie,30,2077.63,5,4,Customer service was unresponsive.
+CUST_1022,Romandie,29,1355.4,4,3,The policy is overpriced compared to competitors.
+CUST_1023,Romandie,37,2703.97,7,5,Service is fine but could improve in some areas.
+CUST_1024,Romandie,39,3344.75,2,9,The premiums are too expensive for what is offered.
+CUST_1025,Romandie,38,2609.32,7,4,Claims process was average.
+CUST_1026,Romandie,33,2341.07,3,8,The premiums are too expensive for what is offered.
+CUST_1027,Romandie,31,3244.79,6,6,Unhappy with the claims resolution process.
+CUST_1028,Romandie,40,1361.29,2,8,The policy is overpriced compared to competitors.
+CUST_1029,Romandie,35,2414.45,4,8,Claims handling took too long.
+CUST_1030,Romandie,41,2230.64,5,8,The policy is overpriced compared to competitors.
+CUST_1031,Romandie,36,1496.04,5,3,The premiums are too expensive for what is offered.
+CUST_1032,Romandie,31,1372.18,4,2,Unhappy with the claims resolution process.
+CUST_1033,Romandie,44,3302.94,5,7,The policy is overpriced compared to competitors.
+CUST_1034,Romandie,33,1010.36,6,7,The premiums are too expensive for what is offered.
+CUST_1035,Romandie,33,2680.59,7,7,Service is fine but could improve in some areas.
+CUST_1036,Romandie,32,1687.4,6,9,The policy is overpriced compared to competitors.
+CUST_1037,Romandie,33,1121.3,3,8,The premiums are too expensive for what is offered.
+CUST_1038,Romandie,40,3240.96,4,9,The policy is overpriced compared to competitors.
+CUST_1039,Romandie,35,1073.74,3,9,Customer service was unresponsive.
+CUST_1040,Romandie,33,2599.76,5,10,The policy is overpriced compared to competitors.
+CUST_1041,Romandie,39,1209.95,7,10,Service is fine but could improve in some areas.
+CUST_1042,Romandie,30,1458.15,7,2,"Customer service was okay, nothing exceptional."
+CUST_1043,Romandie,38,1502.77,2,4,The premiums are too expensive for what is offered.
+CUST_1044,Romandie,36,2417.3,6,5,Claims handling took too long.
+CUST_1045,Romandie,30,1908.98,5,7,The policy is overpriced compared to competitors.
+CUST_1046,Romandie,46,2894.98,3,4,Claims handling took too long.
+CUST_1047,Romandie,37,2508.61,4,7,Unhappy with the claims resolution process.
+CUST_1048,Romandie,26,1782.12,2,8,The premiums are too expensive for what is offered.
+CUST_1049,Romandie,32,3410.56,7,4,Service is fine but could improve in some areas.
+CUST_1050,Romandie,44,1665.68,2,4,Customer service was unresponsive.
+CUST_1051,Ticino,64,1927.02,8,5,"Customer service was okay, nothing exceptional."
+CUST_1052,Ticino,53,3188.5,9,3,Competitive pricing for a comprehensive policy.
+CUST_1053,Ticino,56,2397.33,7,14,"Customer service was okay, nothing exceptional."
+CUST_1054,Ticino,60,1446.17,10,14,Claims were handled quickly and efficiently.
+CUST_1055,Ticino,37,2344.83,7,3,Pricing is similar to other companies.
+CUST_1056,Ticino,47,3201.39,8,12,Pricing is similar to other companies.
+CUST_1057,Ticino,57,1364.18,10,10,Competitive pricing for a comprehensive policy.
+CUST_1058,Ticino,52,1429.91,8,3,Pricing is similar to other companies.
+CUST_1059,Ticino,69,3424.75,8,13,"Customer service was okay, nothing exceptional."
+CUST_1060,Ticino,61,3345.89,6,7,Customer service was unresponsive.
+CUST_1061,Ticino,58,2839.29,8,11,Claims process was average.
+CUST_1062,Ticino,60,1230.58,8,8,Claims process was average.
+CUST_1063,Ticino,56,3093.22,8,7,Claims process was average.
+CUST_1064,Ticino,38,2417.97,8,8,Pricing is similar to other companies.
+CUST_1065,Ticino,55,2172.38,7,5,Pricing is similar to other companies.
+CUST_1066,Ticino,49,1708.24,7,7,"Customer service was okay, nothing exceptional."
+CUST_1067,Ticino,55,2642.22,10,7,Great value for the premium paid!
+CUST_1068,Ticino,58,2048.02,6,7,Customer service was unresponsive.
+CUST_1069,Ticino,71,1649.22,9,4,Great value for the premium paid!
+CUST_1070,Ticino,63,2701.55,8,8,Claims process was average.
+CUST_1071,Ticino,65,3261.6,10,13,Claims were handled quickly and efficiently.
+CUST_1072,Ticino,53,2251.0,6,11,The premiums are too expensive for what is offered.
+CUST_1073,Ticino,64,2993.4,7,3,The policy is decent but not outstanding.
+CUST_1074,Ticino,61,2613.19,8,7,Claims process was average.
+CUST_1075,Ticino,59,2937.51,10,9,Customer service was very supportive.
+CUST_1076,Ticino,63,2567.6,7,6,Pricing is similar to other companies.
+CUST_1077,Ticino,57,1567.74,7,6,Claims process was average.
+CUST_1078,Ticino,52,1322.75,10,5,Claims were handled quickly and efficiently.
+CUST_1079,Ticino,54,2211.02,7,7,Claims process was average.
+CUST_1080,Ticino,57,2444.96,9,5,Customer service was very supportive.
+CUST_1081,Ticino,55,2435.0,10,4,Claims were handled quickly and efficiently.
+CUST_1082,Ticino,61,1565.83,8,10,Service is fine but could improve in some areas.
+CUST_1083,Ticino,56,2979.87,9,10,Claims were handled quickly and efficiently.
+CUST_1084,Ticino,55,2209.1,8,9,Claims process was average.
+CUST_1085,Ticino,58,1749.6,7,14,"Customer service was okay, nothing exceptional."
+CUST_1086,Ticino,60,2958.74,10,4,Great value for the premium paid!
+CUST_1087,Ticino,51,3210.46,10,10,Great value for the premium paid!
+CUST_1088,Ticino,50,1504.11,9,11,Great value for the premium paid!
+CUST_1089,Ticino,69,2244.85,7,7,Pricing is similar to other companies.
+CUST_1090,Ticino,45,2795.21,10,7,Customer service was very supportive.
+CUST_1091,Ticino,47,2987.57,8,13,The policy is decent but not outstanding.
+CUST_1092,Ticino,50,2455.05,7,3,The policy is decent but not outstanding.
+CUST_1093,Ticino,56,2041.09,9,10,I am very satisfied with the claims process.
+CUST_1094,Ticino,58,1737.02,10,3,Competitive pricing for a comprehensive policy.
+CUST_1095,Ticino,52,2381.88,9,3,Great value for the premium paid!
+CUST_1096,Ticino,53,1595.68,8,5,The policy is decent but not outstanding.
+CUST_1097,Ticino,69,1529.22,10,7,Great value for the premium paid!
+CUST_1098,Ticino,59,2451.68,10,11,Customer service was very supportive.
+CUST_1099,Ticino,53,3082.0,10,6,Great value for the premium paid!
+CUST_1100,Ticino,62,2418.85,9,3,Claims were handled quickly and efficiently.
+CUST_1101,Ticino,60,2047.6,9,13,I am very satisfied with the claims process.
+CUST_1102,Ticino,51,2138.55,10,8,I am very satisfied with the claims process.
+CUST_1103,Ticino,51,3085.29,9,7,Great value for the premium paid!
+CUST_1104,Ticino,52,3272.74,10,11,Competitive pricing for a comprehensive policy.
+CUST_1105,Ticino,67,2969.94,10,3,Claims were handled quickly and efficiently.
+CUST_1106,Ticino,47,2342.14,9,13,I am very satisfied with the claims process.
+CUST_1107,Ticino,43,2383.23,8,12,"Customer service was okay, nothing exceptional."
+CUST_1108,Ticino,65,1370.28,9,11,Competitive pricing for a comprehensive policy.
+CUST_1109,Ticino,63,2115.06,10,5,Customer service was very supportive.
+CUST_1110,Ticino,47,1236.19,7,12,Claims process was average.
+CUST_1111,Ticino,49,2995.37,6,11,The premiums are too expensive for what is offered.
+CUST_1112,Ticino,48,2373.66,7,8,Service is fine but could improve in some areas.
+CUST_1113,Ticino,62,1125.17,7,2,Service is fine but could improve in some areas.
+CUST_1114,Ticino,54,2276.97,6,8,Customer service was unresponsive.
+CUST_1115,Ticino,41,1569.2,6,6,Claims handling took too long.
+CUST_1116,Ticino,49,2779.5,7,10,The policy is decent but not outstanding.
+CUST_1117,Ticino,47,2243.23,7,4,"Customer service was okay, nothing exceptional."
+CUST_1118,Ticino,54,1577.05,9,5,Claims were handled quickly and efficiently.
+CUST_1119,Ticino,70,2628.7,10,4,Claims were handled quickly and efficiently.
+CUST_1120,Ticino,59,2874.21,10,14,Claims were handled quickly and efficiently.
+CUST_1121,Ticino,64,1465.94,8,10,Pricing is similar to other companies.
+CUST_1122,Ticino,42,3142.44,9,14,Claims were handled quickly and efficiently.
+CUST_1123,Ticino,59,1875.79,10,2,Great value for the premium paid!
+CUST_1124,Ticino,61,2464.97,10,6,Customer service was very supportive.
+CUST_1125,Ticino,49,1934.02,8,2,Service is fine but could improve in some areas.
+CUST_1126,Ticino,56,2686.52,7,10,Pricing is similar to other companies.
+CUST_1127,Ticino,39,2669.82,9,8,Customer service was very supportive.
+CUST_1128,Ticino,58,2092.15,10,4,Competitive pricing for a comprehensive policy.
+CUST_1129,Ticino,62,2320.49,9,3,Great value for the premium paid!
+CUST_1130,Ticino,52,1146.19,6,8,The premiums are too expensive for what is offered.
+CUST_1131,Ticino,49,2232.81,6,14,The premiums are too expensive for what is offered.
+CUST_1132,Ticino,52,1818.86,10,12,Customer service was very supportive.
+CUST_1133,Ticino,44,1022.03,10,13,I am very satisfied with the claims process.
+CUST_1134,Ticino,54,2820.51,10,4,Customer service was very supportive.
+CUST_1135,Ticino,53,1253.06,7,12,"Customer service was okay, nothing exceptional."
+CUST_1136,Ticino,60,1884.6,8,14,Service is fine but could improve in some areas.
+CUST_1137,Ticino,51,2582.3,9,2,Customer service was very supportive.
+CUST_1138,Ticino,53,2799.23,9,8,Great value for the premium paid!
+CUST_1139,Ticino,63,1208.24,10,2,I am very satisfied with the claims process.
+CUST_1140,Ticino,46,3482.57,6,3,Claims handling took too long.
+CUST_1141,Ticino,56,2814.88,9,4,Claims were handled quickly and efficiently.
+CUST_1142,Ticino,57,3434.86,10,4,I am very satisfied with the claims process.
+CUST_1143,Ticino,52,1056.7,8,3,Claims process was average.
+CUST_1144,Ticino,56,2090.62,9,6,Claims were handled quickly and efficiently.
+CUST_1145,Ticino,54,3262.68,10,11,Competitive pricing for a comprehensive policy.
+CUST_1146,Ticino,50,2182.65,10,11,I am very satisfied with the claims process.
+CUST_1147,Ticino,58,3401.63,10,10,Great value for the premium paid!
+CUST_1148,Ticino,60,1025.99,10,4,Claims were handled quickly and efficiently.
+CUST_1149,Ticino,58,3238.83,10,9,Competitive pricing for a comprehensive policy.
+CUST_1150,Ticino,49,1934.43,9,5,Customer service was very supportive.
+CUST_1151,Ticino,55,1100.98,7,2,Service is fine but could improve in some areas.
+CUST_1152,Ticino,53,3307.47,8,13,Claims process was average.
+CUST_1153,Ticino,59,2217.22,8,13,Claims process was average.
+CUST_1154,Ticino,53,2731.73,7,4,Claims process was average.
+CUST_1155,Ticino,61,1106.34,10,9,Claims were handled quickly and efficiently.
+CUST_1156,Ticino,57,1447.0,10,5,Claims were handled quickly and efficiently.
+CUST_1157,Ticino,42,3306.74,9,5,Competitive pricing for a comprehensive policy.
+CUST_1158,Ticino,45,2898.84,7,11,Claims process was average.
+CUST_1159,Ticino,52,2035.36,9,12,Claims were handled quickly and efficiently.
+CUST_1160,Ticino,43,1558.36,8,5,"Customer service was okay, nothing exceptional."
+CUST_1161,Ticino,55,2841.24,8,8,Pricing is similar to other companies.
+CUST_1162,Ticino,52,2264.85,8,7,"Customer service was okay, nothing exceptional."
+CUST_1163,Ticino,50,1673.03,9,10,Customer service was very supportive.
+CUST_1164,Ticino,44,2834.0,6,10,The premiums are too expensive for what is offered.
+CUST_1165,Ticino,52,2821.21,10,2,Customer service was very supportive.
+CUST_1166,Ticino,60,2940.0,8,5,Claims process was average.
+CUST_1167,Ticino,43,1060.92,10,3,Great value for the premium paid!
+CUST_1168,Ticino,62,1244.37,10,8,Claims were handled quickly and efficiently.
+CUST_1169,Ticino,51,3009.66,10,2,Claims were handled quickly and efficiently.
+CUST_1170,Ticino,47,1389.7,6,5,The policy is overpriced compared to competitors.
+CUST_1171,Ticino,51,2811.42,10,14,Great value for the premium paid!
+CUST_1172,Ticino,56,3357.38,7,7,The policy is decent but not outstanding.
+CUST_1173,Ticino,56,2270.34,10,2,Competitive pricing for a comprehensive policy.
+CUST_1174,Ticino,56,1842.48,10,8,Customer service was very supportive.
+CUST_1175,Ticino,49,1073.36,7,6,Service is fine but could improve in some areas.
+CUST_1176,Ticino,58,1389.91,10,4,Great value for the premium paid!
+CUST_1177,Ticino,63,2803.09,8,9,"Customer service was okay, nothing exceptional."
+CUST_1178,Ticino,56,2983.03,10,7,Claims were handled quickly and efficiently.
+CUST_1179,Ticino,50,1197.27,8,11,Service is fine but could improve in some areas.
+CUST_1180,Ticino,47,2001.18,7,12,The policy is decent but not outstanding.
+CUST_1181,Ticino,62,1185.95,9,8,Customer service was very supportive.
+CUST_1182,Ticino,56,1559.5,9,5,Customer service was very supportive.
+CUST_1183,Ticino,49,2293.79,10,4,Customer service was very supportive.
+CUST_1184,Ticino,44,2488.46,6,7,Customer service was unresponsive.
+CUST_1185,Ticino,54,2733.56,7,2,"Customer service was okay, nothing exceptional."
+CUST_1186,Ticino,49,3023.86,8,3,Claims process was average.
+CUST_1187,Ticino,51,2999.23,9,7,Great value for the premium paid!
+CUST_1188,Ticino,60,3292.23,6,3,The premiums are too expensive for what is offered.
+CUST_1189,Ticino,43,2347.36,10,11,I am very satisfied with the claims process.
+CUST_1190,Ticino,59,1388.3,6,12,The premiums are too expensive for what is offered.
+CUST_1191,Ticino,62,2530.7,10,11,Claims were handled quickly and efficiently.
+CUST_1192,Ticino,57,2147.1,9,2,Customer service was very supportive.
+CUST_1193,Ticino,54,1164.79,10,8,Claims were handled quickly and efficiently.
+CUST_1194,Ticino,52,2256.78,7,14,Service is fine but could improve in some areas.
+CUST_1195,Ticino,53,1925.46,10,11,Great value for the premium paid!
+CUST_1196,Ticino,56,1115.9,8,10,Service is fine but could improve in some areas.
+CUST_1197,Ticino,53,1567.01,9,5,Great value for the premium paid!
+CUST_1198,Ticino,49,1180.2,8,12,"Customer service was okay, nothing exceptional."
+CUST_1199,Ticino,57,2093.86,10,10,Customer service was very supportive.
+CUST_1200,Ticino,58,2265.97,10,14,Competitive pricing for a comprehensive policy.
+CUST_1201,Ticino,55,3122.71,10,13,Competitive pricing for a comprehensive policy.
+CUST_1202,Ticino,67,3383.83,9,14,Great value for the premium paid!
+CUST_1203,Ticino,58,2784.67,10,10,Great value for the premium paid!
+CUST_1204,Ticino,61,1347.71,8,12,Service is fine but could improve in some areas.
+CUST_1205,Ticino,50,2558.38,8,14,Pricing is similar to other companies.
+CUST_1206,Ticino,56,1796.67,8,14,"Customer service was okay, nothing exceptional."
+CUST_1207,Ticino,61,1029.66,9,7,I am very satisfied with the claims process.
+CUST_1208,Ticino,59,1250.95,10,11,I am very satisfied with the claims process.
+CUST_1209,Ticino,45,1654.44,9,11,Great value for the premium paid!
+CUST_1210,Ticino,61,2165.6,8,13,The policy is decent but not outstanding.
+CUST_1211,Ticino,46,1490.57,7,11,Claims process was average.
+CUST_1212,Ticino,50,1499.28,7,6,"Customer service was okay, nothing exceptional."
+CUST_1213,Ticino,61,1288.1,8,2,The policy is decent but not outstanding.
+CUST_1214,Ticino,48,3263.5,9,12,Claims were handled quickly and efficiently.
+CUST_1215,Ticino,58,2967.76,10,5,I am very satisfied with the claims process.
+CUST_1216,Ticino,61,1866.67,8,12,Claims process was average.
+CUST_1217,Ticino,58,1685.67,8,13,Claims process was average.
+CUST_1218,Ticino,49,1923.78,10,13,I am very satisfied with the claims process.
+CUST_1219,Ticino,59,1459.71,8,6,The policy is decent but not outstanding.
+CUST_1220,Ticino,46,3398.95,7,8,The policy is decent but not outstanding.
+CUST_1221,Ticino,63,2759.59,9,14,Great value for the premium paid!
+CUST_1222,Ticino,57,1010.65,8,8,Service is fine but could improve in some areas.
+CUST_1223,Ticino,36,2288.24,8,5,Pricing is similar to other companies.
+CUST_1224,Ticino,48,2291.31,9,9,Customer service was very supportive.
+CUST_1225,Ticino,44,2650.85,8,2,The policy is decent but not outstanding.
+CUST_1226,Ticino,60,2025.5,10,2,Claims were handled quickly and efficiently.
+CUST_1227,Ticino,58,1781.82,8,9,Service is fine but could improve in some areas.
+CUST_1228,Ticino,59,2962.88,9,5,Customer service was very supportive.
+CUST_1229,Ticino,68,2361.42,10,11,Competitive pricing for a comprehensive policy.
+CUST_1230,Ticino,65,2950.81,10,8,Claims were handled quickly and efficiently.
+CUST_1231,Ticino,60,2124.23,7,4,Service is fine but could improve in some areas.
+CUST_1232,Ticino,52,1215.77,10,10,Competitive pricing for a comprehensive policy.
+CUST_1233,Ticino,61,2660.62,9,6,Claims were handled quickly and efficiently.
+CUST_1234,Ticino,61,1429.04,10,11,Claims were handled quickly and efficiently.
+CUST_1235,Ticino,44,2884.58,8,4,"Customer service was okay, nothing exceptional."
+CUST_1236,Ticino,56,3133.56,8,8,"Customer service was okay, nothing exceptional."
+CUST_1237,Ticino,59,1242.84,7,8,The policy is decent but not outstanding.
+CUST_1238,Ticino,60,3484.63,10,9,Great value for the premium paid!
+CUST_1239,Ticino,45,1828.52,10,10,I am very satisfied with the claims process.
+CUST_1240,Ticino,49,3494.6,7,9,The policy is decent but not outstanding.
+CUST_1241,Ticino,57,1619.53,10,8,Great value for the premium paid!
+CUST_1242,Ticino,53,2030.31,9,2,Competitive pricing for a comprehensive policy.
+CUST_1243,Ticino,54,2559.44,8,5,"Customer service was okay, nothing exceptional."
+CUST_1244,Ticino,65,3476.77,9,6,Claims were handled quickly and efficiently.
+CUST_1245,Ticino,64,3078.13,7,13,Claims process was average.
+CUST_1246,Ticino,68,1456.13,9,9,Customer service was very supportive.
+CUST_1247,Ticino,46,1961.37,9,10,I am very satisfied with the claims process.
+CUST_1248,Ticino,62,2715.03,10,12,I am very satisfied with the claims process.
+CUST_1249,Ticino,59,2979.35,8,12,Claims process was average.
+CUST_1250,Ticino,55,1710.26,10,10,Competitive pricing for a comprehensive policy.
+CUST_1251,Ticino,43,1607.81,10,13,I am very satisfied with the claims process.
+CUST_1252,Ticino,55,1654.76,10,2,Competitive pricing for a comprehensive policy.
+CUST_1253,Ticino,47,2443.78,9,2,Customer service was very supportive.
+CUST_1254,Ticino,58,2112.33,6,5,Customer service was unresponsive.
+CUST_1255,Ticino,57,3458.34,9,14,Customer service was very supportive.
+CUST_1256,Ticino,46,2381.98,8,10,Service is fine but could improve in some areas.
+CUST_1257,Ticino,57,2898.35,6,11,Customer service was unresponsive.
+CUST_1258,Ticino,59,3075.97,10,2,Competitive pricing for a comprehensive policy.
+CUST_1259,Ticino,46,2431.9,7,11,Pricing is similar to other companies.
+CUST_1260,Ticino,56,2998.25,10,3,Competitive pricing for a comprehensive policy.
+CUST_1261,Ticino,43,2405.02,8,9,The policy is decent but not outstanding.
+CUST_1262,Ticino,46,3423.83,7,7,Pricing is similar to other companies.
+CUST_1263,Ticino,63,1897.87,9,5,Customer service was very supportive.
+CUST_1264,Ticino,73,3074.58,10,11,I am very satisfied with the claims process.
+CUST_1265,Ticino,68,1610.45,9,9,Great value for the premium paid!
+CUST_1266,Ticino,52,1203.61,8,3,Pricing is similar to other companies.
+CUST_1267,Ticino,48,1717.29,9,2,Competitive pricing for a comprehensive policy.
+CUST_1268,Ticino,59,2608.9,10,12,Competitive pricing for a comprehensive policy.
+CUST_1269,Ticino,49,1274.33,10,13,I am very satisfied with the claims process.
+CUST_1270,Ticino,54,1335.45,8,10,The policy is decent but not outstanding.
+CUST_1271,Ticino,59,1981.36,10,5,Great value for the premium paid!
+CUST_1272,Ticino,53,2279.55,7,7,Claims process was average.
+CUST_1273,Ticino,48,2157.76,7,14,Claims process was average.
+CUST_1274,Ticino,50,1225.31,9,7,I am very satisfied with the claims process.
+CUST_1275,Ticino,58,2687.32,8,13,Pricing is similar to other companies.
+CUST_1276,Ticino,53,3443.82,8,14,The policy is decent but not outstanding.
+CUST_1277,Ticino,57,1775.56,10,10,Competitive pricing for a comprehensive policy.
+CUST_1278,Ticino,51,2981.3,8,12,Claims process was average.
+CUST_1279,Ticino,54,1282.39,10,4,Competitive pricing for a comprehensive policy.
+CUST_1280,Ticino,54,2204.0,10,9,Customer service was very supportive.
+CUST_1281,Ticino,54,2409.2,10,10,Customer service was very supportive.
+CUST_1282,Ticino,45,1133.45,8,8,"Customer service was okay, nothing exceptional."
+CUST_1283,Ticino,47,1821.88,6,11,The premiums are too expensive for what is offered.
+CUST_1284,Ticino,62,1134.9,10,7,Customer service was very supportive.
+CUST_1285,Ticino,56,1497.09,10,11,Claims were handled quickly and efficiently.
+CUST_1286,Ticino,44,1818.35,7,12,Pricing is similar to other companies.
+CUST_1287,Ticino,55,2294.58,8,10,Claims process was average.
+CUST_1288,Ticino,53,3295.89,9,12,Great value for the premium paid!
+CUST_1289,Ticino,44,2539.69,10,4,Competitive pricing for a comprehensive policy.
+CUST_1290,Ticino,47,2924.75,7,9,Service is fine but could improve in some areas.
+CUST_1291,Ticino,51,1186.89,10,7,Great value for the premium paid!
+CUST_1292,Ticino,59,2680.35,9,6,Great value for the premium paid!
+CUST_1293,Ticino,63,1278.05,7,4,"Customer service was okay, nothing exceptional."
+CUST_1294,Ticino,59,1438.75,7,13,"Customer service was okay, nothing exceptional."
+CUST_1295,Ticino,51,3473.59,10,4,Great value for the premium paid!
+CUST_1296,Ticino,44,1816.83,10,9,Competitive pricing for a comprehensive policy.
+CUST_1297,Ticino,53,3355.53,9,8,Competitive pricing for a comprehensive policy.
+CUST_1298,Ticino,49,1213.95,10,14,Claims were handled quickly and efficiently.
+CUST_1299,Ticino,58,2015.85,10,3,Great value for the premium paid!
+CUST_1300,Ticino,54,3367.87,6,12,Claims handling took too long.
+CUST_1301,Ticino,54,2269.46,9,7,I am very satisfied with the claims process.
+CUST_1302,Ticino,34,1403.87,10,12,Customer service was very supportive.
+CUST_1303,Ticino,55,1180.9,7,9,The policy is decent but not outstanding.
+CUST_1304,Ticino,49,2032.65,7,13,The policy is decent but not outstanding.
+CUST_1305,Ticino,58,2760.01,9,3,Claims were handled quickly and efficiently.
+CUST_1306,Ticino,46,1249.87,7,9,"Customer service was okay, nothing exceptional."
+CUST_1307,Ticino,54,1088.46,10,7,I am very satisfied with the claims process.
+CUST_1308,Ticino,58,2365.03,9,2,Customer service was very supportive.
+CUST_1309,Ticino,54,1813.62,7,5,The policy is decent but not outstanding.
+CUST_1310,Ticino,56,2703.21,9,11,Competitive pricing for a comprehensive policy.
+CUST_1311,Ticino,52,1535.78,9,12,Customer service was very supportive.
+CUST_1312,Ticino,51,3380.02,9,8,Customer service was very supportive.
+CUST_1313,Ticino,49,2198.86,8,11,Claims process was average.
+CUST_1314,Ticino,57,2998.83,7,9,"Customer service was okay, nothing exceptional."
+CUST_1315,Ticino,55,3204.44,8,7,"Customer service was okay, nothing exceptional."
+CUST_1316,Ticino,49,2087.64,9,13,I am very satisfied with the claims process.
+CUST_1317,Ticino,52,2184.08,9,3,Claims were handled quickly and efficiently.
+CUST_1318,Ticino,61,2179.35,10,4,Customer service was very supportive.
+CUST_1319,Ticino,52,3492.84,9,9,Great value for the premium paid!
+CUST_1320,Ticino,56,3161.25,10,3,Claims were handled quickly and efficiently.
+CUST_1321,Ticino,51,2343.14,6,2,Claims handling took too long.
+CUST_1322,Ticino,56,2742.33,10,7,I am very satisfied with the claims process.
+CUST_1323,Ticino,57,1748.94,10,10,Claims were handled quickly and efficiently.
+CUST_1324,Ticino,58,2273.66,9,14,Competitive pricing for a comprehensive policy.
+CUST_1325,Ticino,61,3492.0,10,14,Great value for the premium paid!
+CUST_1326,Ticino,62,1987.44,9,13,Customer service was very supportive.
+CUST_1327,Ticino,53,1932.11,8,8,Claims process was average.
+CUST_1328,Ticino,56,2295.18,9,11,Great value for the premium paid!
+CUST_1329,Ticino,63,3369.67,8,8,Claims process was average.
+CUST_1330,Ticino,44,1493.62,6,8,Unhappy with the claims resolution process.
+CUST_1331,Ticino,60,2811.37,9,12,Claims were handled quickly and efficiently.
+CUST_1332,Ticino,61,1549.26,10,8,I am very satisfied with the claims process.
+CUST_1333,Ticino,62,3084.28,10,14,Claims were handled quickly and efficiently.
+CUST_1334,Ticino,56,3281.2,10,9,Claims were handled quickly and efficiently.
+CUST_1335,Ticino,50,2316.71,8,10,The policy is decent but not outstanding.
+CUST_1336,Ticino,53,2314.57,8,5,Claims process was average.
+CUST_1337,Ticino,53,1815.44,8,7,The policy is decent but not outstanding.
+CUST_1338,Ticino,49,2701.4,6,8,Claims handling took too long.
+CUST_1339,Ticino,40,1686.48,10,13,Great value for the premium paid!
+CUST_1340,Ticino,47,2188.75,9,13,Great value for the premium paid!
+CUST_1341,Ticino,62,2024.89,7,2,Service is fine but could improve in some areas.
+CUST_1342,Ticino,54,2910.11,9,6,Great value for the premium paid!
+CUST_1343,Ticino,55,2596.4,10,12,Great value for the premium paid!
+CUST_1344,Ticino,48,3130.02,10,8,Customer service was very supportive.
+CUST_1345,Ticino,62,1722.71,10,12,Customer service was very supportive.
+CUST_1346,Ticino,52,1914.72,7,2,Claims process was average.
+CUST_1347,Ticino,53,2988.58,10,6,Competitive pricing for a comprehensive policy.
+CUST_1348,Ticino,58,2685.66,10,10,I am very satisfied with the claims process.
+CUST_1349,Ticino,55,2761.67,7,8,Service is fine but could improve in some areas.
+CUST_1350,Ticino,54,2409.01,9,13,Claims were handled quickly and efficiently.
+CUST_1351,Ticino,52,1941.82,9,6,Competitive pricing for a comprehensive policy.
+CUST_1352,Ticino,61,1994.15,6,12,Claims handling took too long.
+CUST_1353,Ticino,53,2216.47,6,3,Claims handling took too long.
+CUST_1354,Ticino,49,1145.39,10,5,Customer service was very supportive.
+CUST_1355,Ticino,42,3376.18,8,8,Claims process was average.
+CUST_1356,Ticino,53,3250.1,10,11,Claims were handled quickly and efficiently.
+CUST_1357,Ticino,46,3198.31,9,6,Customer service was very supportive.
+CUST_1358,Ticino,50,1194.71,6,12,Customer service was unresponsive.
+CUST_1359,Ticino,51,2466.6,9,3,Competitive pricing for a comprehensive policy.
+CUST_1360,Ticino,72,1998.74,9,7,I am very satisfied with the claims process.
+CUST_1361,Ticino,72,3005.21,10,11,Claims were handled quickly and efficiently.
+CUST_1362,Ticino,57,2289.67,9,12,Claims were handled quickly and efficiently.
+CUST_1363,Ticino,54,1501.53,10,12,I am very satisfied with the claims process.
+CUST_1364,Ticino,51,2972.76,7,10,Service is fine but could improve in some areas.
+CUST_1365,Ticino,49,2965.61,8,10,Pricing is similar to other companies.
+CUST_1366,Ticino,65,1154.6,6,10,The policy is overpriced compared to competitors.
+CUST_1367,Ticino,47,3473.36,10,3,Customer service was very supportive.
+CUST_1368,Ticino,47,3020.7,10,5,Customer service was very supportive.
+CUST_1369,Ticino,65,2487.63,7,14,"Customer service was okay, nothing exceptional."
+CUST_1370,Ticino,59,3302.13,9,12,Customer service was very supportive.
+CUST_1371,Ticino,48,3475.78,6,7,Unhappy with the claims resolution process.
+CUST_1372,Ticino,59,1317.88,7,13,Service is fine but could improve in some areas.
+CUST_1373,Ticino,51,1368.42,8,2,Service is fine but could improve in some areas.
+CUST_1374,Ticino,41,1626.4,7,14,Service is fine but could improve in some areas.
+CUST_1375,Ticino,57,2274.22,9,14,Customer service was very supportive.
+CUST_1376,Ticino,64,2017.96,10,6,I am very satisfied with the claims process.
+CUST_1377,Ticino,57,1583.23,10,7,Customer service was very supportive.
+CUST_1378,Ticino,61,3453.77,9,3,Competitive pricing for a comprehensive policy.
+CUST_1379,Ticino,57,3022.68,6,5,The policy is overpriced compared to competitors.
+CUST_1380,Ticino,51,2624.69,10,4,Claims were handled quickly and efficiently.
+CUST_1381,Ticino,48,2025.83,9,14,Competitive pricing for a comprehensive policy.
+CUST_1382,Ticino,54,1956.76,8,4,Claims process was average.
+CUST_1383,Ticino,52,2364.6,9,5,I am very satisfied with the claims process.
+CUST_1384,Ticino,42,3182.81,10,4,Great value for the premium paid!
+CUST_1385,Ticino,64,2343.81,10,7,Competitive pricing for a comprehensive policy.
+CUST_1386,Ticino,50,2901.0,9,13,Great value for the premium paid!
+CUST_1387,Ticino,60,2676.84,9,10,I am very satisfied with the claims process.
+CUST_1388,Ticino,57,2586.25,7,2,Pricing is similar to other companies.
+CUST_1389,Ticino,53,2995.42,6,6,Customer service was unresponsive.
+CUST_1390,Ticino,54,2039.23,6,8,Claims handling took too long.
+CUST_1391,Ticino,51,3377.21,10,6,Customer service was very supportive.
+CUST_1392,Ticino,49,3320.42,10,13,I am very satisfied with the claims process.
+CUST_1393,Ticino,62,1133.33,9,10,I am very satisfied with the claims process.
+CUST_1394,Ticino,46,1921.14,8,3,Service is fine but could improve in some areas.
+CUST_1395,Ticino,46,2401.4,7,6,Claims process was average.
+CUST_1396,Ticino,57,2949.18,7,10,"Customer service was okay, nothing exceptional."
+CUST_1397,Ticino,55,1250.69,9,5,Customer service was very supportive.
+CUST_1398,Ticino,61,1268.79,9,4,Competitive pricing for a comprehensive policy.
+CUST_1399,Ticino,62,2024.66,8,4,Claims process was average.
+CUST_1400,Ticino,51,1083.92,6,12,The premiums are too expensive for what is offered.
+CUST_1401,Ticino,53,2928.35,6,8,The policy is overpriced compared to competitors.
+CUST_1402,Ticino,55,1853.64,10,6,Claims were handled quickly and efficiently.
+CUST_1403,Ticino,52,2203.34,7,9,Pricing is similar to other companies.
+CUST_1404,Ticino,54,2670.59,9,11,Claims were handled quickly and efficiently.
+CUST_1405,Ticino,54,2005.76,9,10,Customer service was very supportive.
+CUST_1406,Ticino,54,1921.91,10,12,Great value for the premium paid!
+CUST_1407,Ticino,51,1563.52,7,7,Claims process was average.
+CUST_1408,Ticino,55,3278.64,10,11,I am very satisfied with the claims process.
+CUST_1409,Ticino,43,3214.05,6,5,Unhappy with the claims resolution process.
+CUST_1410,Ticino,55,2256.66,7,2,The policy is decent but not outstanding.
+CUST_1411,Ticino,58,2649.04,9,14,Competitive pricing for a comprehensive policy.
+CUST_1412,Ticino,65,1024.14,10,13,Competitive pricing for a comprehensive policy.
+CUST_1413,Ticino,48,3281.17,9,6,Customer service was very supportive.
+CUST_1414,Ticino,57,3126.12,10,11,Great value for the premium paid!
+CUST_1415,Ticino,58,2344.11,9,8,Great value for the premium paid!
+CUST_1416,Ticino,55,2324.32,8,11,Service is fine but could improve in some areas.
+CUST_1417,Ticino,52,1941.06,9,14,Claims were handled quickly and efficiently.
+CUST_1418,Ticino,60,2899.01,10,2,Great value for the premium paid!
+CUST_1419,Ticino,58,1055.94,9,8,I am very satisfied with the claims process.
+CUST_1420,Ticino,57,2287.23,6,7,Claims handling took too long.
+CUST_1421,Ticino,45,2121.76,10,5,Great value for the premium paid!
+CUST_1422,Ticino,59,3117.56,6,13,Customer service was unresponsive.
+CUST_1423,Ticino,64,2889.11,9,5,Great value for the premium paid!
+CUST_1424,Ticino,58,1232.73,10,13,Competitive pricing for a comprehensive policy.
+CUST_1425,Ticino,51,2543.47,7,10,The policy is decent but not outstanding.
+CUST_1426,Ticino,62,2083.58,7,6,"Customer service was okay, nothing exceptional."
+CUST_1427,Ticino,59,1045.05,7,2,"Customer service was okay, nothing exceptional."
+CUST_1428,Ticino,56,1908.98,10,9,Customer service was very supportive.
+CUST_1429,Ticino,50,2334.7,7,9,The policy is decent but not outstanding.
+CUST_1430,Ticino,52,1125.95,7,7,The policy is decent but not outstanding.
+CUST_1431,Ticino,56,3115.13,9,8,Competitive pricing for a comprehensive policy.
+CUST_1432,Ticino,49,1523.42,10,5,Competitive pricing for a comprehensive policy.
+CUST_1433,Ticino,61,3457.06,6,3,Customer service was unresponsive.
+CUST_1434,Ticino,58,1564.91,8,9,Service is fine but could improve in some areas.
+CUST_1435,Ticino,46,2058.16,9,5,Claims were handled quickly and efficiently.
+CUST_1436,Ticino,65,1772.59,10,9,Customer service was very supportive.
+CUST_1437,Ticino,59,2805.76,10,13,Competitive pricing for a comprehensive policy.
+CUST_1438,Ticino,53,2882.69,10,3,I am very satisfied with the claims process.
+CUST_1439,Ticino,53,3180.17,7,9,Pricing is similar to other companies.
+CUST_1440,Ticino,61,1351.89,6,4,Claims handling took too long.
+CUST_1441,Ticino,53,2151.2,10,2,I am very satisfied with the claims process.
+CUST_1442,Ticino,52,1153.73,8,11,Pricing is similar to other companies.
+CUST_1443,Ticino,55,1355.43,10,12,Great value for the premium paid!
+CUST_1444,Ticino,62,2531.62,8,5,Claims process was average.
+CUST_1445,Ticino,52,2801.95,10,3,Customer service was very supportive.
+CUST_1446,Ticino,56,2442.05,10,7,I am very satisfied with the claims process.
+CUST_1447,Ticino,56,1829.56,10,8,Claims were handled quickly and efficiently.
+CUST_1448,Ticino,59,1971.06,10,2,Competitive pricing for a comprehensive policy.
+CUST_1449,Ticino,61,2397.5,10,8,I am very satisfied with the claims process.
+CUST_1450,Ticino,58,1445.76,10,11,Claims were handled quickly and efficiently.
+CUST_1451,Ticino,64,1008.3,8,13,The policy is decent but not outstanding.
+CUST_1452,Ticino,48,2679.8,8,13,Service is fine but could improve in some areas.
+CUST_1453,Ticino,51,1053.25,8,14,The policy is decent but not outstanding.
+CUST_1454,Ticino,49,2755.3,6,6,The premiums are too expensive for what is offered.
+CUST_1455,Ticino,55,2931.85,7,7,Pricing is similar to other companies.
+CUST_1456,Ticino,48,3437.79,7,4,Pricing is similar to other companies.
+CUST_1457,Ticino,51,1220.66,10,5,Competitive pricing for a comprehensive policy.
+CUST_1458,Ticino,60,2238.99,9,13,Customer service was very supportive.
+CUST_1459,Ticino,59,1790.29,10,13,Great value for the premium paid!
+CUST_1460,Ticino,51,1004.01,9,12,Competitive pricing for a comprehensive policy.
+CUST_1461,Ticino,45,2439.64,6,8,Unhappy with the claims resolution process.
+CUST_1462,Ticino,56,2150.18,8,2,The policy is decent but not outstanding.
+CUST_1463,Ticino,64,2334.24,10,3,Competitive pricing for a comprehensive policy.
+CUST_1464,Ticino,52,3202.39,10,9,Great value for the premium paid!
+CUST_1465,Ticino,46,1189.24,8,4,Pricing is similar to other companies.
+CUST_1466,Ticino,54,2133.66,10,9,Customer service was very supportive.
+CUST_1467,Ticino,62,3056.91,7,9,The policy is decent but not outstanding.
+CUST_1468,Ticino,55,1329.43,8,11,Pricing is similar to other companies.
+CUST_1469,Ticino,64,2592.63,10,3,Great value for the premium paid!
+CUST_1470,Ticino,43,2175.31,6,10,The policy is overpriced compared to competitors.
+CUST_1471,Ticino,57,3416.03,9,2,I am very satisfied with the claims process.
+CUST_1472,Ticino,66,1512.08,10,4,Great value for the premium paid!
+CUST_1473,Ticino,52,1885.53,8,9,"Customer service was okay, nothing exceptional."
+CUST_1474,Ticino,57,2247.6,10,12,Customer service was very supportive.
+CUST_1475,Ticino,60,3325.29,7,10,Service is fine but could improve in some areas.
+CUST_1476,Ticino,51,1541.04,8,14,The policy is decent but not outstanding.
+CUST_1477,Ticino,53,2346.14,9,8,Great value for the premium paid!
+CUST_1478,Ticino,36,1206.48,6,2,The policy is overpriced compared to competitors.
+CUST_1479,Ticino,57,3112.73,8,14,"Customer service was okay, nothing exceptional."
+CUST_1480,Ticino,62,1020.78,10,3,Great value for the premium paid!
+CUST_1481,Ticino,60,2872.39,8,4,"Customer service was okay, nothing exceptional."
+CUST_1482,Ticino,59,1884.83,10,12,Claims were handled quickly and efficiently.
+CUST_1483,Ticino,56,3272.06,10,7,Competitive pricing for a comprehensive policy.
+CUST_1484,Ticino,51,1904.73,9,14,Customer service was very supportive.
+CUST_1485,Ticino,56,1385.87,10,12,Competitive pricing for a comprehensive policy.
+CUST_1486,Ticino,54,2446.36,6,3,Customer service was unresponsive.
+CUST_1487,Ticino,47,1981.66,8,12,"Customer service was okay, nothing exceptional."
+CUST_1488,Ticino,55,1415.96,10,7,Claims were handled quickly and efficiently.
+CUST_1489,Ticino,57,3371.52,8,8,Pricing is similar to other companies.
+CUST_1490,Ticino,56,2506.12,10,7,I am very satisfied with the claims process.
+CUST_1491,Ticino,52,2847.86,7,7,Claims process was average.
+CUST_1492,Ticino,58,2632.5,7,6,"Customer service was okay, nothing exceptional."
+CUST_1493,Ticino,47,2911.12,7,5,Service is fine but could improve in some areas.
+CUST_1494,Ticino,54,2057.15,10,5,Competitive pricing for a comprehensive policy.
+CUST_1495,Ticino,64,3135.4,10,2,Great value for the premium paid!
+CUST_1496,Ticino,57,1285.26,10,13,Claims were handled quickly and efficiently.
+CUST_1497,Ticino,53,2868.6,10,13,Claims were handled quickly and efficiently.
+CUST_1498,Ticino,57,1988.33,8,13,"Customer service was okay, nothing exceptional."
+CUST_1499,Ticino,50,2108.9,10,4,Competitive pricing for a comprehensive policy.
+CUST_1500,Ticino,44,2916.43,10,11,Customer service was very supportive.
+CUST_1501,Ticino,49,1989.13,7,10,"Customer service was okay, nothing exceptional."
+CUST_1502,Ticino,38,2210.72,8,8,Claims process was average.
+CUST_1503,Ticino,57,2811.4,9,3,I am very satisfied with the claims process.
+CUST_1504,Ticino,52,2447.23,9,11,Competitive pricing for a comprehensive policy.
+CUST_1505,Ticino,47,1308.1,10,7,Customer service was very supportive.
+CUST_1506,Ticino,42,1624.08,6,13,Customer service was unresponsive.
+CUST_1507,Ticino,51,2095.33,7,10,Service is fine but could improve in some areas.
+CUST_1508,Ticino,64,3380.14,6,7,The premiums are too expensive for what is offered.
+CUST_1509,Ticino,54,1164.38,10,2,Competitive pricing for a comprehensive policy.
+CUST_1510,Ticino,38,3342.57,7,2,Service is fine but could improve in some areas.
+CUST_1511,Ticino,55,1639.13,8,4,"Customer service was okay, nothing exceptional."
+CUST_1512,Ticino,65,2493.8,10,8,Customer service was very supportive.
+CUST_1513,Ticino,52,2631.25,10,14,Customer service was very supportive.
+CUST_1514,Ticino,46,1028.88,6,14,Claims handling took too long.
+CUST_1515,Ticino,48,2392.53,6,4,The premiums are too expensive for what is offered.
+CUST_1516,Ticino,54,1342.89,8,10,"Customer service was okay, nothing exceptional."
+CUST_1517,Ticino,52,3092.37,10,12,I am very satisfied with the claims process.
+CUST_1518,Ticino,56,1353.47,8,13,Pricing is similar to other companies.
+CUST_1519,Ticino,48,2307.37,7,13,The policy is decent but not outstanding.
+CUST_1520,Ticino,45,3334.21,6,10,The premiums are too expensive for what is offered.
+CUST_1521,Ticino,54,2664.08,8,6,Pricing is similar to other companies.
+CUST_1522,Ticino,50,1001.35,6,2,Claims handling took too long.
+CUST_1523,Ticino,60,2082.78,9,5,Competitive pricing for a comprehensive policy.
+CUST_1524,Ticino,53,2760.63,8,11,"Customer service was okay, nothing exceptional."
+CUST_1525,Ticino,44,1356.81,7,10,Claims process was average.
+CUST_1526,Ticino,63,2078.8,9,4,Competitive pricing for a comprehensive policy.
+CUST_1527,Ticino,46,2864.7,9,4,Customer service was very supportive.
+CUST_1528,Ticino,50,2538.4,10,2,Claims were handled quickly and efficiently.
+CUST_1529,Ticino,45,1252.34,8,12,Pricing is similar to other companies.
+CUST_1530,Ticino,53,1275.28,8,12,The policy is decent but not outstanding.
+CUST_1531,Ticino,57,1876.4,10,5,Great value for the premium paid!
+CUST_1532,Ticino,64,1920.0,10,5,Competitive pricing for a comprehensive policy.
+CUST_1533,Ticino,61,1289.73,9,4,Competitive pricing for a comprehensive policy.
+CUST_1534,Ticino,52,2002.97,10,8,I am very satisfied with the claims process.
+CUST_1535,Ticino,63,2057.64,10,2,Competitive pricing for a comprehensive policy.
+CUST_1536,Ticino,61,1840.12,9,3,Competitive pricing for a comprehensive policy.
+CUST_1537,Ticino,71,3486.71,10,4,Customer service was very supportive.
+CUST_1538,Ticino,44,3155.1,10,7,I am very satisfied with the claims process.
+CUST_1539,Ticino,65,2812.89,8,9,Pricing is similar to other companies.
+CUST_1540,Ticino,70,2957.18,10,2,Great value for the premium paid!
+CUST_1541,Ticino,43,3396.77,6,6,Unhappy with the claims resolution process.
+CUST_1542,Ticino,56,2352.81,8,6,The policy is decent but not outstanding.
+CUST_1543,Ticino,56,1036.73,6,4,Unhappy with the claims resolution process.
+CUST_1544,Ticino,55,3295.16,9,2,Great value for the premium paid!
+CUST_1545,Ticino,58,2585.57,7,3,The policy is decent but not outstanding.
+CUST_1546,Ticino,51,2649.67,9,3,Claims were handled quickly and efficiently.
+CUST_1547,Ticino,54,1675.91,7,12,Claims process was average.
+CUST_1548,Ticino,52,2706.24,8,5,"Customer service was okay, nothing exceptional."
+CUST_1549,Ticino,63,2280.2,6,13,Unhappy with the claims resolution process.
+CUST_1550,Ticino,47,1547.55,8,5,Pricing is similar to other companies.
+CUST_1551,Ticino,58,2115.2,10,6,I am very satisfied with the claims process.
+CUST_1552,Ticino,68,2197.33,10,2,Great value for the premium paid!
+CUST_1553,Ticino,56,1547.75,9,2,Competitive pricing for a comprehensive policy.
+CUST_1554,Ticino,53,3243.89,10,3,Claims were handled quickly and efficiently.
+CUST_1555,Ticino,46,2846.34,6,13,The premiums are too expensive for what is offered.
+CUST_1556,Ticino,64,1109.11,8,12,Claims process was average.
+CUST_1557,Ticino,69,1818.25,8,2,Pricing is similar to other companies.
+CUST_1558,Ticino,68,2770.76,10,12,Claims were handled quickly and efficiently.
+CUST_1559,Ticino,48,3034.73,6,7,The policy is overpriced compared to competitors.
+CUST_1560,Ticino,56,2650.79,10,3,Great value for the premium paid!
+CUST_1561,Ticino,46,3133.52,8,12,"Customer service was okay, nothing exceptional."
+CUST_1562,Ticino,69,1051.29,7,2,Pricing is similar to other companies.
+CUST_1563,Ticino,58,1361.66,10,6,Great value for the premium paid!
+CUST_1564,Ticino,56,1643.65,9,8,Competitive pricing for a comprehensive policy.
+CUST_1565,Ticino,45,1817.92,6,11,Unhappy with the claims resolution process.
+CUST_1566,Ticino,44,2486.94,8,12,The policy is decent but not outstanding.
+CUST_1567,Ticino,57,3108.45,10,13,Competitive pricing for a comprehensive policy.
+CUST_1568,Ticino,44,1116.45,10,6,Claims were handled quickly and efficiently.
+CUST_1569,Ticino,54,1352.9,6,13,Customer service was unresponsive.
+CUST_1570,Ticino,55,2763.75,7,6,Service is fine but could improve in some areas.
+CUST_1571,Ticino,61,1032.53,8,13,"Customer service was okay, nothing exceptional."
+CUST_1572,Ticino,70,2570.23,9,5,I am very satisfied with the claims process.
+CUST_1573,Ticino,57,2576.97,9,2,Great value for the premium paid!
+CUST_1574,Ticino,44,2670.79,9,5,Great value for the premium paid!
+CUST_1575,Ticino,57,1338.73,7,6,Service is fine but could improve in some areas.
+CUST_1576,Ticino,49,3271.85,10,2,Customer service was very supportive.
+CUST_1577,Ticino,46,3443.48,9,12,I am very satisfied with the claims process.
+CUST_1578,Ticino,53,3416.4,10,2,I am very satisfied with the claims process.
+CUST_1579,Ticino,60,3154.96,8,12,"Customer service was okay, nothing exceptional."
+CUST_1580,Ticino,55,1902.02,10,4,I am very satisfied with the claims process.
+CUST_1581,Ticino,41,1434.57,7,14,"Customer service was okay, nothing exceptional."
+CUST_1582,Ticino,54,2577.81,8,11,Pricing is similar to other companies.
+CUST_1583,Ticino,52,2240.92,6,5,Claims handling took too long.
+CUST_1584,Ticino,54,2296.19,10,9,I am very satisfied with the claims process.
+CUST_1585,Ticino,62,1164.96,7,7,Claims process was average.
+CUST_1586,Ticino,50,1436.63,6,13,Unhappy with the claims resolution process.
+CUST_1587,Ticino,47,3287.38,8,2,Claims process was average.
+CUST_1588,Ticino,36,2880.63,7,11,Claims process was average.
+CUST_1589,Ticino,46,1053.43,10,8,Claims were handled quickly and efficiently.
+CUST_1590,Ticino,58,3490.23,9,7,Competitive pricing for a comprehensive policy.
+CUST_1591,Ticino,55,1442.34,10,12,I am very satisfied with the claims process.
+CUST_1592,Ticino,53,3494.22,8,3,The policy is decent but not outstanding.
+CUST_1593,Ticino,48,3116.68,9,6,Customer service was very supportive.
+CUST_1594,Ticino,48,2659.57,6,12,The policy is overpriced compared to competitors.
+CUST_1595,Ticino,63,2578.39,9,3,Competitive pricing for a comprehensive policy.
+CUST_1596,Ticino,66,1130.97,9,12,Customer service was very supportive.
+CUST_1597,Ticino,55,2705.47,10,9,Claims were handled quickly and efficiently.
+CUST_1598,Ticino,64,1320.78,8,8,"Customer service was okay, nothing exceptional."
+CUST_1599,Ticino,57,1930.9,7,11,Pricing is similar to other companies.
+CUST_1600,Ticino,62,1399.9,8,14,"Customer service was okay, nothing exceptional."
+CUST_1601,Ticino,43,1848.38,7,5,Pricing is similar to other companies.
+CUST_1602,Ticino,38,3329.06,10,12,Claims were handled quickly and efficiently.
+CUST_1603,Ticino,57,1478.38,8,6,The policy is decent but not outstanding.
+CUST_1604,Ticino,44,2435.68,6,13,Customer service was unresponsive.
+CUST_1605,Ticino,53,2820.88,8,2,The policy is decent but not outstanding.
+CUST_1606,Ticino,59,1688.55,9,3,Claims were handled quickly and efficiently.
+CUST_1607,Ticino,56,2584.46,10,12,Competitive pricing for a comprehensive policy.
+CUST_1608,Ticino,49,2309.15,9,5,I am very satisfied with the claims process.
+CUST_1609,Ticino,58,2897.49,8,13,Service is fine but could improve in some areas.
+CUST_1610,Ticino,45,1617.4,9,12,Great value for the premium paid!
+CUST_1611,Ticino,48,2602.56,9,6,Competitive pricing for a comprehensive policy.
+CUST_1612,Ticino,60,2149.65,9,11,Claims were handled quickly and efficiently.
+CUST_1613,Ticino,53,3096.2,8,7,"Customer service was okay, nothing exceptional."
+CUST_1614,Ticino,49,2157.0,9,10,Customer service was very supportive.
+CUST_1615,Ticino,49,2599.2,9,9,Customer service was very supportive.
+CUST_1616,Ticino,58,2853.97,10,6,Customer service was very supportive.
+CUST_1617,Ticino,65,2162.93,10,13,Great value for the premium paid!
+CUST_1618,Ticino,61,2320.36,10,11,I am very satisfied with the claims process.
+CUST_1619,Ticino,43,2341.71,9,8,Great value for the premium paid!
+CUST_1620,Ticino,63,3242.85,8,4,"Customer service was okay, nothing exceptional."
+CUST_1621,Ticino,44,2501.54,10,12,Claims were handled quickly and efficiently.
+CUST_1622,Ticino,64,1783.45,10,5,Great value for the premium paid!
+CUST_1623,Ticino,59,2584.27,10,12,Claims were handled quickly and efficiently.
+CUST_1624,Ticino,48,1213.92,6,12,The premiums are too expensive for what is offered.
+CUST_1625,Ticino,42,2791.17,10,8,I am very satisfied with the claims process.
+CUST_1626,Ticino,54,2329.97,7,5,Claims process was average.
+CUST_1627,Ticino,38,2810.54,10,11,Claims were handled quickly and efficiently.
+CUST_1628,Ticino,60,2848.46,10,6,I am very satisfied with the claims process.
+CUST_1629,Ticino,52,2352.78,8,3,Pricing is similar to other companies.
+CUST_1630,Ticino,60,2159.87,9,14,Great value for the premium paid!
+CUST_1631,Ticino,57,1177.54,10,12,I am very satisfied with the claims process.
+CUST_1632,Ticino,57,2107.27,7,6,Service is fine but could improve in some areas.
+CUST_1633,Ticino,63,1903.74,9,12,I am very satisfied with the claims process.
+CUST_1634,Ticino,54,1159.17,9,8,Claims were handled quickly and efficiently.
+CUST_1635,Ticino,63,2434.73,8,5,Pricing is similar to other companies.
+CUST_1636,Ticino,49,1132.54,10,7,Claims were handled quickly and efficiently.
+CUST_1637,Ticino,44,2989.28,9,14,Customer service was very supportive.
+CUST_1638,Ticino,59,1940.26,8,8,Pricing is similar to other companies.
+CUST_1639,Ticino,58,2331.14,7,4,Service is fine but could improve in some areas.
+CUST_1640,Ticino,49,2883.25,7,10,"Customer service was okay, nothing exceptional."
+CUST_1641,Ticino,53,1685.55,9,10,I am very satisfied with the claims process.
+CUST_1642,Ticino,54,1529.12,9,11,I am very satisfied with the claims process.
+CUST_1643,Ticino,40,2643.02,8,8,Pricing is similar to other companies.
+CUST_1644,Ticino,50,1034.96,6,6,Claims handling took too long.
+CUST_1645,Ticino,63,2369.87,8,11,"Customer service was okay, nothing exceptional."
+CUST_1646,Ticino,65,1779.01,10,3,I am very satisfied with the claims process.
+CUST_1647,Ticino,58,2280.86,8,8,Claims process was average.
+CUST_1648,Ticino,47,3168.66,9,11,Great value for the premium paid!
+CUST_1649,Ticino,54,2897.99,9,3,I am very satisfied with the claims process.
+CUST_1650,Ticino,63,3149.91,10,4,Great value for the premium paid!
+CUST_1651,Ticino,48,1509.85,7,12,"Customer service was okay, nothing exceptional."
+CUST_1652,Ticino,50,1024.85,7,8,Service is fine but could improve in some areas.
+CUST_1653,Ticino,50,2360.78,8,13,The policy is decent but not outstanding.
+CUST_1654,Ticino,60,2397.0,10,11,Competitive pricing for a comprehensive policy.
+CUST_1655,Ticino,50,1589.18,10,11,Customer service was very supportive.
+CUST_1656,Ticino,45,3411.75,8,12,"Customer service was okay, nothing exceptional."
+CUST_1657,Ticino,66,1010.79,8,9,Pricing is similar to other companies.
+CUST_1658,Ticino,57,3389.67,7,8,Pricing is similar to other companies.
+CUST_1659,Ticino,32,1423.97,6,10,The premiums are too expensive for what is offered.
+CUST_1660,Ticino,53,3218.86,8,5,"Customer service was okay, nothing exceptional."
+CUST_1661,Ticino,51,3213.32,9,9,I am very satisfied with the claims process.
+CUST_1662,Ticino,56,2741.58,10,10,Great value for the premium paid!
+CUST_1663,Ticino,54,1821.38,10,10,Great value for the premium paid!
+CUST_1664,Ticino,49,1681.04,9,2,Customer service was very supportive.
+CUST_1665,Ticino,63,3183.65,10,5,Claims were handled quickly and efficiently.
+CUST_1666,Ticino,54,2429.74,6,4,The policy is overpriced compared to competitors.
+CUST_1667,Ticino,52,1756.62,10,11,Customer service was very supportive.
+CUST_1668,Ticino,55,1409.18,8,14,Claims process was average.
+CUST_1669,Ticino,50,1155.51,7,10,Pricing is similar to other companies.
+CUST_1670,Ticino,64,3130.23,10,10,Claims were handled quickly and efficiently.
+CUST_1671,Ticino,68,1420.39,8,11,The policy is decent but not outstanding.
+CUST_1672,Ticino,41,3407.95,7,11,"Customer service was okay, nothing exceptional."
+CUST_1673,Ticino,50,3116.62,8,8,The policy is decent but not outstanding.
+CUST_1674,Ticino,60,2164.01,6,4,Customer service was unresponsive.
+CUST_1675,Ticino,57,1061.58,7,12,Service is fine but could improve in some areas.
+CUST_1676,Ticino,65,2012.18,7,4,Claims process was average.
+CUST_1677,Ticino,47,2906.07,9,2,I am very satisfied with the claims process.
+CUST_1678,Ticino,58,2613.42,9,10,Claims were handled quickly and efficiently.
+CUST_1679,Romandie,44,2912.19,5,10,The premiums are too expensive for what is offered.
+CUST_1680,Romandie,40,1514.92,5,7,The premiums are too expensive for what is offered.
+CUST_1681,Romandie,44,1053.93,4,6,The policy is overpriced compared to competitors.
+CUST_1682,Romandie,32,1182.74,4,5,Unhappy with the claims resolution process.
+CUST_1683,Romandie,31,2749.5,5,9,The premiums are too expensive for what is offered.
+CUST_1684,Romandie,28,1964.19,3,2,Unhappy with the claims resolution process.
+CUST_1685,Romandie,27,3221.81,3,1,Claims handling took too long.
+CUST_1686,Romandie,29,1977.34,5,1,The policy is overpriced compared to competitors.
+CUST_1687,Romandie,44,1186.89,7,1,The policy is decent but not outstanding.
+CUST_1688,Romandie,47,2036.29,2,5,Unhappy with the claims resolution process.
+CUST_1689,Romandie,39,2010.35,6,10,The premiums are too expensive for what is offered.
+CUST_1690,Romandie,37,2532.23,6,10,Claims handling took too long.
+CUST_1691,Romandie,25,1689.87,3,8,The premiums are too expensive for what is offered.
+CUST_1692,Romandie,26,2255.0,2,3,The premiums are too expensive for what is offered.
+CUST_1693,Romandie,45,3183.68,4,6,The premiums are too expensive for what is offered.
+CUST_1694,Romandie,31,1211.92,2,1,The premiums are too expensive for what is offered.
+CUST_1695,Romandie,33,3275.17,6,5,Claims handling took too long.
+CUST_1696,Romandie,34,1554.48,6,6,The premiums are too expensive for what is offered.
+CUST_1697,Romandie,34,2649.88,7,3,The policy is decent but not outstanding.
+CUST_1698,Romandie,40,3063.17,5,1,Unhappy with the claims resolution process.
+CUST_1699,Romandie,40,2034.09,2,4,Customer service was unresponsive.
+CUST_1700,Romandie,36,2971.38,4,3,Customer service was unresponsive.
+CUST_1701,Romandie,35,2846.06,6,4,Unhappy with the claims resolution process.
+CUST_1702,Romandie,26,2379.6,5,8,Unhappy with the claims resolution process.
+CUST_1703,Romandie,29,3414.05,2,9,Unhappy with the claims resolution process.
+CUST_1704,Romandie,38,2322.87,7,2,Claims process was average.
+CUST_1705,Romandie,42,1714.18,7,2,Claims process was average.
+CUST_1706,Romandie,29,1702.04,6,4,Customer service was unresponsive.
+CUST_1707,Romandie,36,3358.56,2,5,Unhappy with the claims resolution process.
+CUST_1708,Romandie,28,1476.64,6,10,The policy is overpriced compared to competitors.
+CUST_1709,Romandie,36,3264.94,4,4,Customer service was unresponsive.
+CUST_1710,Romandie,40,2405.01,3,2,Claims handling took too long.
+CUST_1711,Romandie,35,2439.86,2,1,Customer service was unresponsive.
+CUST_1712,Romandie,27,2957.65,2,10,Claims handling took too long.
+CUST_1713,Romandie,27,2560.46,2,4,Claims handling took too long.
+CUST_1714,Romandie,38,2009.84,3,7,The policy is overpriced compared to competitors.
+CUST_1715,Romandie,31,2456.16,5,8,The premiums are too expensive for what is offered.
+CUST_1716,Romandie,48,1036.23,5,6,Claims handling took too long.
+CUST_1717,Romandie,41,3494.16,2,3,Claims handling took too long.
+CUST_1718,Romandie,31,3425.18,3,3,Customer service was unresponsive.
+CUST_1719,Romandie,36,1786.64,7,6,Service is fine but could improve in some areas.
+CUST_1720,Romandie,37,2913.92,7,3,Pricing is similar to other companies.
+CUST_1721,Romandie,39,3381.79,7,2,Claims process was average.
+CUST_1722,Romandie,42,2485.84,3,10,Customer service was unresponsive.
+CUST_1723,Romandie,24,1606.27,1,4,Unhappy with the claims resolution process.
+CUST_1724,Romandie,28,2160.65,5,9,Claims handling took too long.
+CUST_1725,Romandie,35,3109.81,3,1,Unhappy with the claims resolution process.
+CUST_1726,Romandie,34,1136.34,3,4,The premiums are too expensive for what is offered.
+CUST_1727,Romandie,32,1109.85,6,6,Unhappy with the claims resolution process.
+CUST_1728,Romandie,31,3143.69,4,8,Unhappy with the claims resolution process.
+CUST_1729,Romandie,37,1325.9,3,9,Claims handling took too long.
+CUST_1730,Romandie,25,2482.81,6,8,Customer service was unresponsive.
+CUST_1731,Romandie,27,1976.73,5,1,Unhappy with the claims resolution process.
+CUST_1732,Romandie,31,2634.64,5,4,Customer service was unresponsive.
+CUST_1733,Romandie,31,1663.31,3,9,Customer service was unresponsive.
+CUST_1734,Romandie,37,2426.57,3,4,Unhappy with the claims resolution process.
+CUST_1735,Romandie,40,3150.64,4,8,The policy is overpriced compared to competitors.
+CUST_1736,Romandie,41,3013.39,5,1,Claims handling took too long.
+CUST_1737,Romandie,40,2787.03,6,4,Unhappy with the claims resolution process.
+CUST_1738,Romandie,33,1792.43,4,6,Unhappy with the claims resolution process.
+CUST_1739,Romandie,38,1195.5,6,2,Customer service was unresponsive.
+CUST_1740,Romandie,40,1783.35,2,3,Claims handling took too long.
+CUST_1741,Romandie,30,2680.49,3,2,Unhappy with the claims resolution process.
+CUST_1742,Romandie,32,2600.99,3,2,Customer service was unresponsive.
+CUST_1743,Romandie,29,1721.83,2,7,The premiums are too expensive for what is offered.
+CUST_1744,Romandie,32,2634.06,6,9,The policy is overpriced compared to competitors.
+CUST_1745,Romandie,35,3473.45,7,7,Claims process was average.
+CUST_1746,Romandie,35,3292.72,4,10,Claims handling took too long.
+CUST_1747,Romandie,32,2564.81,7,8,Pricing is similar to other companies.
+CUST_1748,Romandie,40,3493.49,6,3,The policy is overpriced compared to competitors.
+CUST_1749,Romandie,41,1795.71,6,4,Unhappy with the claims resolution process.
+CUST_1750,Romandie,27,2063.36,3,8,The premiums are too expensive for what is offered.
+CUST_1751,Romandie,24,1446.86,2,8,The premiums are too expensive for what is offered.
+CUST_1752,Romandie,25,1836.45,6,8,Unhappy with the claims resolution process.
+CUST_1753,Romandie,32,1535.19,4,7,The premiums are too expensive for what is offered.
+CUST_1754,Romandie,32,2975.69,2,5,Customer service was unresponsive.
+CUST_1755,Romandie,42,1891.88,7,3,"Customer service was okay, nothing exceptional."
+CUST_1756,Romandie,31,1182.28,6,1,Unhappy with the claims resolution process.
+CUST_1757,Romandie,35,3377.35,6,3,The policy is overpriced compared to competitors.
+CUST_1758,Romandie,29,1497.08,4,5,Claims handling took too long.
+CUST_1759,Romandie,39,1984.84,3,2,Customer service was unresponsive.
+CUST_1760,Romandie,38,1730.94,3,7,Customer service was unresponsive.
+CUST_1761,Romandie,34,1017.91,4,2,Claims handling took too long.
+CUST_1762,Romandie,35,2897.26,7,2,Pricing is similar to other companies.
+CUST_1763,Romandie,37,2113.23,4,8,Customer service was unresponsive.
+CUST_1764,Romandie,35,1655.11,6,7,The premiums are too expensive for what is offered.
+CUST_1765,Romandie,40,1562.1,2,1,Customer service was unresponsive.
+CUST_1766,Romandie,41,1091.17,6,10,Claims handling took too long.
+CUST_1767,Romandie,28,1605.09,4,5,The policy is overpriced compared to competitors.
+CUST_1768,Romandie,30,3101.98,4,7,Claims handling took too long.
+CUST_1769,Romandie,44,3346.45,6,3,Unhappy with the claims resolution process.
+CUST_1770,Romandie,37,1920.66,3,3,The premiums are too expensive for what is offered.
+CUST_1771,Romandie,31,3464.15,4,6,Unhappy with the claims resolution process.
+CUST_1772,Romandie,34,2800.47,6,2,Claims handling took too long.
+CUST_1773,Romandie,33,2500.86,3,10,The policy is overpriced compared to competitors.
+CUST_1774,Romandie,35,1150.09,3,7,The policy is overpriced compared to competitors.
+CUST_1775,Romandie,38,2302.11,3,1,Unhappy with the claims resolution process.
+CUST_1776,Romandie,46,3439.66,5,2,Customer service was unresponsive.
+CUST_1777,Romandie,39,3450.51,4,2,Claims handling took too long.
+CUST_1778,Romandie,23,1022.74,3,7,The policy is overpriced compared to competitors.
+CUST_1779,Romandie,31,1967.99,6,7,The policy is overpriced compared to competitors.
+CUST_1780,Romandie,36,2890.01,6,5,Customer service was unresponsive.
+CUST_1781,Romandie,38,1917.44,7,6,The policy is decent but not outstanding.
+CUST_1782,Romandie,33,2302.57,3,8,The premiums are too expensive for what is offered.
+CUST_1783,Romandie,29,2452.22,2,9,Claims handling took too long.
+CUST_1784,Romandie,35,3395.09,3,4,Unhappy with the claims resolution process.
+CUST_1785,Romandie,30,2291.81,3,4,The policy is overpriced compared to competitors.
+CUST_1786,Romandie,34,1788.93,5,1,The premiums are too expensive for what is offered.
+CUST_1787,Romandie,26,2287.73,2,10,Claims handling took too long.
+CUST_1788,Romandie,28,1100.63,2,7,The policy is overpriced compared to competitors.
+CUST_1789,Romandie,46,1194.46,6,1,Customer service was unresponsive.
+CUST_1790,Romandie,29,1519.98,1,8,The policy is overpriced compared to competitors.
+CUST_1791,Romandie,33,3055.93,4,4,Claims handling took too long.
+CUST_1792,Romandie,29,3179.42,2,3,Customer service was unresponsive.
+CUST_1793,Romandie,30,2513.34,2,4,The premiums are too expensive for what is offered.
+CUST_1794,Romandie,46,2089.07,6,10,Claims handling took too long.
+CUST_1795,Romandie,37,2864.14,4,9,The premiums are too expensive for what is offered.
+CUST_1796,Romandie,30,1902.35,4,2,The policy is overpriced compared to competitors.
+CUST_1797,Romandie,30,1176.73,2,8,Customer service was unresponsive.
+CUST_1798,Romandie,22,2941.62,0,6,Unhappy with the claims resolution process.
+CUST_1799,Romandie,35,1182.45,2,3,The policy is overpriced compared to competitors.
+CUST_1800,Romandie,37,1194.47,2,10,Claims handling took too long.
+CUST_1801,Romandie,34,1071.26,3,10,Claims handling took too long.
+CUST_1802,Romandie,34,1946.41,2,7,Customer service was unresponsive.
+CUST_1803,Romandie,33,2289.66,4,6,Unhappy with the claims resolution process.
+CUST_1804,Romandie,28,2257.6,3,5,Claims handling took too long.
+CUST_1805,Romandie,42,3275.93,3,2,Unhappy with the claims resolution process.
+CUST_1806,Romandie,30,3261.41,4,9,Customer service was unresponsive.
+CUST_1807,Romandie,37,2154.6,2,1,Claims handling took too long.
+CUST_1808,Romandie,47,1793.82,7,7,Pricing is similar to other companies.
+CUST_1809,Romandie,33,1156.55,3,2,Claims handling took too long.
+CUST_1810,Romandie,36,2938.37,6,8,Customer service was unresponsive.
+CUST_1811,Romandie,34,1585.91,2,1,Customer service was unresponsive.
+CUST_1812,Romandie,47,3248.19,4,8,The policy is overpriced compared to competitors.
+CUST_1813,Romandie,32,2823.06,2,7,Claims handling took too long.
+CUST_1814,Romandie,32,1692.9,7,7,Service is fine but could improve in some areas.
+CUST_1815,Romandie,26,1102.08,3,3,Customer service was unresponsive.
+CUST_1816,Romandie,26,3411.4,4,8,The policy is overpriced compared to competitors.
+CUST_1817,Romandie,35,1310.82,4,9,Unhappy with the claims resolution process.
+CUST_1818,Romandie,35,1129.77,2,8,Customer service was unresponsive.
+CUST_1819,Romandie,28,1254.52,4,3,Unhappy with the claims resolution process.
+CUST_1820,Romandie,35,2560.1,6,6,Customer service was unresponsive.
+CUST_1821,Romandie,33,1966.51,5,1,The premiums are too expensive for what is offered.
+CUST_1822,Romandie,27,3017.64,4,8,The policy is overpriced compared to competitors.
+CUST_1823,Romandie,37,1985.81,5,5,Claims handling took too long.
+CUST_1824,Romandie,37,2183.19,5,7,Unhappy with the claims resolution process.
+CUST_1825,Romandie,21,2336.32,4,3,Unhappy with the claims resolution process.
+CUST_1826,Romandie,37,3252.31,7,3,The policy is decent but not outstanding.
+CUST_1827,Romandie,38,1428.96,3,8,Unhappy with the claims resolution process.
+CUST_1828,Romandie,32,1865.66,2,4,Claims handling took too long.
+CUST_1829,Romandie,31,3088.79,2,10,The policy is overpriced compared to competitors.
+CUST_1830,Romandie,46,3292.76,7,5,"Customer service was okay, nothing exceptional."
+CUST_1831,Romandie,42,3331.62,6,9,Claims handling took too long.
+CUST_1832,Romandie,34,1160.2,2,10,The policy is overpriced compared to competitors.
+CUST_1833,Romandie,42,1160.67,3,6,Unhappy with the claims resolution process.
+CUST_1834,Romandie,37,3299.25,4,8,The premiums are too expensive for what is offered.
+CUST_1835,Romandie,36,2568.57,6,2,The premiums are too expensive for what is offered.
+CUST_1836,Romandie,31,2728.06,4,9,The policy is overpriced compared to competitors.
+CUST_1837,Romandie,42,2132.03,2,9,Customer service was unresponsive.
+CUST_1838,Romandie,36,3162.09,4,10,Unhappy with the claims resolution process.
+CUST_1839,Romandie,45,1246.35,5,7,Unhappy with the claims resolution process.
+CUST_1840,Romandie,41,2301.53,7,8,"Customer service was okay, nothing exceptional."
+CUST_1841,Romandie,33,1482.8,4,4,The policy is overpriced compared to competitors.
+CUST_1842,Romandie,32,2631.95,5,1,Customer service was unresponsive.
+CUST_1843,Romandie,28,1242.37,5,10,Claims handling took too long.
+CUST_1844,Romandie,30,2503.55,2,3,The policy is overpriced compared to competitors.
+CUST_1845,Romandie,35,3422.67,3,1,Customer service was unresponsive.
+CUST_1846,Romandie,33,3467.78,7,5,Pricing is similar to other companies.
+CUST_1847,Romandie,33,1225.06,4,2,The policy is overpriced compared to competitors.
+CUST_1848,Romandie,36,3001.3,2,10,The policy is overpriced compared to competitors.
+CUST_1849,Romandie,43,1886.33,7,3,The policy is decent but not outstanding.
+CUST_1850,Romandie,36,3061.64,5,1,Customer service was unresponsive.
+CUST_1851,Romandie,36,1433.89,2,3,Unhappy with the claims resolution process.
+CUST_1852,Romandie,40,2012.34,2,3,Unhappy with the claims resolution process.
+CUST_1853,Romandie,39,1621.75,4,7,Customer service was unresponsive.
+CUST_1854,Romandie,33,2418.04,7,1,The policy is decent but not outstanding.
+CUST_1855,Romandie,31,3239.02,6,7,Unhappy with the claims resolution process.
+CUST_1856,Romandie,33,1268.3,3,4,The premiums are too expensive for what is offered.
+CUST_1857,Romandie,49,1863.81,7,6,Pricing is similar to other companies.
+CUST_1858,Romandie,24,1007.87,2,5,The premiums are too expensive for what is offered.
+CUST_1859,Romandie,32,3263.41,5,1,Unhappy with the claims resolution process.
+CUST_1860,Romandie,30,1300.22,4,6,Customer service was unresponsive.
+CUST_1861,Romandie,26,1553.0,1,4,Unhappy with the claims resolution process.
+CUST_1862,Romandie,29,2834.26,6,3,Claims handling took too long.
+CUST_1863,Romandie,33,3403.53,7,4,The policy is decent but not outstanding.
+CUST_1864,Romandie,39,1962.54,6,9,Customer service was unresponsive.
+CUST_1865,Romandie,29,1878.97,5,4,Unhappy with the claims resolution process.
+CUST_1866,Romandie,38,1251.37,6,1,Unhappy with the claims resolution process.
+CUST_1867,Romandie,31,3267.83,7,7,"Customer service was okay, nothing exceptional."
+CUST_1868,Romandie,26,2154.47,5,3,The premiums are too expensive for what is offered.
+CUST_1869,Romandie,36,2160.19,3,5,The policy is overpriced compared to competitors.
+CUST_1870,Romandie,32,2935.44,4,1,Claims handling took too long.
+CUST_1871,Romandie,31,2523.59,7,3,Claims process was average.
+CUST_1872,Romandie,34,1683.97,4,6,The premiums are too expensive for what is offered.
+CUST_1873,Romandie,35,1175.85,7,8,The policy is decent but not outstanding.
+CUST_1874,Romandie,27,2359.3,3,6,Claims handling took too long.
+CUST_1875,Romandie,37,1661.62,5,6,Customer service was unresponsive.
+CUST_1876,Romandie,41,2626.27,3,6,The policy is overpriced compared to competitors.
+CUST_1877,Romandie,24,3151.08,6,9,The policy is overpriced compared to competitors.
+CUST_1878,Romandie,31,1242.74,4,4,Unhappy with the claims resolution process.
+CUST_1879,Romandie,42,1127.97,6,8,Claims handling took too long.
+CUST_1880,Romandie,29,3498.87,3,4,Unhappy with the claims resolution process.
+CUST_1881,Romandie,33,3141.19,2,9,Unhappy with the claims resolution process.
+CUST_1882,Romandie,25,1535.72,3,10,The premiums are too expensive for what is offered.
+CUST_1883,Romandie,34,2741.84,6,7,The policy is overpriced compared to competitors.
+CUST_1884,Romandie,31,1005.37,6,7,The policy is overpriced compared to competitors.
+CUST_1885,Romandie,23,2686.49,7,8,"Customer service was okay, nothing exceptional."
+CUST_1886,Romandie,39,3373.65,5,9,Unhappy with the claims resolution process.
+CUST_1887,Romandie,35,1912.65,2,1,Unhappy with the claims resolution process.
+CUST_1888,Romandie,31,1994.37,4,4,The policy is overpriced compared to competitors.
+CUST_1889,Romandie,38,1396.18,6,6,The premiums are too expensive for what is offered.
+CUST_1890,Romandie,23,1338.58,2,6,The premiums are too expensive for what is offered.
+CUST_1891,Romandie,30,1186.93,3,5,Customer service was unresponsive.
+CUST_1892,Romandie,29,2133.23,3,3,The premiums are too expensive for what is offered.
+CUST_1893,Romandie,28,2802.49,3,4,The premiums are too expensive for what is offered.
+CUST_1894,Romandie,39,2321.27,3,5,Claims handling took too long.
+CUST_1895,Romandie,37,2580.82,3,3,Claims handling took too long.
+CUST_1896,Romandie,36,1999.61,7,9,"Customer service was okay, nothing exceptional."
+CUST_1897,Romandie,35,2920.25,7,8,Service is fine but could improve in some areas.
+CUST_1898,Romandie,37,1199.34,6,1,Claims handling took too long.
+CUST_1899,Romandie,29,2164.33,2,4,Customer service was unresponsive.
+CUST_1900,Romandie,21,1107.65,4,4,Claims handling took too long.
+CUST_1901,Romandie,32,1414.22,6,5,The policy is overpriced compared to competitors.
+CUST_1902,Romandie,31,3222.84,4,6,The premiums are too expensive for what is offered.
+CUST_1903,Romandie,41,2615.45,6,3,Unhappy with the claims resolution process.
+CUST_1904,Romandie,39,2049.48,5,3,The premiums are too expensive for what is offered.
+CUST_1905,Romandie,35,1404.69,4,3,Customer service was unresponsive.
+CUST_1906,Romandie,31,2604.67,5,1,Unhappy with the claims resolution process.
+CUST_1907,Romandie,38,2917.38,7,7,The policy is decent but not outstanding.
+CUST_1908,Romandie,38,1325.18,3,7,Customer service was unresponsive.
+CUST_1909,Romandie,28,2811.69,6,4,Unhappy with the claims resolution process.
+CUST_1910,Romandie,35,1255.99,6,3,Unhappy with the claims resolution process.
+CUST_1911,Romandie,37,1072.94,4,5,Unhappy with the claims resolution process.
+CUST_1912,Romandie,31,1940.04,4,4,Claims handling took too long.
+CUST_1913,Romandie,38,1484.89,5,4,The premiums are too expensive for what is offered.
+CUST_1914,Romandie,39,2314.76,4,10,Customer service was unresponsive.
+CUST_1915,Romandie,41,1418.82,5,1,Unhappy with the claims resolution process.
+CUST_1916,Romandie,36,1494.06,6,7,Customer service was unresponsive.
+CUST_1917,Romandie,30,1974.94,6,1,The policy is overpriced compared to competitors.
+CUST_1918,Romandie,37,2322.9,4,3,The policy is overpriced compared to competitors.
+CUST_1919,Romandie,29,1612.1,2,2,The premiums are too expensive for what is offered.
+CUST_1920,Romandie,30,2609.58,7,7,The policy is decent but not outstanding.
+CUST_1921,Romandie,26,3324.21,2,1,Unhappy with the claims resolution process.
+CUST_1922,Romandie,24,1245.83,1,9,Claims handling took too long.
+CUST_1923,Romandie,31,1885.44,4,3,The policy is overpriced compared to competitors.
+CUST_1924,Romandie,40,2237.94,6,2,Customer service was unresponsive.
+CUST_1925,Romandie,31,3244.05,6,5,The premiums are too expensive for what is offered.
+CUST_1926,Romandie,22,1568.39,0,4,Customer service was unresponsive.
+CUST_1927,Romandie,39,2850.57,5,2,Unhappy with the claims resolution process.
+CUST_1928,Romandie,32,2178.94,5,1,The policy is overpriced compared to competitors.
+CUST_1929,Romandie,36,1389.64,7,2,The policy is decent but not outstanding.
+CUST_1930,Romandie,40,2669.36,5,8,The policy is overpriced compared to competitors.
+CUST_1931,Romandie,35,2363.98,4,3,Customer service was unresponsive.
+CUST_1932,Romandie,37,1069.65,6,8,The premiums are too expensive for what is offered.
+CUST_1933,Romandie,30,3483.27,6,7,Unhappy with the claims resolution process.
+CUST_1934,Romandie,37,1920.35,3,1,Claims handling took too long.
+CUST_1935,Romandie,35,2831.06,2,7,The premiums are too expensive for what is offered.
+CUST_1936,Romandie,40,2285.96,5,10,Customer service was unresponsive.
+CUST_1937,Romandie,31,2565.33,4,2,Claims handling took too long.
+CUST_1938,Romandie,38,2862.84,3,3,Customer service was unresponsive.
+CUST_1939,Romandie,40,1244.95,7,9,Service is fine but could improve in some areas.
+CUST_1940,Romandie,32,2640.03,7,7,Pricing is similar to other companies.
+CUST_1941,Romandie,43,1177.72,7,6,Pricing is similar to other companies.
+CUST_1942,Romandie,36,2136.96,2,7,The premiums are too expensive for what is offered.
+CUST_1943,Romandie,36,3376.31,5,9,Claims handling took too long.
+CUST_1944,Romandie,39,2396.95,5,6,Customer service was unresponsive.
+CUST_1945,Romandie,44,1774.28,2,7,The premiums are too expensive for what is offered.
+CUST_1946,Romandie,33,2505.25,7,1,"Customer service was okay, nothing exceptional."
+CUST_1947,Romandie,42,2036.64,4,1,Customer service was unresponsive.
+CUST_1948,Romandie,30,1575.31,6,4,Claims handling took too long.
+CUST_1949,Romandie,41,2919.11,4,3,Customer service was unresponsive.
+CUST_1950,Romandie,39,1711.2,7,7,Pricing is similar to other companies.
+CUST_1951,Romandie,29,1583.67,2,4,Unhappy with the claims resolution process.
+CUST_1952,Romandie,32,2528.83,7,5,The policy is decent but not outstanding.
+CUST_1953,Romandie,39,3002.16,7,8,"Customer service was okay, nothing exceptional."
+CUST_1954,Romandie,38,3008.32,6,6,The premiums are too expensive for what is offered.
+CUST_1955,Romandie,36,1327.38,4,4,The premiums are too expensive for what is offered.
+CUST_1956,Romandie,31,1539.27,4,2,The policy is overpriced compared to competitors.
+CUST_1957,Romandie,36,2733.77,7,10,Pricing is similar to other companies.
+CUST_1958,Romandie,28,1517.1,2,4,Claims handling took too long.
+CUST_1959,Romandie,33,1408.59,5,1,Unhappy with the claims resolution process.
+CUST_1960,Romandie,26,1643.23,0,6,The policy is overpriced compared to competitors.
+CUST_1961,Romandie,39,1225.12,6,9,The policy is overpriced compared to competitors.
+CUST_1962,Romandie,37,3455.88,5,2,Claims handling took too long.
+CUST_1963,Romandie,34,2352.64,5,1,The premiums are too expensive for what is offered.
+CUST_1964,Romandie,37,2256.97,5,8,Claims handling took too long.
+CUST_1965,Romandie,39,2046.17,7,3,The policy is decent but not outstanding.
+CUST_1966,Romandie,37,1893.52,5,6,The premiums are too expensive for what is offered.
+CUST_1967,Romandie,29,2406.67,0,1,Claims handling took too long.
+CUST_1968,Romandie,28,1382.34,3,1,Customer service was unresponsive.
+CUST_1969,Romandie,27,2142.21,1,6,The premiums are too expensive for what is offered.
+CUST_1970,Romandie,37,1386.62,3,1,The premiums are too expensive for what is offered.
+CUST_1971,Romandie,42,2399.42,5,8,Claims handling took too long.
+CUST_1972,Romandie,25,1504.44,4,2,Claims handling took too long.
+CUST_1973,Romandie,42,1686.68,3,2,Unhappy with the claims resolution process.
+CUST_1974,Romandie,41,1957.41,2,8,Unhappy with the claims resolution process.
+CUST_1975,Romandie,31,2457.29,6,1,Claims handling took too long.
+CUST_1976,Romandie,36,3027.24,6,10,Unhappy with the claims resolution process.
+CUST_1977,Romandie,27,2858.76,4,10,Customer service was unresponsive.
+CUST_1978,Romandie,35,1392.19,6,9,Claims handling took too long.
+CUST_1979,Romandie,43,3325.52,2,2,Customer service was unresponsive.
+CUST_1980,Romandie,35,1681.69,4,3,Claims handling took too long.
+CUST_1981,Romandie,44,2276.37,7,9,Claims process was average.
+CUST_1982,Romandie,30,2397.39,5,1,Unhappy with the claims resolution process.
+CUST_1983,Romandie,33,2971.55,4,9,Claims handling took too long.
+CUST_1984,Romandie,27,3403.35,3,4,Claims handling took too long.
+CUST_1985,Romandie,30,1265.25,2,10,The policy is overpriced compared to competitors.
+CUST_1986,Romandie,32,2255.77,2,7,Unhappy with the claims resolution process.
+CUST_1987,Romandie,44,2123.56,5,4,Claims handling took too long.
+CUST_1988,Romandie,40,1266.1,2,2,Claims handling took too long.
+CUST_1989,Romandie,34,3013.17,6,5,The premiums are too expensive for what is offered.
+CUST_1990,Romandie,33,2167.21,3,3,The policy is overpriced compared to competitors.
+CUST_1991,Romandie,30,3308.53,2,3,Customer service was unresponsive.
+CUST_1992,Romandie,29,2756.21,6,9,The premiums are too expensive for what is offered.
+CUST_1993,Romandie,40,1944.67,5,3,The premiums are too expensive for what is offered.
+CUST_1994,Romandie,31,1979.94,7,10,Service is fine but could improve in some areas.
+CUST_1995,Romandie,40,2970.75,5,9,The premiums are too expensive for what is offered.
+CUST_1996,Romandie,42,2035.94,5,4,Unhappy with the claims resolution process.
+CUST_1997,Romandie,28,3232.0,6,5,Claims handling took too long.
+CUST_1998,Romandie,40,3044.83,5,7,The policy is overpriced compared to competitors.
+CUST_1999,Romandie,34,1250.45,7,8,Pricing is similar to other companies.
+CUST_2000,Romandie,41,1213.31,4,10,Claims handling took too long.
+CUST_2001,Romandie,31,1877.96,5,7,Claims handling took too long.
+CUST_2002,Romandie,32,2679.25,6,3,The policy is overpriced compared to competitors.
+CUST_2003,Romandie,33,2905.65,6,5,The premiums are too expensive for what is offered.
+CUST_2004,Romandie,39,2429.49,3,10,The policy is overpriced compared to competitors.
+CUST_2005,Romandie,34,1035.28,5,7,Claims handling took too long.
+CUST_2006,Romandie,36,2459.57,2,4,Unhappy with the claims resolution process.
+CUST_2007,Romandie,35,1685.64,7,5,Pricing is similar to other companies.
+CUST_2008,Romandie,38,1914.1,4,10,Customer service was unresponsive.
+CUST_2009,Romandie,30,1387.75,6,4,Claims handling took too long.
+CUST_2010,Romandie,31,1847.82,7,5,The policy is decent but not outstanding.
+CUST_2011,Romandie,40,1836.94,3,9,Unhappy with the claims resolution process.
+CUST_2012,Romandie,36,2820.71,3,5,The policy is overpriced compared to competitors.
+CUST_2013,Romandie,33,1522.29,3,6,Customer service was unresponsive.
+CUST_2014,Romandie,45,2298.96,2,6,Unhappy with the claims resolution process.
+CUST_2015,Romandie,28,2433.69,4,4,Claims handling took too long.
+CUST_2016,Romandie,29,3496.22,3,2,The policy is overpriced compared to competitors.
+CUST_2017,Romandie,34,3139.08,7,4,The policy is decent but not outstanding.
+CUST_2018,Romandie,32,3490.54,7,3,"Customer service was okay, nothing exceptional."
+CUST_2019,Romandie,30,2048.62,4,1,Customer service was unresponsive.
+CUST_2020,Romandie,41,2270.24,6,9,Unhappy with the claims resolution process.
+CUST_2021,Romandie,32,1342.39,4,6,Unhappy with the claims resolution process.
+CUST_2022,Romandie,39,1473.5,2,6,Claims handling took too long.
+CUST_2023,Romandie,38,2436.85,6,10,The premiums are too expensive for what is offered.
+CUST_2024,Romandie,33,1497.39,6,8,The policy is overpriced compared to competitors.
+CUST_2025,Romandie,33,2943.91,7,9,The policy is decent but not outstanding.
+CUST_2026,Romandie,35,1755.23,3,2,Unhappy with the claims resolution process.
+CUST_2027,Romandie,31,2661.91,5,3,Customer service was unresponsive.
+CUST_2028,Romandie,38,1813.27,5,7,The premiums are too expensive for what is offered.
+CUST_2029,Romandie,31,1922.44,6,8,Claims handling took too long.
+CUST_2030,Romandie,34,1520.4,2,8,Customer service was unresponsive.
+CUST_2031,Romandie,33,2452.32,4,5,The policy is overpriced compared to competitors.
+CUST_2032,Romandie,36,2903.57,2,1,The premiums are too expensive for what is offered.
+CUST_2033,Romandie,44,1954.56,7,3,The policy is decent but not outstanding.
+CUST_2034,Romandie,22,1661.59,3,1,The premiums are too expensive for what is offered.
+CUST_2035,Romandie,36,2825.67,5,10,The premiums are too expensive for what is offered.
+CUST_2036,Romandie,35,2214.0,7,9,Pricing is similar to other companies.
+CUST_2037,Romandie,38,2479.47,3,10,Unhappy with the claims resolution process.
+CUST_2038,Romandie,37,1488.98,6,7,Unhappy with the claims resolution process.
+CUST_2039,Romandie,35,1002.36,6,9,The premiums are too expensive for what is offered.
+CUST_2040,Romandie,29,2713.47,3,10,Customer service was unresponsive.
+CUST_2041,Romandie,42,2876.24,7,9,"Customer service was okay, nothing exceptional."
+CUST_2042,Romandie,41,3388.27,6,9,Customer service was unresponsive.
+CUST_2043,Romandie,40,3476.28,6,6,Claims handling took too long.
+CUST_2044,Romandie,37,1331.04,2,5,The premiums are too expensive for what is offered.
+CUST_2045,Romandie,36,1852.69,3,2,Claims handling took too long.
+CUST_2046,Romandie,37,2566.29,3,6,The policy is overpriced compared to competitors.
+CUST_2047,Romandie,48,3461.65,3,3,The policy is overpriced compared to competitors.
+CUST_2048,Romandie,39,3336.24,5,8,Unhappy with the claims resolution process.
+CUST_2049,Romandie,32,3471.33,4,10,Customer service was unresponsive.
+CUST_2050,Romandie,34,2180.56,6,7,The policy is overpriced compared to competitors.
+CUST_2051,Romandie,39,2366.45,4,7,The policy is overpriced compared to competitors.
+CUST_2052,Romandie,41,3210.37,2,1,Unhappy with the claims resolution process.
+CUST_2053,Romandie,32,2727.59,7,8,Service is fine but could improve in some areas.
+CUST_2054,Romandie,28,1277.65,0,1,Customer service was unresponsive.
+CUST_2055,Romandie,22,1987.04,3,9,The policy is overpriced compared to competitors.
+CUST_2056,Romandie,37,2709.68,5,5,Customer service was unresponsive.
+CUST_2057,Romandie,33,2624.07,3,8,The policy is overpriced compared to competitors.
+CUST_2058,Romandie,43,3158.35,2,3,The premiums are too expensive for what is offered.
+CUST_2059,Romandie,32,2755.43,5,7,The policy is overpriced compared to competitors.
+CUST_2060,Romandie,41,3113.91,5,6,Unhappy with the claims resolution process.
+CUST_2061,Romandie,28,2008.71,1,10,The policy is overpriced compared to competitors.
+CUST_2062,Romandie,35,1098.02,2,4,The premiums are too expensive for what is offered.
+CUST_2063,Romandie,29,2589.31,4,6,Claims handling took too long.
+CUST_2064,Romandie,37,1863.86,5,2,Claims handling took too long.
+CUST_2065,Romandie,40,2966.33,6,1,Unhappy with the claims resolution process.
+CUST_2066,Romandie,39,2201.3,2,10,Unhappy with the claims resolution process.
+CUST_2067,Romandie,36,2408.72,2,3,The policy is overpriced compared to competitors.
+CUST_2068,Romandie,33,1303.41,4,1,The policy is overpriced compared to competitors.
+CUST_2069,Romandie,33,3389.37,2,2,Customer service was unresponsive.
+CUST_2070,Romandie,24,2382.17,2,4,Customer service was unresponsive.
+CUST_2071,Romandie,28,2385.11,3,10,Customer service was unresponsive.
+CUST_2072,Romandie,34,2278.39,7,5,"Customer service was okay, nothing exceptional."
+CUST_2073,Romandie,35,2641.29,2,3,The premiums are too expensive for what is offered.
+CUST_2074,Romandie,35,2070.61,3,2,The policy is overpriced compared to competitors.
+CUST_2075,Romandie,24,1672.57,3,9,Claims handling took too long.
+CUST_2076,Romandie,34,1545.9,5,10,Unhappy with the claims resolution process.
+CUST_2077,Romandie,33,2016.12,2,8,Claims handling took too long.
+CUST_2078,Romandie,26,1460.11,2,8,Customer service was unresponsive.
+CUST_2079,Romandie,42,2903.76,5,1,The premiums are too expensive for what is offered.
+CUST_2080,Romandie,25,2100.92,3,1,The policy is overpriced compared to competitors.
+CUST_2081,Romandie,40,2845.72,5,4,Customer service was unresponsive.
+CUST_2082,Romandie,36,1798.0,4,5,Customer service was unresponsive.
+CUST_2083,Romandie,31,2248.69,7,2,Claims process was average.
+CUST_2084,Romandie,37,2612.5,7,10,The policy is decent but not outstanding.
+CUST_2085,Romandie,39,1237.41,7,3,Pricing is similar to other companies.
+CUST_2086,Romandie,32,3071.71,3,6,Claims handling took too long.
+CUST_2087,Romandie,33,2708.12,3,8,Unhappy with the claims resolution process.
+CUST_2088,Romandie,38,2518.1,5,6,Claims handling took too long.
+CUST_2089,Romandie,34,3190.65,4,1,The premiums are too expensive for what is offered.
+CUST_2090,Romandie,30,1414.37,3,1,The policy is overpriced compared to competitors.
+CUST_2091,Romandie,29,1598.01,0,4,Unhappy with the claims resolution process.
+CUST_2092,Romandie,38,1510.86,6,8,The policy is overpriced compared to competitors.
+CUST_2093,Romandie,33,2465.69,7,8,Service is fine but could improve in some areas.
+CUST_2094,Romandie,31,2946.32,6,7,Customer service was unresponsive.
+CUST_2095,Romandie,36,1847.55,6,8,The premiums are too expensive for what is offered.
+CUST_2096,Romandie,37,2207.01,6,2,The policy is overpriced compared to competitors.
+CUST_2097,Romandie,32,1973.01,2,5,Customer service was unresponsive.
+CUST_2098,Romandie,34,2038.01,3,7,The policy is overpriced compared to competitors.
+CUST_2099,Romandie,34,2808.64,6,10,Unhappy with the claims resolution process.
+CUST_2100,Romandie,31,2262.65,7,7,Pricing is similar to other companies.
+CUST_2101,Romandie,34,2852.98,7,5,Service is fine but could improve in some areas.
+CUST_2102,Romandie,42,2927.78,5,3,Customer service was unresponsive.
+CUST_2103,Romandie,29,1675.78,2,3,The premiums are too expensive for what is offered.
+CUST_2104,Romandie,37,3098.52,5,1,Claims handling took too long.
+CUST_2105,Romandie,44,2268.78,3,7,The premiums are too expensive for what is offered.
+CUST_2106,Romandie,25,1501.0,5,7,Claims handling took too long.
+CUST_2107,Romandie,44,2767.64,5,6,The policy is overpriced compared to competitors.
+CUST_2108,Romandie,30,2217.13,3,5,Customer service was unresponsive.
+CUST_2109,Romandie,20,2393.87,6,6,The premiums are too expensive for what is offered.
+CUST_2110,Romandie,36,1204.77,7,8,Service is fine but could improve in some areas.
+CUST_2111,Romandie,42,3132.53,6,6,The premiums are too expensive for what is offered.
+CUST_2112,Romandie,34,3107.4,5,7,Unhappy with the claims resolution process.
+CUST_2113,Romandie,37,1498.13,3,6,Unhappy with the claims resolution process.
+CUST_2114,Romandie,47,3214.64,4,2,Customer service was unresponsive.
+CUST_2115,Romandie,36,3355.74,2,3,Claims handling took too long.
+CUST_2116,Romandie,31,1927.48,2,4,The policy is overpriced compared to competitors.
+CUST_2117,Romandie,28,1862.89,5,1,Unhappy with the claims resolution process.
+CUST_2118,Romandie,36,1868.96,3,8,Customer service was unresponsive.
+CUST_2119,Romandie,28,1483.21,5,6,Customer service was unresponsive.
+CUST_2120,Romandie,31,1856.85,3,6,The premiums are too expensive for what is offered.
+CUST_2121,Romandie,39,2492.34,6,1,Customer service was unresponsive.
+CUST_2122,Romandie,40,1143.92,2,6,The premiums are too expensive for what is offered.
+CUST_2123,Romandie,42,2012.19,2,7,The policy is overpriced compared to competitors.
+CUST_2124,Romandie,38,1406.07,6,7,The premiums are too expensive for what is offered.
+CUST_2125,Romandie,24,1090.98,5,2,The policy is overpriced compared to competitors.
+CUST_2126,Romandie,38,2290.65,7,7,Service is fine but could improve in some areas.
+CUST_2127,Romandie,36,2198.56,3,3,The policy is overpriced compared to competitors.
+CUST_2128,Romandie,25,1609.36,2,3,Claims handling took too long.
+CUST_2129,Romandie,33,2558.1,5,5,The policy is overpriced compared to competitors.
+CUST_2130,Romandie,40,3145.04,2,2,Customer service was unresponsive.
+CUST_2131,Romandie,41,1917.76,2,5,Claims handling took too long.
+CUST_2132,Romandie,30,2029.91,6,6,The policy is overpriced compared to competitors.
+CUST_2133,Romandie,32,1332.14,6,1,Claims handling took too long.
+CUST_2134,Romandie,34,2501.83,6,5,The premiums are too expensive for what is offered.
+CUST_2135,Romandie,47,2358.79,2,9,Unhappy with the claims resolution process.
+CUST_2136,Romandie,32,3173.8,5,10,Customer service was unresponsive.
+CUST_2137,Romandie,44,2798.63,5,9,The policy is overpriced compared to competitors.
+CUST_2138,Romandie,43,2029.79,2,4,The policy is overpriced compared to competitors.
+CUST_2139,Romandie,37,2446.05,5,5,The premiums are too expensive for what is offered.
+CUST_2140,Romandie,36,1616.59,6,8,Customer service was unresponsive.
+CUST_2141,Romandie,35,3324.58,4,5,Unhappy with the claims resolution process.
+CUST_2142,Romandie,36,2374.3,5,8,Claims handling took too long.
+CUST_2143,Romandie,35,2684.15,7,8,"Customer service was okay, nothing exceptional."
+CUST_2144,Romandie,33,3273.05,2,2,Unhappy with the claims resolution process.
+CUST_2145,Romandie,29,1747.19,0,8,Customer service was unresponsive.
+CUST_2146,Romandie,37,1133.6,7,3,Service is fine but could improve in some areas.
+CUST_2147,Romandie,39,2866.54,3,10,Unhappy with the claims resolution process.
+CUST_2148,Romandie,39,1480.11,3,4,The policy is overpriced compared to competitors.
+CUST_2149,Romandie,31,1441.15,4,7,The premiums are too expensive for what is offered.
+CUST_2150,Romandie,37,2611.43,7,4,Service is fine but could improve in some areas.
+CUST_2151,Romandie,37,2049.48,6,6,Claims handling took too long.
+CUST_2152,Romandie,36,1210.15,5,9,Claims handling took too long.
+CUST_2153,Romandie,28,1302.14,2,10,Customer service was unresponsive.
+CUST_2154,Romandie,31,2861.44,4,10,The policy is overpriced compared to competitors.
+CUST_2155,Romandie,39,2083.0,5,6,Customer service was unresponsive.
+CUST_2156,Romandie,27,1521.44,2,10,Customer service was unresponsive.
+CUST_2157,Romandie,37,1366.95,5,10,Customer service was unresponsive.
+CUST_2158,Romandie,36,1591.36,6,4,The premiums are too expensive for what is offered.
+CUST_2159,Romandie,37,3152.03,4,5,Customer service was unresponsive.
+CUST_2160,Romandie,29,2907.78,6,2,Customer service was unresponsive.
+CUST_2161,Romandie,39,1912.17,6,7,The premiums are too expensive for what is offered.
+CUST_2162,Romandie,30,1105.79,2,10,The premiums are too expensive for what is offered.
+CUST_2163,Romandie,37,2431.8,2,5,Customer service was unresponsive.
+CUST_2164,Romandie,38,3016.98,5,4,The policy is overpriced compared to competitors.
+CUST_2165,Romandie,28,2823.71,7,1,"Customer service was okay, nothing exceptional."
+CUST_2166,Romandie,36,3220.64,2,8,Claims handling took too long.
+CUST_2167,Romandie,31,1672.26,6,5,The premiums are too expensive for what is offered.
+CUST_2168,Romandie,36,2236.96,2,5,The premiums are too expensive for what is offered.
+CUST_2169,Romandie,47,2423.31,5,7,The premiums are too expensive for what is offered.
+CUST_2170,Romandie,33,1779.33,3,3,The premiums are too expensive for what is offered.
+CUST_2171,Romandie,36,3254.78,7,8,"Customer service was okay, nothing exceptional."
+CUST_2172,Romandie,41,1804.63,3,10,Unhappy with the claims resolution process.
+CUST_2173,Romandie,27,2179.25,2,1,The policy is overpriced compared to competitors.
+CUST_2174,Romandie,37,2726.11,3,3,Customer service was unresponsive.
+CUST_2175,Romandie,33,1276.02,2,1,Claims handling took too long.
+CUST_2176,Romandie,29,2418.31,4,8,Unhappy with the claims resolution process.
+CUST_2177,Romandie,28,2190.83,5,4,The premiums are too expensive for what is offered.
+CUST_2178,Romandie,34,2354.77,3,10,Customer service was unresponsive.
+CUST_2179,Romandie,40,2621.79,3,10,Claims handling took too long.
+CUST_2180,Romandie,36,2379.31,3,9,Claims handling took too long.
+CUST_2181,Romandie,35,1040.58,3,10,Unhappy with the claims resolution process.
+CUST_2182,Romandie,43,2726.76,5,8,The premiums are too expensive for what is offered.
+CUST_2183,Romandie,51,1412.76,2,2,Claims handling took too long.
+CUST_2184,Romandie,30,2805.74,6,4,The policy is overpriced compared to competitors.
+CUST_2185,Romandie,29,2833.61,4,3,The premiums are too expensive for what is offered.
+CUST_2186,Romandie,34,1808.11,2,1,The premiums are too expensive for what is offered.
+CUST_2187,Romandie,29,2219.09,4,9,The policy is overpriced compared to competitors.
+CUST_2188,Romandie,39,1897.77,6,6,The policy is overpriced compared to competitors.
+CUST_2189,Romandie,37,1867.1,7,2,Service is fine but could improve in some areas.
+CUST_2190,Romandie,31,3378.99,6,4,The premiums are too expensive for what is offered.
+CUST_2191,Romandie,45,3181.13,6,7,Unhappy with the claims resolution process.
+CUST_2192,Romandie,37,2263.27,3,8,Customer service was unresponsive.
+CUST_2193,Romandie,47,2925.76,4,4,The premiums are too expensive for what is offered.
+CUST_2194,Romandie,39,1801.44,2,6,Claims handling took too long.
+CUST_2195,Romandie,39,3277.08,4,5,Claims handling took too long.
+CUST_2196,Romandie,34,2855.82,2,8,Claims handling took too long.
+CUST_2197,Romandie,31,3475.14,3,2,Unhappy with the claims resolution process.
+CUST_2198,Romandie,28,2318.48,3,8,Unhappy with the claims resolution process.
+CUST_2199,Romandie,31,2972.71,5,7,Claims handling took too long.
+CUST_2200,Romandie,35,1394.8,7,1,Pricing is similar to other companies.
+CUST_2201,Romandie,38,1247.77,2,2,Unhappy with the claims resolution process.
+CUST_2202,Romandie,32,1745.16,4,9,The premiums are too expensive for what is offered.
+CUST_2203,Romandie,33,2317.85,7,9,"Customer service was okay, nothing exceptional."
+CUST_2204,Romandie,34,1709.66,2,9,Claims handling took too long.
+CUST_2205,Romandie,26,3085.18,1,5,Unhappy with the claims resolution process.
+CUST_2206,Romandie,39,2534.27,5,4,Customer service was unresponsive.
+CUST_2207,Romandie,36,1876.14,5,2,The premiums are too expensive for what is offered.
+CUST_2208,Romandie,31,3073.66,3,4,The policy is overpriced compared to competitors.
+CUST_2209,Romandie,29,3304.65,3,9,The premiums are too expensive for what is offered.
+CUST_2210,Romandie,34,1212.9,2,4,The premiums are too expensive for what is offered.
+CUST_2211,Romandie,43,3355.68,6,2,The premiums are too expensive for what is offered.
+CUST_2212,Romandie,38,2950.83,7,1,"Customer service was okay, nothing exceptional."
+CUST_2213,Romandie,36,2845.95,6,5,The premiums are too expensive for what is offered.
+CUST_2214,Romandie,38,1040.83,2,7,Customer service was unresponsive.
+CUST_2215,Romandie,36,2435.03,2,9,The policy is overpriced compared to competitors.
+CUST_2216,Romandie,32,1736.63,5,5,Customer service was unresponsive.
+CUST_2217,Romandie,31,2948.11,2,1,Unhappy with the claims resolution process.
+CUST_2218,Romandie,32,3381.29,7,10,The policy is decent but not outstanding.
+CUST_2219,Romandie,29,1523.26,6,7,Unhappy with the claims resolution process.
+CUST_2220,Romandie,28,2646.74,6,8,The premiums are too expensive for what is offered.
+CUST_2221,Romandie,27,3357.21,3,2,The premiums are too expensive for what is offered.
+CUST_2222,Romandie,31,2149.38,6,5,Claims handling took too long.
+CUST_2223,Romandie,29,1019.15,7,5,Claims process was average.
+CUST_2224,Romandie,38,2390.18,2,1,Customer service was unresponsive.
+CUST_2225,Romandie,35,2791.09,6,5,Customer service was unresponsive.
+CUST_2226,Romandie,38,1270.51,3,2,The premiums are too expensive for what is offered.
+CUST_2227,Romandie,32,3284.31,3,7,Customer service was unresponsive.
+CUST_2228,Romandie,39,3194.41,5,8,Claims handling took too long.
+CUST_2229,Romandie,38,1443.91,6,4,Claims handling took too long.
+CUST_2230,Romandie,40,2816.94,2,3,The policy is overpriced compared to competitors.
+CUST_2231,Romandie,40,1662.91,3,1,Unhappy with the claims resolution process.
+CUST_2232,Romandie,46,1806.03,6,3,Claims handling took too long.
+CUST_2233,Romandie,44,1193.31,6,6,Customer service was unresponsive.
+CUST_2234,Romandie,35,1558.82,4,6,Claims handling took too long.
+CUST_2235,Romandie,34,2007.79,3,8,The policy is overpriced compared to competitors.
+CUST_2236,Romandie,35,1165.02,6,6,The premiums are too expensive for what is offered.
+CUST_2237,Romandie,40,1841.85,7,6,The policy is decent but not outstanding.
+CUST_2238,Romandie,35,1952.83,2,4,The premiums are too expensive for what is offered.
+CUST_2239,Romandie,36,2450.5,6,5,The premiums are too expensive for what is offered.
+CUST_2240,Romandie,34,2585.59,6,8,The premiums are too expensive for what is offered.
+CUST_2241,Romandie,36,3467.18,5,7,Customer service was unresponsive.
+CUST_2242,Romandie,25,1584.93,2,10,The premiums are too expensive for what is offered.
+CUST_2243,Romandie,28,1176.03,1,8,The policy is overpriced compared to competitors.
+CUST_2244,Romandie,28,1594.65,6,7,Claims handling took too long.
+CUST_2245,Romandie,35,3471.33,2,7,The premiums are too expensive for what is offered.
+CUST_2246,Romandie,30,1530.73,4,2,The premiums are too expensive for what is offered.
+CUST_2247,Romandie,25,1427.78,5,3,Customer service was unresponsive.
+CUST_2248,Romandie,35,1319.8,5,6,The policy is overpriced compared to competitors.
+CUST_2249,Romandie,43,2503.06,7,1,Pricing is similar to other companies.
+CUST_2250,Romandie,26,2229.71,4,7,The premiums are too expensive for what is offered.
+CUST_2251,Romandie,36,3194.11,7,10,Pricing is similar to other companies.
+CUST_2252,Romandie,35,1109.09,4,6,Unhappy with the claims resolution process.
+CUST_2253,Romandie,31,3317.53,3,10,Claims handling took too long.
+CUST_2254,Romandie,36,2686.43,2,7,The policy is overpriced compared to competitors.
+CUST_2255,Romandie,32,2763.43,6,1,The premiums are too expensive for what is offered.
+CUST_2256,Romandie,26,2141.78,4,2,The premiums are too expensive for what is offered.
+CUST_2257,Romandie,41,3494.43,5,9,Customer service was unresponsive.
+CUST_2258,Romandie,30,1033.43,7,8,Pricing is similar to other companies.
+CUST_2259,Romandie,40,1906.57,3,3,The premiums are too expensive for what is offered.
+CUST_2260,Romandie,27,2314.41,4,5,Claims handling took too long.
+CUST_2261,Romandie,38,1502.49,5,9,The policy is overpriced compared to competitors.
+CUST_2262,Romandie,29,1968.93,5,1,Unhappy with the claims resolution process.
+CUST_2263,Romandie,38,2211.97,6,1,The premiums are too expensive for what is offered.
+CUST_2264,Romandie,41,2871.51,3,8,Customer service was unresponsive.
+CUST_2265,Romandie,30,1336.45,3,1,Customer service was unresponsive.
+CUST_2266,Romandie,34,2638.5,5,9,Claims handling took too long.
+CUST_2267,Romandie,35,3273.71,4,10,Unhappy with the claims resolution process.
+CUST_2268,Romandie,31,2185.02,2,7,Customer service was unresponsive.
+CUST_2269,Romandie,35,3298.13,5,4,Customer service was unresponsive.
+CUST_2270,Romandie,32,1675.01,4,6,Customer service was unresponsive.
+CUST_2271,Romandie,44,2784.38,2,9,Customer service was unresponsive.
+CUST_2272,Romandie,26,1280.75,3,3,Claims handling took too long.
+CUST_2273,Romandie,37,2979.54,5,2,The premiums are too expensive for what is offered.
+CUST_2274,Romandie,37,3172.43,7,5,The policy is decent but not outstanding.
+CUST_2275,Romandie,33,2401.31,2,3,Customer service was unresponsive.
+CUST_2276,Romandie,37,2572.29,6,8,Claims handling took too long.
+CUST_2277,Romandie,29,2224.57,1,3,Unhappy with the claims resolution process.
+CUST_2278,Romandie,35,1045.4,7,5,Pricing is similar to other companies.
+CUST_2279,Romandie,33,3137.24,2,3,Unhappy with the claims resolution process.
+CUST_2280,Romandie,30,3149.19,3,1,Claims handling took too long.
+CUST_2281,Romandie,31,1690.15,7,9,Claims process was average.
+CUST_2282,Romandie,28,3315.31,5,6,Claims handling took too long.
+CUST_2283,Romandie,29,2352.76,4,9,The policy is overpriced compared to competitors.
+CUST_2284,Romandie,26,1283.31,5,4,The premiums are too expensive for what is offered.
+CUST_2285,Romandie,37,1258.53,2,2,Unhappy with the claims resolution process.
+CUST_2286,Romandie,30,2127.14,3,5,Customer service was unresponsive.
+CUST_2287,Romandie,40,1645.19,3,9,Unhappy with the claims resolution process.
+CUST_2288,Romandie,34,3424.09,4,1,Claims handling took too long.
+CUST_2289,Romandie,42,2970.07,4,10,The premiums are too expensive for what is offered.
+CUST_2290,Romandie,43,3144.92,7,5,"Customer service was okay, nothing exceptional."
+CUST_2291,Romandie,39,2809.57,6,7,Customer service was unresponsive.
+CUST_2292,Romandie,29,1837.49,4,5,The policy is overpriced compared to competitors.
+CUST_2293,Romandie,30,1998.93,3,8,The policy is overpriced compared to competitors.
+CUST_2294,Romandie,45,2005.75,5,7,Unhappy with the claims resolution process.
+CUST_2295,Romandie,32,2043.09,5,5,Unhappy with the claims resolution process.
+CUST_2296,Romandie,35,1812.15,7,7,Pricing is similar to other companies.
+CUST_2297,Romandie,34,2957.63,4,10,The premiums are too expensive for what is offered.
+CUST_2298,Romandie,42,2783.2,7,1,Claims process was average.
+CUST_2299,Romandie,34,3180.15,3,4,Customer service was unresponsive.
+CUST_2300,Romandie,31,1147.04,4,2,Claims handling took too long.
+CUST_2301,Romandie,35,2592.59,6,4,Customer service was unresponsive.
+CUST_2302,Romandie,32,2616.79,6,4,Customer service was unresponsive.
+CUST_2303,Romandie,34,3055.74,2,3,The premiums are too expensive for what is offered.
+CUST_2304,Romandie,29,1912.44,4,7,Claims handling took too long.
+CUST_2305,Romandie,31,2857.31,7,8,Pricing is similar to other companies.
+CUST_2306,Romandie,36,1930.83,5,5,The policy is overpriced compared to competitors.
+CUST_2307,Romandie,47,2221.97,7,9,Pricing is similar to other companies.
+CUST_2308,Romandie,31,1451.3,6,6,The premiums are too expensive for what is offered.
+CUST_2309,Romandie,36,2375.34,3,6,Claims handling took too long.
+CUST_2310,Romandie,41,2610.15,4,5,Claims handling took too long.
+CUST_2311,Romandie,29,2679.06,2,7,Unhappy with the claims resolution process.
+CUST_2312,Romandie,41,1386.05,3,5,The premiums are too expensive for what is offered.
+CUST_2313,Romandie,30,1726.29,5,1,The policy is overpriced compared to competitors.
+CUST_2314,Romandie,36,2769.27,5,10,The policy is overpriced compared to competitors.
+CUST_2315,Romandie,38,1511.7,7,2,Pricing is similar to other companies.
+CUST_2316,Romandie,38,1623.97,7,7,"Customer service was okay, nothing exceptional."
+CUST_2317,Romandie,30,2803.41,4,3,Claims handling took too long.
+CUST_2318,Romandie,34,2237.19,7,1,The policy is decent but not outstanding.
+CUST_2319,Romandie,41,3059.09,7,7,"Customer service was okay, nothing exceptional."
+CUST_2320,Romandie,25,2043.71,3,3,The policy is overpriced compared to competitors.
+CUST_2321,Romandie,35,1663.57,2,3,Customer service was unresponsive.
+CUST_2322,Romandie,27,1033.53,7,7,Service is fine but could improve in some areas.
+CUST_2323,Romandie,37,1012.83,4,5,Claims handling took too long.
+CUST_2324,Romandie,28,2917.49,5,1,Claims handling took too long.
+CUST_2325,Romandie,34,2260.46,7,4,Service is fine but could improve in some areas.
+CUST_2326,Romandie,37,1885.06,2,3,The premiums are too expensive for what is offered.
+CUST_2327,Romandie,33,2489.04,4,4,The policy is overpriced compared to competitors.
+CUST_2328,Romandie,35,1806.76,6,8,Unhappy with the claims resolution process.
+CUST_2329,Romandie,33,1829.27,7,10,Pricing is similar to other companies.
+CUST_2330,Romandie,32,1284.59,2,10,The premiums are too expensive for what is offered.
+CUST_2331,Romandie,35,1654.9,3,5,The premiums are too expensive for what is offered.
+CUST_2332,Romandie,41,2347.95,2,4,Claims handling took too long.
+CUST_2333,Romandie,34,1720.81,5,1,The policy is overpriced compared to competitors.
+CUST_2334,Romandie,33,2776.35,5,6,Unhappy with the claims resolution process.
+CUST_2335,Romandie,47,2700.5,7,3,"Customer service was okay, nothing exceptional."
+CUST_2336,Romandie,41,3259.7,4,2,Claims handling took too long.
+CUST_2337,Romandie,33,3134.58,4,9,The premiums are too expensive for what is offered.
+CUST_2338,Romandie,31,3344.35,6,7,Customer service was unresponsive.
+CUST_2339,Romandie,43,1521.57,4,4,The policy is overpriced compared to competitors.
+CUST_2340,Romandie,37,1677.81,6,10,Customer service was unresponsive.
+CUST_2341,Romandie,36,2268.5,6,10,Customer service was unresponsive.
+CUST_2342,Romandie,31,2200.21,3,9,Customer service was unresponsive.
+CUST_2343,Romandie,36,2785.38,6,9,The premiums are too expensive for what is offered.
+CUST_2344,Romandie,33,2253.76,7,6,Service is fine but could improve in some areas.
+CUST_2345,Romandie,25,2593.51,1,10,The policy is overpriced compared to competitors.
+CUST_2346,Romandie,34,3343.45,4,10,The policy is overpriced compared to competitors.
+CUST_2347,Romandie,39,3228.72,6,6,Customer service was unresponsive.
+CUST_2348,Romandie,34,2705.79,7,7,Pricing is similar to other companies.
+CUST_2349,Romandie,28,3139.53,5,3,Claims handling took too long.
+CUST_2350,Romandie,39,1298.49,6,4,Claims handling took too long.
+CUST_2351,Romandie,37,1985.11,6,1,Unhappy with the claims resolution process.
+CUST_2352,Romandie,45,1823.42,5,2,The premiums are too expensive for what is offered.
+CUST_2353,Romandie,31,3417.85,7,3,The policy is decent but not outstanding.
+CUST_2354,Romandie,35,2369.93,6,6,The premiums are too expensive for what is offered.
+CUST_2355,Romandie,35,1071.55,7,9,Claims process was average.
+CUST_2356,Romandie,37,2913.59,3,3,Claims handling took too long.
+CUST_2357,Romandie,34,1109.46,2,9,The premiums are too expensive for what is offered.
+CUST_2358,Romandie,30,3002.44,7,1,The policy is decent but not outstanding.
+CUST_2359,Romandie,44,1620.28,3,10,Unhappy with the claims resolution process.
+CUST_2360,Romandie,28,1660.45,2,10,The policy is overpriced compared to competitors.
+CUST_2361,Romandie,29,3304.73,6,1,Unhappy with the claims resolution process.
+CUST_2362,Romandie,28,1471.15,6,1,Customer service was unresponsive.
+CUST_2363,Romandie,31,3109.8,2,10,Unhappy with the claims resolution process.
+CUST_2364,Romandie,27,2448.24,2,1,Claims handling took too long.
+CUST_2365,Romandie,37,2587.52,3,4,The policy is overpriced compared to competitors.
+CUST_2366,Romandie,35,1902.65,4,3,Customer service was unresponsive.
+CUST_2367,Romandie,36,3132.98,2,9,Claims handling took too long.
+CUST_2368,Romandie,25,2581.02,6,5,The policy is overpriced compared to competitors.
+CUST_2369,Romandie,43,2885.32,4,4,Customer service was unresponsive.
+CUST_2370,Romandie,42,3425.5,2,5,The policy is overpriced compared to competitors.
+CUST_2371,Romandie,36,1205.95,2,4,Unhappy with the claims resolution process.
+CUST_2372,Romandie,32,3183.83,5,3,The premiums are too expensive for what is offered.
+CUST_2373,Romandie,30,2746.19,4,8,Claims handling took too long.
+CUST_2374,Romandie,28,1301.07,2,2,The premiums are too expensive for what is offered.
+CUST_2375,Romandie,37,1818.33,7,2,Service is fine but could improve in some areas.
+CUST_2376,Romandie,43,2701.18,5,7,Unhappy with the claims resolution process.
+CUST_2377,Romandie,33,2582.09,4,8,Claims handling took too long.
+CUST_2378,Romandie,33,1216.22,6,9,The premiums are too expensive for what is offered.
+CUST_2379,Romandie,32,2432.1,5,8,Customer service was unresponsive.
+CUST_2380,Romandie,37,3056.0,2,10,The policy is overpriced compared to competitors.
+CUST_2381,Romandie,33,1965.85,7,5,Claims process was average.
+CUST_2382,Romandie,34,2605.47,3,5,Claims handling took too long.
+CUST_2383,Romandie,33,3421.73,5,10,Customer service was unresponsive.
+CUST_2384,Romandie,27,3495.66,2,9,Customer service was unresponsive.
+CUST_2385,Romandie,36,1819.98,6,1,Unhappy with the claims resolution process.
+CUST_2386,Romandie,33,2663.5,4,2,Unhappy with the claims resolution process.
+CUST_2387,Romandie,40,3190.23,5,1,Unhappy with the claims resolution process.
+CUST_2388,Romandie,35,2397.71,6,5,The policy is overpriced compared to competitors.
+CUST_2389,Romandie,32,1127.5,5,2,Unhappy with the claims resolution process.
+CUST_2390,Romandie,40,2807.7,4,1,Claims handling took too long.
+CUST_2391,Romandie,40,2830.03,3,7,Customer service was unresponsive.
+CUST_2392,Romandie,36,2386.72,7,9,Claims process was average.
+CUST_2393,Romandie,39,3208.94,7,6,Service is fine but could improve in some areas.
+CUST_2394,Romandie,29,1154.79,3,3,The premiums are too expensive for what is offered.
+CUST_2395,Romandie,20,1844.49,6,5,The premiums are too expensive for what is offered.
+CUST_2396,Romandie,34,2604.7,5,7,The policy is overpriced compared to competitors.
+CUST_2397,Romandie,26,3179.08,2,2,Claims handling took too long.
+CUST_2398,Romandie,32,2574.85,5,10,The premiums are too expensive for what is offered.
+CUST_2399,Romandie,39,3188.85,6,2,Claims handling took too long.
+CUST_2400,Romandie,34,2393.89,3,4,Claims handling took too long.
+CUST_2401,Romandie,38,2140.91,4,10,Unhappy with the claims resolution process.
+CUST_2402,Romandie,35,1462.9,7,1,Service is fine but could improve in some areas.
+CUST_2403,Romandie,27,2942.51,5,8,The premiums are too expensive for what is offered.
+CUST_2404,Romandie,42,3045.09,3,9,Unhappy with the claims resolution process.
+CUST_2405,Romandie,32,2096.06,3,10,Claims handling took too long.
+CUST_2406,Romandie,35,1766.17,3,5,Customer service was unresponsive.
+CUST_2407,Romandie,38,2572.21,7,1,Service is fine but could improve in some areas.
+CUST_2408,Romandie,39,1317.07,3,1,Unhappy with the claims resolution process.
+CUST_2409,Romandie,31,1412.52,6,4,The premiums are too expensive for what is offered.
+CUST_2410,Romandie,25,1116.28,3,9,The premiums are too expensive for what is offered.
+CUST_2411,Romandie,37,3287.2,4,5,Unhappy with the claims resolution process.
+CUST_2412,Romandie,37,3430.21,7,1,Pricing is similar to other companies.
+CUST_2413,Romandie,33,3401.92,3,8,The premiums are too expensive for what is offered.
+CUST_2414,Romandie,34,3126.87,4,2,Customer service was unresponsive.
+CUST_2415,Romandie,37,2188.33,3,8,Claims handling took too long.
+CUST_2416,Romandie,30,1357.95,3,1,The policy is overpriced compared to competitors.
+CUST_2417,Romandie,36,3012.36,4,5,Claims handling took too long.
+CUST_2418,Romandie,29,2020.74,2,5,The policy is overpriced compared to competitors.
+CUST_2419,Romandie,38,1120.88,4,8,Claims handling took too long.
+CUST_2420,Romandie,32,2024.25,6,4,Customer service was unresponsive.
+CUST_2421,Romandie,40,1725.15,2,10,Claims handling took too long.
+CUST_2422,Romandie,29,1545.04,4,7,The policy is overpriced compared to competitors.
+CUST_2423,Romandie,32,2389.7,6,2,The policy is overpriced compared to competitors.
+CUST_2424,Romandie,31,2968.68,4,4,Claims handling took too long.
+CUST_2425,Romandie,32,1651.48,6,4,The premiums are too expensive for what is offered.
+CUST_2426,Romandie,41,2099.02,3,7,The premiums are too expensive for what is offered.
+CUST_2427,Romandie,38,1054.06,2,3,The policy is overpriced compared to competitors.
+CUST_2428,Romandie,38,2020.64,7,5,The policy is decent but not outstanding.
+CUST_2429,Romandie,29,1207.68,5,2,Customer service was unresponsive.
+CUST_2430,Romandie,39,2679.29,2,2,Unhappy with the claims resolution process.
+CUST_2431,Romandie,34,3381.91,6,4,The policy is overpriced compared to competitors.
+CUST_2432,Romandie,35,1333.19,6,1,Claims handling took too long.
+CUST_2433,Romandie,32,2124.5,6,10,The policy is overpriced compared to competitors.
+CUST_2434,Romandie,37,2367.5,7,7,The policy is decent but not outstanding.
+CUST_2435,Romandie,26,2140.11,3,1,Claims handling took too long.
+CUST_2436,Romandie,32,3152.33,3,8,The premiums are too expensive for what is offered.
+CUST_2437,Romandie,41,2376.63,6,6,The premiums are too expensive for what is offered.
+CUST_2438,Romandie,37,3431.48,4,10,The policy is overpriced compared to competitors.
+CUST_2439,Romandie,35,2536.01,6,1,The premiums are too expensive for what is offered.
+CUST_2440,Romandie,27,1297.57,1,9,Customer service was unresponsive.
+CUST_2441,Romandie,34,3196.47,2,6,The policy is overpriced compared to competitors.
+CUST_2442,Romandie,39,1871.53,7,6,"Customer service was okay, nothing exceptional."
